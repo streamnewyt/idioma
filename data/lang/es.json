@@ -193,5 +193,9 @@
     "faultNameLabel": "Nombre",
     "faultTypeLabel": "Tipo",
     "faultSlipTypeLabel": "Tipo de Deslizamiento",
-    "aboutDescPrivacy": "Lee nuestra <a href=\"https://www.streamnew.net/p/politica-de-privacidad-streamnew.html\" target=\"_blank\">Política de Privacidad</a> para entender cómo manejamos los datos."
+    "aboutDescPrivacy": "Lee nuestra <a href=\"https://www.streamnew.net/p/politica-de-privacidad-streamnew.html\" target=\"_blank\">Política de Privacidad</a> para entender cómo manejamos los datos.",
+    "alertsEnabled": "🔔 ¡Alertas sísmicas activadas con éxito!",
+    "alertsDisabled": "🔕 Alertas sísmicas desactivadas.",
+    "alertsError": "⚠️ Error al actualizar las alertas."
+
 }
