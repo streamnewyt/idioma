@@ -194,4 +194,7 @@
     "faultSlipTypeLabel": "すべりの種類",
     "aboutHeaderPrivacy": "プライバシー",
     "aboutDescPrivacy": "データの取り扱いについては、<a href=\"https://www.streamnew.net/p/privacy-policy-for-streamnew-monitor-app.html\" target=\"_blank\">プライバシーポリシー</a>をお読みください。"
+    "alertsEnabled": "🔔 地震アラートが正常に有効になりました！",
+    "alertsDisabled": "🔕 地震アラートが無効になりました。",
+    "alertsError": "⚠️ アラートの更新中にエラーが発生しました。"
 }
