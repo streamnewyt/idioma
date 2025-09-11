@@ -193,10 +193,11 @@
     "faultNameLabel": "Nama",
     "faultTypeLabel": "Jenis",
     "faultSlipTypeLabel": "Jenis Sesar",
-    "aboutDescPrivacy": "Baca <a href=\"https://www.streamnew.net/p/kebijakan-privasi-untuk-streamnew.html\" target=\"_blank\">Kebijakan Privasi</a> kami untuk memahami bagaimana kami menangani data.",{
+    "aboutDescPrivacy": "Baca <a href=\"https://www.streamnew.net/p/kebijakan-privasi-untuk-streamnew.html\" target=\"_blank\">Kebijakan Privasi</a> kami untuk memahami bagaimana kami menangani data.",
     "alertsEnabled": "🔔 Peringatan seismik berhasil diaktifkan!",
     "alertsDisabled": "🔕 Peringatan seismik dinonaktifkan.",
     "alertsError": "⚠️ Kesalahan memperbarui peringatan."
 }
+
 
 
