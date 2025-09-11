@@ -1,123 +1,219 @@
 {
-        // --- SECÇÃO DE SISMOS ---
-        sismoFormationTitle: "Como Acontecem os Sismos? O Motor das Placas Tectónicas",
-        sismoFormationTypes: [
-            { 
-                title: "O Que Causa um Terremoto?", 
-                content: "A superfície da Terra não é uma peça única. É um quebra-cabeças gigante formado por enormes blocos de rocha chamados <b>placas tectónicas</b>, que flutuam sobre o manto semi-líquido do planeta. Elas estão em constante movimento, mas de forma muito lenta (poucos centímetros por ano). Um sismo é a vibração sentida quando a energia acumulada por este movimento é libertada de forma súbita." 
-            },
-            { 
-                title: "Sismos de Colisão (Limites Convergentes)", 
-                content: "Ocorre quando duas placas se empurram uma contra a outra. Geralmente, uma placa mais densa (oceânica) mergulha sob uma menos densa (continental), num processo chamado <b>subducção</b>. A placa que mergulha não desliza suavemente; ela fica presa, acumulando uma tensão imensa. Quando a tensão vence a fricção, a placa desliza de forma abrupta, libertando uma quantidade colossal de energia. É aqui que ocorrem os <b>sismos mais fortes do mundo</b>, como os do Chile e do Japão, que podem gerar tsunamis." 
-            },
-            { 
-                title: "Sismos de Separação (Limites Divergentes)", 
-                content: "Acontece quando duas placas se afastam uma da outra. Este movimento cria fendas na crosta, permitindo que o magma suba do manto e crie um novo solo oceânico. Este processo é acompanhado por sismos, mas geralmente são <b>menos intensos e mais superficiais</b>. A maioria ocorre no meio dos oceanos, em cadeias montanhosas submarinas chamadas dorsais meso-oceânicas." 
-            },
-            { 
-                title: "Sismos de Deslizamento (Limites Transformantes)", 
-                content: "Ocorre quando duas placas deslizam horizontalmente uma ao lado da outra. As bordas das placas não são lisas, então elas ficam presas pela fricção. A tensão acumula-se ao longo de anos ou décadas até que, subitamente, as rochas partem-se e as placas deslizam bruscamente. O exemplo mais famoso é a <b>Falha de Santo André</b>, na Califórnia, que marca o limite entre a Placa do Pacífico e a Placa Norte-Americana."
-            }
-        ],
-        magnitudeTitle: "Entendendo a Magnitude (M)",
-        magnitudeIntro: "A Magnitude de Momento (Mw) mede a energia total liberada no foco de um sismo. A escala é logarítmica: um aumento de 1.0 ponto (ex: de M6 para M7) representa uma amplitude de movimento 10 vezes maior e a libertação de <strong>~32 vezes mais energia</strong>.",
-        magnitudeTable: `
-            <table class="glossary-table">
-                <thead><tr><th>Magnitude</th><th>Classificação</th><th>Sensação e Impacto Típico</th></tr></thead>
-                <tbody>
-                    <tr><td>2.0 - 2.9</td><td>Micro</td><td>Não sentido por humanos. Apenas detectado por sismógrafos.</td></tr>
-                    <tr><td>3.0 - 3.9</td><td>Pequeno</td><td>Sentido por algumas pessoas em repouso. Vibrações semelhantes à passagem de um caminhão.</td></tr>
-                    <tr><td>4.0 - 4.9</td><td>Leve</td><td>Sentido pela maioria. Janelas e pratos chacoalham. Carros balançam.</td></tr>
-                    <tr><td>5.0 - 5.9</td><td>Moderado</td><td>Sentido por todos. Objetos caem das prateleiras. Gesso pode rachar.</td></tr>
-                    <tr><td>6.0 - 6.9</td><td>Forte</td><td>Difícil de se manter em pé. Danos significativos em edifícios mal construídos.</td></tr>
-                    <tr><td>7.0 - 7.9</td><td>Grande</td><td>Danos graves em vastas áreas. A maioria dos edifícios sofre danos ou colapsa.</td></tr>
-                    <tr><td>8.0 - 8.9</td><td>Extremo</td><td>Destruição quase total. Cidades arrasadas. Grandes fendas no solo.</td></tr>
-                    <tr><td>9.0+</td><td>Catastrófico</td><td>Devastação em larga escala, alterando permanentemente a geografia. Gera tsunamis que cruzam oceanos.</td></tr>
-                </tbody>
-            </table>`,
-        colorsTitle: "Padrão de Cores no App",
-        colorsIntro: "As cores ajudam a identificar rapidamente a intensidade dos sismos:",
-        colorsTable: `
-            <table class="glossary-table">
-                <tbody>
-                    <tr><td><span class="color-swatch" style="background-color: #08e108;"></span>Verde</td><td>Magnitude abaixo de 4.0 (Leve).</td></tr>
-                    <tr><td><span class="color-swatch" style="background-color: yellow;"></span>Amarelo</td><td>Magnitude entre 4.0 e 4.9 (Leve a Moderado).</td></tr>
-                    <tr><td><span class="color-swatch" style="background-color: orange;"></span>Laranja</td><td>Magnitude entre 5.0 e 5.9 (Moderado a Forte).</td></tr>
-                    <tr><td><span class="color-swatch" style="background-color: #ff0000;"></span>Vermelho</td><td>Magnitude 6.0 ou superior (Forte a Extremo).</td></tr>
-                </tbody>
-            </table>`,
-        termsTitle: "Termos Fundamentais sobre Sismos",
-        termMercalli: "<h5>Intensidade (Escala Mercalli) vs. Magnitude</h5><p><strong>Magnitude</strong> (ex: 7.2 Mw) mede a energia libertada no foco, é um número único. <strong>Intensidade</strong> (ex: Grau IX) mede os <strong>efeitos</strong> do tremor num local específico (danos, percepção das pessoas) e diminui com a distância do epicentro.</p>",
-        termDepth: "<h5>Profundidade</h5><p>Indica a que distância abaixo da superfície o sismo se originou (hipocentro). Sismos <strong>superficiais (0-70 km)</strong> são geralmente mais perigosos, pois a energia das ondas sísmicas tem menos distância a percorrer até a superfície, chegando com mais força.</p>",
-        termEpicenter: "<h5>Epicentro vs. Hipocentro</h5><p>O <strong>Hipocentro</strong> (ou foco) é o ponto exato da fratura rochosa no interior da Terra onde o sismo começa. O <strong>Epicentro</strong> é o ponto na superfície diretamente acima do hipocentro, sendo geralmente o local onde o tremor é sentido com maior intensidade.</p>",
-        termWaves: "<h5>Ondas Sísmicas (P e S)</h5><p>As <strong>Ondas P (Primárias)</strong> são longitudinais e mais rápidas, sendo as primeiras a serem detectadas. As <strong>Ondas S (Secundárias)</strong> são transversais, mais lentas e causam o movimento de 'chacoalhar', sendo as principais responsáveis pela destruição.</p>",
-        termLiquefaction: "<h5>Liquefação do Solo</h5><p>Fenômeno perigoso onde solos arenosos e saturados de água perdem sua firmeza e se comportam como um líquido devido ao tremor intenso. Isso faz com que edifícios e outras estruturas possam afundar, inclinar ou colapsar.</p>",
-        termAftershock: "<h5>Réplicas (Aftershocks)</h5><p>São sismos menores que ocorrem na mesma área após um sismo principal. São causados pelo reajuste da falha geológica que se rompeu e podem continuar por dias, semanas ou até meses, representando um risco adicional para estruturas já danificadas.</p>",
-        historicalSismosTitle: "🌍 Grandes Sismos da História",
-        historicalSismos: [
-            { title: "Valdivia, Chile (1960) - Magnitude 9.5", content: "O sismo mais forte já registrado instrumentalmente. Causou destruição generalizada no Chile e gerou um tsunami que atravessou o Oceano Pacífico, atingindo Havaí, Japão e Filipinas, demonstrando o alcance planetário desses eventos." },
-            { title: "Sumatra, Indonésia (2004) - Magnitude 9.1", content: "Este mega-sismo no fundo do oceano desencadeou um dos tsunamis mais mortais da história, que atingiu 14 países e causou mais de 230.000 mortes. O evento destacou a necessidade de sistemas de alerta de tsunami eficientes no Oceano Índico." },
-            { title: "Tohoku, Japão (2011) - Magnitude 9.0", content: "Além do tremor intenso, gerou um tsunami com ondas de até 40 metros que devastou a costa nordeste do Japão. O evento ficou mundialmente conhecido por causar o acidente nuclear de Fukushima, mostrando como os riscos sísmicos podem se desdobrar em múltiplas catástrofes." }
-        ],
-        associatedRisksTitle: "Riscos Associados aos Sismos",
-        associatedRisks: [
-            { title: "Tsunamis", content: "Grandes sismos que ocorrem no fundo do mar podem deslocar enormes volumes de água, gerando ondas gigantescas que viajam a altas velocidades. Ao chegarem à costa, essas ondas podem inundar e destruir áreas costeiras a milhares de quilômetros de distância do epicentro." },
-            { title: "Deslizamentos de Terra", content: "O tremor do solo pode desestabilizar encostas íngremes de morros e montanhas, provocando deslizamentos de terra, rochas e detritos. Em áreas urbanas, isso representa um risco severo para comunidades construídas em terrenos instáveis." },
-            { title: "Incêndios", content: "Os tremores podem romper gasodutos e danificar fiações elétricas, causando vazamentos de gás e curtos-circuitos. Esses incidentes frequentemente resultam em incêndios que podem se espalhar rapidamente por áreas urbanas, especialmente se as redes de água também forem danificadas, dificultando o trabalho dos bombeiros." }
-        ],
-
-        // --- SECÇÃO DE VULCÕES ---
-        volcanoSectionTitle: "🌋 Glossário Vulcânico",
-        volcanoTypesTitle: "Principais Tipos de Vulcões",
-        volcanoTypes: [
-            { title: "Vulcão-escudo", content: "Largo e com lados suaves, formado por lava muito fluida que escorre por grandes distâncias. Suas erupções não costumam ser explosivas. Exemplo: Kīlauea, no Havaí." },
-            { title: "Estratovulcão (Composto)", content: "Vulcão alto e cónico, construído por camadas de lava viscosa, cinzas e rochas. A lava rica em sílica pode prender gases, levando a erupções extremamente explosivas. Exemplos: Monte Fuji, Vesúvio, Krakatoa e Monte Santa Helena." },
-            { title: "Supervulcão", content: "Gigante geológico capaz de erupções que alteram o clima global. Não forma um cone, mas sim uma enorme caldeira, como a de Yellowstone. Uma erupção pode ejetar mais de 1.000 km³ de material." },
-            { title: "Vulcão de Cúpula (Domo de Lava)", content: "Formado por lava muito viscosa que se acumula na cratera, criando um domo. O colapso do domo pode gerar nuvens piroclásticas perigosas e súbitas." },
-            { title: "Vulcão de Fissura", content: "O magma emerge através de longas fendas na crosta, em vez de uma cratera central. Pode liberar vastos campos de lava e gases que impactam o clima, como a erupção do Laki na Islândia em 1783." },
-            { title: "Vulcão Submarino", content: "A maioria dos vulcões da Terra está submersa. Erupções podem criar novas ilhas, como Surtsey, ou gerar tsunamis e ondas de choque globais, como o Hunga Tonga-Hunga Haʻapai em 2022." },
-            { title: "Vulcão de Lama", content: "Formado pela extrusão de lama, água salgada e gases como o metano, que sobem por fraturas na crosta. Não tem origem magmática, mas sim na pressão de fluidos presos em camadas de argila. Milhares estão mapeados em regiões como o Azerbaijão e o Mar Cáspio." }
-        ],
-        eruptionTypesTitle: "Principais Tipos de Erupção",
-        eruptionTypes: [
-            { title: "Havaiana (Efusiva)", content: "Fluxo constante de lava fluida, com baixo teor de gás, que escorre pelas encostas sem grandes explosões. Típica de vulcões-escudo." },
-            { title: "Pliniana (Explosiva)", content: "A forma mais extrema. Lança colunas de cinzas e gás a mais de 30 km na estratosfera, podendo impactar o clima global. Exemplos: Vesúvio (79 d.C.) e Krakatoa (1883)." },
-            { title: "Estromboliana", content: "Caracterizada por explosões moderadas e rítmicas que lançam jatos de material incandescente (bombas de lava) no ar. Exemplo: Stromboli, na Itália." },
-            { title: "Vulcaniana", content: "Erupção curta, mas agressiva. A lava viscosa bloqueia o conduto, e a pressão acumulada gera uma liberação súbita de fragmentos de rocha, vapor e cinzas. A coluna eruptiva pode atingir vários quilômetros." },
-            { title: "Freática", content: "Uma explosão de vapor que ocorre quando a água subterrânea é superaquecida por rochas ou magma, sem que o magma em si chegue à superfície. Pode acontecer com poucos avisos." },
-            { title: "Freatomagmática", content: "Ocorre em águas rasas ou no subsolo, quando o magma interage violentamente com a água, produzindo jatos explosivos de cinzas, vapor e lava fragmentada. É mais perigosa que a freática por envolver magma." },
-            { title: "Surtseyana", content: "Ocorre em águas rasas, quando o magma interage violentamente com a água, produzindo jatos explosivos de cinzas e vapor. Pode construir novas ilhas, como Surtsey na Islândia." },
-            { title: "Subglacial", content: "Ocorre sob geleiras. O magma derrete o gelo, podendo causar inundações massivas (jökulhlaups) e explosões de vapor. Exemplo: Eyjafjallajökull, 2010." },
-            { title: "Lateral", content: "Acontece quando o magma escapa por uma fissura na lateral da montanha, em vez do cume. Pode ser extremamente destrutiva, como na erupção do Monte Santa Helena em 1980, que explodiu sua própria encosta." },
-            { title: "Pluvial (Lahars)", content: "Não é uma erupção de lava, mas uma consequência perigosa. Chuvas fortes se misturam com as cinzas depositadas nas encostas, formando uma lama densa e pesada que desce em alta velocidade, podendo destruir vilarejos inteiros mesmo dias ou semanas após a atividade vulcânica." },
-            { title: "Limnogênica", content: "Fenômeno raro e letal que ocorre em lagos de áreas vulcânicas. Gases como dióxido de carbono ficam presos no fundo do lago e, quando liberados subitamente, sobem como uma bolha gigante e se espalham pelas encostas, sufocando pessoas e animais sem cor ou cheiro." }
-        ],
-        volcanoTermsTitle: "Riscos e Termos Vulcânicos",
-        volcanoTerms: [
-            { title: "Nuvem Piroclástica", content: "Uma mistura letal de gás superaquecido, cinzas e fragmentos de rocha que desce pelas encostas a velocidades que podem superar 300 km/h. É um dos fenômenos mais destrutivos e inescapáveis de uma erupção explosiva." },
-            { title: "Lahar (Fluxo de Lama)", content: "Não é uma erupção direta, mas uma consequência perigosa. Chuvas fortes podem misturar as cinzas depositadas nas encostas, criando um fluxo de lama denso e rápido que destrói tudo em seu caminho, mesmo semanas após a erupção." },
-            { title: "Viscosidade (e Sílica)", content: "É a resistência da lava ao fluxo. Lavas com baixa sílica (basálticas) são fluidas e geram erupções calmas (efusivas). Lavas ricas em sílica são viscosas (espessas), prendem gases e causam erupções violentas (explosivas)." },
-            { title: "Caldeira", content: "Uma grande depressão formada quando um vulcão colapsa sobre si mesmo após uma erupção massiva esvaziar sua câmara magmática. Supervulcões, como Yellowstone, são identificados por suas imensas caldeiras." },
-            { title: "Índice de Explosividade Vulcânica (VEI)", content: "Uma escala de 0 a 8 que mede a intensidade de uma erupção com base no volume de material ejetado e na altura da coluna de cinzas. Erupções plinianas e ultraplinianas estão no topo desta escala." },
-            { title: "Fios de Cabelo de Pelé", content: "São finíssimos fios de vidro vulcânico, formados quando pequenas partículas de lava basáltica muito fluida são esticadas pelo vento durante erupções efusivas, como as do Havaí. Embora fascinantes, são cortantes e perigosos se inalados ou em contato com a pele. O nome é uma homenagem a Pelé, a deusa havaiana dos vulcões." }
-        ],
-        historicalEruptionsTitle: "Grandes Erupções da História",
-        historicalEruptions: [
-          { title: "Monte Tambora (1815) - O Ano Sem Verão", content: "A erupção na Indonésia foi tão massiva que lançou cinzas e gases na estratosfera, bloqueando a luz solar. O impacto foi global: 1816 ficou conhecido como o 'Ano Sem Verão', causando quebras de safra e fome até na Europa." },
-          { title: "Krakatoa (1883) - A Explosão Ouvida no Mundo", content: "A explosão do Krakatoa, na Indonésia, foi tão potente que o som foi ouvido a mais de 4.800 km de distância e a onda de choque deu quatro voltas ao redor do planeta. Gerou tsunamis devastadores e mudou a cor do pôr do sol por semanas em todo o mundo." },
-          { title: "Monte Santa Helena (1980) - A Explosão Lateral", content: "Diferente da maioria, a erupção deste vulcão nos EUA ocorreu na sua lateral. A encosta da montanha cedeu e explodiu, criando uma cratera de mais de dois quilômetros e uma nuvem de cinzas que cruzou o país, cobrindo uma área de 600 mil km²." }
-        ],
-        volcanoMonitoringTitle: "Como os Vulcões são Monitorados",
-        volcanoMonitoring: [
-            { title: "Análise de Sismos", content: "Pequenos tremores e vibrações repetidas podem indicar que o magma está se movendo sob o solo. Sismógrafos são instalados para registrar qualquer aumento incomum na atividade sísmica, que pode preceder uma erupção." },
-            { title: "Medição de Gases", content: "O aumento na emissão de gases como dióxido de enxofre (SO₂) e dióxido de carbono (CO₂) pode significar que o magma está subindo. Essas medições são feitas por sensores no local ou por drones." },
-            { title: "Deformação do Solo", content: "Quando o magma se acumula, o solo acima pode inchar milímetros ou centímetros. Aparelhos de GPS de alta precisão e inclinômetros medem essas pequenas deformações, que servem como um importante sinal de alerta." },
-            { title: "Vigilância por Satélite", content: "Satélites usam sensores infravermelhos para detectar mudanças de temperatura na superfície, indicando pontos quentes. Eles também monitoram nuvens de cinzas e gases, ajudando a prever seu impacto em áreas distantes e no tráfego aéreo." }
-        ],
-        volcanoBenefitsTitle: "Os Benefícios dos Vulcões",
-        volcanoBenefits: [
-            { title: "Criação de Solo Fértil", content: "Quando a lava e as cinzas se decompõem ao longo do tempo, liberam nutrientes como nitrogênio, fósforo e potássio. Isso cria solos extremamente férteis, ideais para a agricultura, como visto nos vinhedos ao redor do Etna e nas plantações de café no Havaí." },
-            { title: "Formação de Novas Terras", content: "Muitas ilhas, como as do Havaí e Galápagos, foram inteiramente formadas por erupções submarinas. Essa nova terra, isolada pelo oceano, permite que espécies de animais e plantas evoluam de maneira única, criando ecossistemas exclusivos." },
-            { title: "Fontes Termais e Energia", content: "O calor subterrâneo gerado pela atividade vulcânica aquece a água, que sobe à superfície na forma de fontes termais. Além do potencial medicinal e turístico, esse calor pode ser aproveitado para gerar energia geotérmica." }
-        ]
+  "sismoFormationTitle": "Como Acontecem os Sismos? O Motor das Placas Tectónicas",
+  "sismoFormationTypes": [
+    {
+      "title": "O Que Causa um Terremoto?",
+      "content": "A superfície da Terra não é uma peça única. É um quebra-cabeças gigante formado por enormes blocos de rocha chamados <b>placas tectónicas</b>, que flutuam sobre o manto semi-líquido do planeta. Elas estão em constante movimento, mas de forma muito lenta (poucos centímetros por ano). Um sismo é a vibração sentida quando a energia acumulada por este movimento é libertada de forma súbita."
+    },
+    {
+      "title": "Sismos de Colisão (Limites Convergentes)",
+      "content": "Ocorre quando duas placas se empurram uma contra a outra. Geralmente, uma placa mais densa (oceânica) mergulha sob uma menos densa (continental), num processo chamado <b>subducção</b>. A placa que mergulha não desliza suavemente; ela fica presa, acumulando uma tensão imensa. Quando a tensão vence a fricção, a placa desliza de forma abrupta, libertando uma quantidade colossal de energia. É aqui que ocorrem os <b>sismos mais fortes do mundo</b>, como os do Chile e do Japão, que podem gerar tsunamis."
+    },
+    {
+      "title": "Sismos de Separação (Limites Divergentes)",
+      "content": "Acontece quando duas placas se afastam uma da outra. Este movimento cria fendas na crosta, permitindo que o magma suba do manto e crie um novo solo oceânico. Este processo é acompanhado por sismos, mas geralmente são <b>menos intensos e mais superficiais</b>. A maioria ocorre no meio dos oceanos, em cadeias montanhosas submarinas chamadas dorsais meso-oceânicas."
+    },
+    {
+      "title": "Sismos de Deslizamento (Limites Transformantes)",
+      "content": "Ocorre quando duas placas deslizam horizontalmente uma ao lado da outra. As bordas das placas não são lisas, então elas ficam presas pela fricção. A tensão acumula-se ao longo de anos ou décadas até que, subitamente, as rochas partem-se e as placas deslizam bruscamente. O exemplo mais famoso é a <b>Falha de Santo André</b>, na Califórnia, que marca o limite entre a Placa do Pacífico e a Placa Norte-Americana."
     }
+  ],
+  "magnitudeTitle": "Entendendo a Magnitude (M)",
+  "magnitudeIntro": "A Magnitude de Momento (Mw) mede a energia total liberada no foco de um sismo. A escala é logarítmica: um aumento de 1.0 ponto (ex: de M6 para M7) representa uma amplitude de movimento 10 vezes maior e a libertação de <strong>~32 vezes mais energia</strong>.",
+  "magnitudeTable": "<table class=\"glossary-table\"><thead><tr><th>Magnitude</th><th>Classificação</th><th>Sensação e Impacto Típico</th></tr></thead><tbody><tr><td>2.0 - 2.9</td><td>Micro</td><td>Não sentido por humanos. Apenas detectado por sismógrafos.</td></tr><tr><td>3.0 - 3.9</td><td>Pequeno</td><td>Sentido por algumas pessoas em repouso. Vibrações semelhantes à passagem de um caminhão.</td></tr><tr><td>4.0 - 4.9</td><td>Leve</td><td>Sentido pela maioria. Janelas e pratos chacoalham. Carros balançam.</td></tr><tr><td>5.0 - 5.9</td><td>Moderado</td><td>Sentido por todos. Objetos caem das prateleiras. Gesso pode rachar.</td></tr><tr><td>6.0 - 6.9</td><td>Forte</td><td>Difícil de se manter em pé. Danos significativos em edifícios mal construídos.</td></tr><tr><td>7.0 - 7.9</td><td>Grande</td><td>Danos graves em vastas áreas. A maioria dos edifícios sofre danos ou colapsa.</td></tr><tr><td>8.0 - 8.9</td><td>Extremo</td><td>Destruição quase total. Cidades arrasadas. Grandes fendas no solo.</td></tr><tr><td>9.0+</td><td>Catastrófico</td><td>Devastação em larga escala, alterando permanentemente a geografia. Gera tsunamis que cruzam oceanos.</td></tr></tbody></table>",
+  "colorsTitle": "Padrão de Cores no App",
+  "colorsIntro": "As cores ajudam a identificar rapidamente a intensidade dos sismos:",
+  "colorsTable": "<table class=\"glossary-table\"><tbody><tr><td><span class=\"color-swatch\" style=\"background-color: #08e108;\"></span>Verde</td><td>Magnitude abaixo de 4.0 (Leve).</td></tr><tr><td><span class=\"color-swatch\" style=\"background-color: yellow;\"></span>Amarelo</td><td>Magnitude entre 4.0 e 4.9 (Leve a Moderado).</td></tr><tr><td><span class=\"color-swatch\" style=\"background-color: orange;\"></span>Laranja</td><td>Magnitude entre 5.0 e 5.9 (Moderado a Forte).</td></tr><tr><td><span class=\"color-swatch\" style=\"background-color: #ff0000;\"></span>Vermelho</td><td>Magnitude 6.0 ou superior (Forte a Extremo).</td></tr></tbody></table>",
+  "termsTitle": "Termos Fundamentais sobre Sismos",
+  "termMercalli": "<h5>Intensidade (Escala Mercalli) vs. Magnitude</h5><p><strong>Magnitude</strong> (ex: 7.2 Mw) mede a energia libertada no foco, é um número único. <strong>Intensidade</strong> (ex: Grau IX) mede os <strong>efeitos</strong> do tremor num local específico (danos, percepção das pessoas) e diminui com a distância do epicentro.</p>",
+  "termDepth": "<h5>Profundidade</h5><p>Indica a que distância abaixo da superfície o sismo se originou (hipocentro). Sismos <strong>superficiais (0-70 km)</strong> são geralmente mais perigosos, pois a energia das ondas sísmicas tem menos distância a percorrer até a superfície, chegando com mais força.</p>",
+  "termEpicenter": "<h5>Epicentro vs. Hipocentro</h5><p>O <strong>Hipocentro</strong> (ou foco) é o ponto exato da fratura rochosa no interior da Terra onde o sismo começa. O <strong>Epicentro</strong> é o ponto na superfície diretamente acima do hipocentro, sendo geralmente o local onde o tremor é sentido com maior intensidade.</p>",
+  "termWaves": "<h5>Ondas Sísmicas (P e S)</h5><p>As <strong>Ondas P (Primárias)</strong> são longitudinais e mais rápidas, sendo as primeiras a serem detectadas. As <strong>Ondas S (Secundárias)</strong> são transversais, mais lentas e causam o movimento de 'chacoalhar', sendo as principais responsáveis pela destruição.</p>",
+  "termLiquefaction": "<h5>Liquefação do Solo</h5><p>Fenômeno perigoso onde solos arenosos e saturados de água perdem sua firmeza e se comportam como um líquido devido ao tremor intenso. Isso faz com que edifícios e outras estruturas possam afundar, inclinar ou colapsar.</p>",
+  "termAftershock": "<h5>Réplicas (Aftershocks)</h5><p>São sismos menores que ocorrem na mesma área após um sismo principal. São causados pelo reajuste da falha geológica que se rompeu e podem continuar por dias, semanas ou até meses, representando um risco adicional para estruturas já danificadas.</p>",
+  "historicalSismosTitle": "🌍 Grandes Sismos da História",
+  "historicalSismos": [
+    {
+      "title": "Valdivia, Chile (1960) - Magnitude 9.5",
+      "content": "O sismo mais forte já registrado instrumentalmente. Causou destruição generalizada no Chile e gerou um tsunami que atravessou o Oceano Pacífico, atingindo Havaí, Japão e Filipinas, demonstrando o alcance planetário desses eventos."
+    },
+    {
+      "title": "Sumatra, Indonésia (2004) - Magnitude 9.1",
+      "content": "Este mega-sismo no fundo do oceano desencadeou um dos tsunamis mais mortais da história, que atingiu 14 países e causou mais de 230.000 mortes. O evento destacou a necessidade de sistemas de alerta de tsunami eficientes no Oceano Índico."
+    },
+    {
+      "title": "Tohoku, Japão (2011) - Magnitude 9.0",
+      "content": "Além do tremor intenso, gerou um tsunami com ondas de até 40 metros que devastou a costa nordeste do Japão. O evento ficou mundialmente conhecido por causar o acidente nuclear de Fukushima, mostrando como os riscos sísmicos podem se desdobrar em múltiplas catástrofes."
+    }
+  ],
+  "associatedRisksTitle": "Riscos Associados aos Sismos",
+  "associatedRisks": [
+    {
+      "title": "Tsunamis",
+      "content": "Grandes sismos que ocorrem no fundo do mar podem deslocar enormes volumes de água, gerando ondas gigantescas que viajam a altas velocidades. Ao chegarem à costa, essas ondas podem inundar e destruir áreas costeiras a milhares de quilômetros de distância do epicentro."
+    },
+    {
+      "title": "Deslizamentos de Terra",
+      "content": "O tremor do solo pode desestabilizar encostas íngremes de morros e montanhas, provocando deslizamentos de terra, rochas e detritos. Em áreas urbanas, isso representa um risco severo para comunidades construídas em terrenos instáveis."
+    },
+    {
+      "title": "Incêndios",
+      "content": "Os tremores podem romper gasodutos e danificar fiações elétricas, causando vazamentos de gás e curtos-circuitos. Esses incidentes frequentemente resultam em incêndios que podem se espalhar rapidamente por áreas urbanas, especialmente se as redes de água também forem danificadas, dificultando o trabalho dos bombeiros."
+    }
+  ],
+  "volcanoSectionTitle": "🌋 Glossário Vulcânico",
+  "volcanoTypesTitle": "Principais Tipos de Vulcões",
+  "volcanoTypes": [
+    {
+      "title": "Vulcão-escudo",
+      "content": "Largo e com lados suaves, formado por lava muito fluida que escorre por grandes distâncias. Suas erupções não costumam ser explosivas. Exemplo: Kīlauea, no Havaí."
+    },
+    {
+      "title": "Estratovulcão (Composto)",
+      "content": "Vulcão alto e cónico, construído por camadas de lava viscosa, cinzas e rochas. A lava rica em sílica pode prender gases, levando a erupções extremamente explosivas. Exemplos: Monte Fuji, Vesúvio, Krakatoa e Monte Santa Helena."
+    },
+    {
+      "title": "Supervulcão",
+      "content": "Gigante geológico capaz de erupções que alteram o clima global. Não forma um cone, mas sim uma enorme caldeira, como a de Yellowstone. Uma erupção pode ejetar mais de 1.000 km³ de material."
+    },
+    {
+      "title": "Vulcão de Cúpula (Domo de Lava)",
+      "content": "Formado por lava muito viscosa que se acumula na cratera, criando um domo. O colapso do domo pode gerar nuvens piroclásticas perigosas e súbitas."
+    },
+    {
+      "title": "Vulcão de Fissura",
+      "content": "O magma emerge através de longas fendas na crosta, em vez de uma cratera central. Pode liberar vastos campos de lava e gases que impactam o clima, como a erupção do Laki na Islândia em 1783."
+    },
+    {
+      "title": "Vulcão Submarino",
+      "content": "A maioria dos vulcões da Terra está submersa. Erupções podem criar novas ilhas, como Surtsey, ou gerar tsunamis e ondas de choque globais, como o Hunga Tonga-Hunga Haʻapai em 2022."
+    },
+    {
+      "title": "Vulcão de Lama",
+      "content": "Formado pela extrusão de lama, água salgada e gases como o metano, que sobem por fraturas na crosta. Não tem origem magmática, mas sim na pressão de fluidos presos em camadas de argila. Milhares estão mapeados em regiões como o Azerbaijão e o Mar Cáspio."
+    }
+  ],
+  "eruptionTypesTitle": "Principais Tipos de Erupção",
+  "eruptionTypes": [
+    {
+      "title": "Havaiana (Efusiva)",
+      "content": "Fluxo constante de lava fluida, com baixo teor de gás, que escorre pelas encostas sem grandes explosões. Típica de vulcões-escudo."
+    },
+    {
+      "title": "Pliniana (Explosiva)",
+      "content": "A forma mais extrema. Lança colunas de cinzas e gás a mais de 30 km na estratosfera, podendo impactar o clima global. Exemplos: Vesúvio (79 d.C.) e Krakatoa (1883)."
+    },
+    {
+      "title": "Estromboliana",
+      "content": "Caracterizada por explosões moderadas e rítmicas que lançam jatos de material incandescente (bombas de lava) no ar. Exemplo: Stromboli, na Itália."
+    },
+    {
+      "title": "Vulcaniana",
+      "content": "Erupção curta, mas agressiva. A lava viscosa bloqueia o conduto, e a pressão acumulada gera uma liberação súbita de fragmentos de rocha, vapor e cinzas. A coluna eruptiva pode atingir vários quilômetros."
+    },
+    {
+      "title": "Freática",
+      "content": "Uma explosão de vapor que ocorre quando a água subterrânea é superaquecida por rochas ou magma, sem que o magma em si chegue à superfície. Pode acontecer com poucos avisos."
+    },
+    {
+      "title": "Freatomagmática",
+      "content": "Ocorre em águas rasas ou no subsolo, quando o magma interage violentamente com a água, produzindo jatos explosivos de cinzas, vapor e lava fragmentada. É mais perigosa que a freática por envolver magma."
+    },
+    {
+      "title": "Surtseyana",
+      "content": "Ocorre em águas rasas, quando o magma interage violentamente com a água, produzindo jatos explosivos de cinzas e vapor. Pode construir novas ilhas, como Surtsey na Islândia."
+    },
+    {
+      "title": "Subglacial",
+      "content": "Ocorre sob geleiras. O magma derrete o gelo, podendo causar inundações massivas (jökulhlaups) e explosões de vapor. Exemplo: Eyjafjallajökull, 2010."
+    },
+    {
+      "title": "Lateral",
+      "content": "Acontece quando o magma escapa por uma fissura na lateral da montanha, em vez do cume. Pode ser extremamente destrutiva, como na erupção do Monte Santa Helena em 1980, que explodiu sua própria encosta."
+    },
+    {
+      "title": "Pluvial (Lahars)",
+      "content": "Não é uma erupção de lava, mas uma consequência perigosa. Chuvas fortes se misturam com as cinzas depositadas nas encostas, formando uma lama densa e pesada que desce em alta velocidade, podendo destruir vilarejos inteiros mesmo dias ou semanas após a atividade vulcânica."
+    },
+    {
+      "title": "Limnogênica",
+      "content": "Fenômeno raro e letal que ocorre em lagos de áreas vulcânicas. Gases como dióxido de carbono ficam presos no fundo do lago e, quando liberados subitamente, sobem como uma bolha gigante e se espalham pelas encostas, sufocando pessoas e animais sem cor ou cheiro."
+    }
+  ],
+  "volcanoTermsTitle": "Riscos e Termos Vulcânicos",
+  "volcanoTerms": [
+    {
+      "title": "Nuvem Piroclástica",
+      "content": "Uma mistura letal de gás superaquecido, cinzas e fragmentos de rocha que desce pelas encostas a velocidades que podem superar 300 km/h. É um dos fenômenos mais destrutivos e inescapáveis de uma erupção explosiva."
+    },
+    {
+      "title": "Lahar (Fluxo de Lama)",
+      "content": "Não é uma erupção direta, mas uma consequência perigosa. Chuvas fortes podem misturar as cinzas depositadas nas encostas, criando um fluxo de lama denso e rápido que destrói tudo em seu caminho, mesmo semanas após a erupção."
+    },
+    {
+      "title": "Viscosidade (e Sílica)",
+      "content": "É a resistência da lava ao fluxo. Lavas com baixa sílica (basálticas) são fluidas e geram erupções calmas (efusivas). Lavas ricas em sílica são viscosas (espessas), prendem gases e causam erupções violentas (explosivas)."
+    },
+    {
+      "title": "Caldeira",
+      "content": "Uma grande depressão formada quando um vulcão colapsa sobre si mesmo após uma erupção massiva esvaziar sua câmara magmática. Supervulcões, como Yellowstone, são identificados por suas imensas caldeiras."
+    },
+    {
+      "title": "Índice de Explosividade Vulcânica (VEI)",
+      "content": "Uma escala de 0 a 8 que mede a intensidade de uma erupção com base no volume de material ejetado e na altura da coluna de cinzas. Erupções plinianas e ultraplinianas estão no topo desta escala."
+    },
+    {
+      "title": "Fios de Cabelo de Pelé",
+      "content": "São finíssimos fios de vidro vulcânico, formados quando pequenas partículas de lava basáltica muito fluida são esticadas pelo vento durante erupções efusivas, como as do Havaí. Embora fascinantes, são cortantes e perigosos se inalados ou em contato com a pele. O nome é uma homenagem a Pelé, a deusa havaiana dos vulcões."
+    }
+  ],
+  "historicalEruptionsTitle": "Grandes Erupções da História",
+  "historicalEruptions": [
+    {
+      "title": "Monte Tambora (1815) - O Ano Sem Verão",
+      "content": "A erupção na Indonésia foi tão massiva que lançou cinzas e gases na estratosfera, bloqueando a luz solar. O impacto foi global: 1816 ficou conhecido como o 'Ano Sem Verão', causando quebras de safra e fome até na Europa."
+    },
+    {
+      "title": "Krakatoa (1883) - A Explosão Ouvida no Mundo",
+      "content": "A explosão do Krakatoa, na Indonésia, foi tão potente que o som foi ouvido a mais de 4.800 km de distância e a onda de choque deu quatro voltas ao redor do planeta. Gerou tsunamis devastadores e mudou a cor do pôr do sol por semanas em todo o mundo."
+    },
+    {
+      "title": "Monte Santa Helena (1980) - A Explosão Lateral",
+      "content": "Diferente da maioria, a erupção deste vulcão nos EUA ocorreu na sua lateral. A encosta da montanha cedeu e explodiu, criando uma cratera de mais de dois quilômetros e uma nuvem de cinzas que cruzou o país, cobrindo uma área de 600 mil km²."
+    }
+  ],
+  "volcanoMonitoringTitle": "Como os Vulcões são Monitorados",
+  "volcanoMonitoring": [
+    {
+      "title": "Análise de Sismos",
+      "content": "Pequenos tremores e vibrações repetidas podem indicar que o magma está se movendo sob o solo. Sismógrafos são instalados para registrar qualquer aumento incomum na atividade sísmica, que pode preceder uma erupção."
+    },
+    {
+      "title": "Medição de Gases",
+      "content": "O aumento na emissão de gases como dióxido de enxofre (SO₂) e dióxido de carbono (CO₂) pode significar que o magma está subindo. Essas medições são feitas por sensores no local ou por drones."
+    },
+    {
+      "title": "Deformação do Solo",
+      "content": "Quando o magma se acumula, o solo acima pode inchar milímetros ou centímetros. Aparelhos de GPS de alta precisão e inclinômetros medem essas pequenas deformações, que servem como um importante sinal de alerta."
+    },
+    {
+      "title": "Vigilância por Satélite",
+      "content": "Satélites usam sensores infravermelhos para detectar mudanças de temperatura na superfície, indicando pontos quentes. Eles também monitoram nuvens de cinzas e gases, ajudando a prever seu impacto em áreas distantes e no tráfego aéreo."
+    }
+  ],
+  "volcanoBenefitsTitle": "Os Benefícios dos Vulcões",
+  "volcanoBenefits": [
+    {
+      "title": "Criação de Solo Fértil",
+      "content": "Quando a lava e as cinzas se decompõem ao longo do tempo, liberam nutrientes como nitrogênio, fósforo e potássio. Isso cria solos extremamente férteis, ideais para a agricultura, como visto nos vinhedos ao redor do Etna e nas plantações de café no Havaí."
+    },
+    {
+      "title": "Formação de Novas Terras",
+      "content": "Muitas ilhas, como as do Havaí e Galápagos, foram inteiramente formadas por erupções submarinas. Essa nova terra, isolada pelo oceano, permite que espécies de animais e plantas evoluam de maneira única, criando ecossistemas exclusivos."
+    },
+    {
+      "title": "Fontes Termais e Energia",
+      "content": "O calor subterrâneo gerado pela atividade vulcânica aquece a água, que sobe à superfície na forma de fontes termais. Além do potencial medicinal e turístico, esse calor pode ser aproveitado para gerar energia geotérmica."
+    }
+  ]
+}
