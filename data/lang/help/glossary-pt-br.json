@@ -26,7 +26,7 @@
     "colorsTable": "<table class=\"glossary-table\"><tbody><tr><td><span class=\"color-swatch\" style=\"background-color: #08e108;\"></span>Verde</td><td>Magnitude abaixo de 4.0 (Leve).</td></tr><tr><td><span class=\"color-swatch\" style=\"background-color: yellow;\"></span>Amarelo</td><td>Magnitude entre 4.0 e 4.9 (Leve a Moderado).</td></tr><tr><td><span class=\"color-swatch\" style=\"background-color: orange;\"></span>Laranja</td><td>Magnitude entre 5.0 e 5.9 (Moderado a Forte).</td></tr><tr><td><span class=\"color-swatch\" style=\"background-color: #ff0000;\"></span>Vermelho</td><td>Magnitude 6.0 ou superior (Forte a Extremo).</td></tr></tbody></table>",
     "termsTitle": "Termos Fundamentais sobre Sismos",
     "termMercalli": "<h5>Intensidade (Escala Mercalli) vs. Magnitude</h5><p><strong>Magnitude</strong> (ex: 7.2 Mw) mede a energia libertada no foco, é um número único. <strong>Intensidade</strong> (ex: Grau IX) mede os <strong>efeitos</strong> do tremor num local específico (danos, percepção das pessoas) e diminui com a distância do epicentro.</p>",
-    "termDepth": "<h5>Profundidade</h5><p>Indica a que distância abaixo da superfície o sismo se originou (hipocentro). Sismos <strong>superficiais (0-70 km)</strong> são geralmente mais perigosos, pois a energia das ondas sísmicas tem menos distância a percorrer até a superfície, chegando com mais força.</p>",
+    "termDepth": "<h5>Profundidade</h5><p>Indica a que distância abaixo da superfície o sismo se originou (hipocentro). Sismos <strong>superficiais (0-70 km)</strong> são geralmente mais perigosos, pois a energia das ondas sísmicas has menos distância a percorrer até a superfície, chegando com mais força.</p>",
     "termEpicenter": "<h5>Epicentro vs. Hipocentro</h5><p>O <strong>Hipocentro</strong> (ou foco) é o ponto exato da fratura rochosa no interior da Terra onde o sismo começa. O <strong>Epicentro</strong> é o ponto na superfície diretamente acima do hipocentro, sendo geralmente o local onde o tremor é sentido com maior intensidade.</p>",
     "termWaves": "<h5>Ondas Sísmicas (P e S)</h5><p>As <strong>Ondas P (Primárias)</strong> são longitudinais e mais rápidas, sendo as primeiras a serem detectadas. As <strong>Ondas S (Secundárias)</strong> são transversais, mais lentas e causam o movimento de 'chacoalhar', sendo as principais responsáveis pela destruição.</p>",
     "termLiquefaction": "<h5>Liquefação do Solo</h5><p>Fenômeno perigoso onde solos arenosos e saturados de água perdem sua firmeza e se comportam como um líquido devido ao tremor intenso. Isso faz com que edifícios e outras estruturas possam afundar, inclinar ou colapsar.</p>",
@@ -58,7 +58,7 @@
         },
         {
             "title": "Incêndios",
-            "content": "Os tremores podem romper gasodutos e danificar fiações elétricas, causando vazamentos de gás e curtos-circuitos. Esses incidentes frequentemente resultam em incêndios que podem se espalhar rapidamente por áreas urbanas, especialmente se as redes de água também forem danificadas, dificultando o trabalho dos bombeiros."
+            "content": "Os tremores podem romper gasodutos danificar fiações elétricas, causando vazamentos de gás e curtos-circuitos. Esses incidentes frequentemente resultam in incêndios que podem se espalhar rapidamente por áreas urbanas, especialmente se as redes de água também forem danificadas, dificultando o trabalho dos bombeiros."
         }
     ],
     "volcanoSectionTitle": "🌋 Glossário Vulcânico",
@@ -78,7 +78,7 @@
         },
         {
             "title": "Vulcão de Cúpula (Domo de Lava)",
-            "content": "Formado por lava muito viscosa que se acumula na cratera, criando um domo. O colapso do domo pode gerar nuvens piroclásticas perigosas e súbitas."
+            "content": "Formado por lava muito viscosa que se acumula na cratera, creando um domo. O colapso do domo pode gerar nuvens piroclásticas perigosas e súbitas."
         },
         {
             "title": "Vulcão de Fissura",
@@ -209,7 +209,7 @@
         },
         {
             "title": "Formação de Novas Terras",
-            "content": "Muitas ilhas, como as do Havaí e Galápagos, foram inteiramente formadas por erupções submarinas. Essa nova terra, isolada pelo oceano, permite que espécies de animais e plantas evoluam de maneira única, criando ecossistemas exclusivos."
+            "content": "Muitas ilhas, como as do Havaí e Galápagos, foram inteiramente formadas por erupções submarinas. Essa nova terra, isolada pelo oceano, permite que espécies de animais e plantas evoluam de maneira única, creando ecossistemas exclusivos."
         },
         {
             "title": "Fontes Termais e Energia",
