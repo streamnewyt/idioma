@@ -1,0 +1,219 @@
+{
+  "sismoFormationTitle": "Bagaimana Gempa Bumi Terjadi? Mesin Lempeng Tektonik",
+  "sismoFormationTypes": [
+    {
+      "title": "Apa Penyebab Gempa Bumi?",
+      "content": "Permukaan bumi bukanlah satu bagian utuh. Ini adalah teka-teki raksasa yang terbentuk dari lempengan batuan besar yang disebut <b>lempeng tektonik</b>, yang mengapung di atas mantel planet yang semi-cair. Mereka terus bergerak, tetapi sangat lambat (beberapa sentimeter per tahun). Gempa bumi adalah getaran yang dirasakan ketika energi yang terkumpul dari gerakan ini dilepaskan secara tiba-tiba."
+    },
+    {
+      "title": "Gempa Tumbukan (Batas Konvergen)",
+      "content": "Terjadi ketika dua lempeng saling mendorong. Biasanya, lempeng yang lebih padat (samudra) menyelam di bawah yang kurang padat (benua), dalam proses yang disebut <b>subduksi</b>. Lempeng yang menyelam tidak meluncur dengan mulus; ia tersangkut, menumpuk tekanan yang sangat besar. Ketika tekanan mengatasi gesekan, lempeng itu tergelincir secara tiba-tiba, melepaskan sejumlah besar energi. Di sinilah <b>gempa bumi terkuat di dunia</b> terjadi, seperti di Chili dan Jepang, yang dapat menghasilkan tsunami."
+    },
+    {
+      "title": "Gempa Patahan (Batas Divergen)",
+      "content": "Terjadi ketika dua lempeng menjauh satu sama lain. Gerakan ini menciptakan celah di kerak bumi, memungkinkan magma naik dari mantel dan membentuk dasar laut baru. Proses ini disertai oleh gempa bumi, tetapi umumnya <b>kurang intens dan lebih dangkal</b>. Sebagian besar terjadi di tengah lautan, di pegunungan bawah laut yang disebut punggungan tengah samudra."
+    },
+    {
+      "title": "Gempa Geser (Batas Transformatif)",
+      "content": "Terjadi ketika dua lempeng bergeser secara horizontal satu sama lain. Tepi lempeng tidak mulus, sehingga mereka terkunci oleh gesekan. Tekanan menumpuk selama bertahun-tahun atau puluhan tahun sampai, tiba-tiba, batuan pecah dan lempeng bergeser secara tiba-tiba. Contoh paling terkenal adalah <b>Patahan San Andreas</b> di California, yang menandai batas antara Lempeng Pasifik dan Lempeng Amerika Utara."
+    }
+  ],
+  "magnitudeTitle": "Memahami Magnitudo (M)",
+  "magnitudeIntro": "Magnitudo Momen (Mw) mengukur total energi yang dilepaskan di fokus gempa. Skalanya logaritmik: peningkatan 1,0 poin (misalnya, dari M6 ke M7) mewakili amplitudo gerakan 10 kali lebih besar dan pelepasan <strong>~32 kali lebih banyak energi</strong>.",
+  "magnitudeTable": "<table class=\"glossary-table\"><thead><tr><th>Magnitudo</th><th>Klasifikasi</th><th>Sensasi & Dampak Khas</th></tr></thead><tbody><tr><td>2.0 - 2.9</td><td>Mikro</td><td>Tidak dirasakan oleh manusia. Hanya terdeteksi oleh seismograf.</td></tr><tr><td>3.0 - 3.9</td><td>Kecil</td><td>Dirasakan oleh beberapa orang saat istirahat. Getaran mirip truk lewat.</td></tr><tr><td>4.0 - 4.9</td><td>Ringan</td><td>Dirasakan oleh sebagian besar orang. Jendela dan piring bergetar.</td></tr><tr><td>5.0 - 5.9</td><td>Sedang</td><td>Dirasakan oleh semua orang. Benda-benda jatuh dari rak. Plester bisa retak.</td></tr><tr><td>6.0 - 6.9</td><td>Kuat</td><td>Sulit untuk berdiri. Kerusakan signifikan pada bangunan yang dibangun dengan buruk.</td></tr><tr><td>7.0 - 7.9</td><td>Besar</td><td>Kerusakan parah di area yang luas. Sebagian besar bangunan rusak atau runtuh.</td></tr><tr><td>8.0 - 8.9</td><td>Sangat Besar</td><td>Hampir kehancuran total. Kota-kota rata dengan tanah. Retakan besar di tanah.</td></tr><tr><td>9.0+</td><td>Kataklismik</td><td>Kehancuran skala besar, mengubah geografi secara permanen. Menghasilkan tsunami lintas samudra.</td></tr></tbody></table>",
+  "colorsTitle": "Standar Warna di Aplikasi",
+  "colorsIntro": "Warna membantu mengidentifikasi intensitas gempa dengan cepat:",
+  "colorsTable": "<table class=\"glossary-table\"><tbody><tr><td><span class=\"color-swatch\" style=\"background-color: #08e108;\"></span>Hijau</td><td>Magnitudo di bawah 4.0 (Ringan).</td></tr><tr><td><span class=\"color-swatch\" style=\"background-color: yellow;\"></span>Kuning</td><td>Magnitudo antara 4.0 dan 4.9 (Ringan hingga Sedang).</td></tr><tr><td><span class=\"color-swatch\" style=\"background-color: orange;\"></span>Oranye</td><td>Magnitudo antara 5.0 dan 5.9 (Sedang hingga Kuat).</td></tr><tr><td><span class=\"color-swatch\" style=\"background-color: #ff0000;\"></span>Merah</td><td>Magnitudo 6.0 atau lebih tinggi (Kuat hingga Sangat Besar).</td></tr></tbody></table>",
+  "termsTitle": "Istilah Dasar Seismik",
+  "termMercalli": "<h5>Intensitas (Skala Mercalli) vs. Magnitudo</h5><p><strong>Magnitudo</strong> (misalnya, 7.2 Mw) mengukur energi yang dilepaskan di fokus, satu angka tunggal. <strong>Intensitas</strong> (misalnya, Tingkat IX) mengukur <strong>efek</strong> getaran di lokasi tertentu dan berkurang seiring jarak.</p>",
+  "termDepth": "<h5>Kedalaman</h5><p>Menunjukkan seberapa jauh di bawah permukaan gempa berasal. <strong>Gempa dangkal (0-70 km)</strong> umumnya lebih berbahaya daripada <strong>yang dalam (>300 km)</strong>.</p>",
+  "termEpicenter": "<h5>Episentrum vs. Hiposentrum</h5><p><strong>Hiposentrum</strong> adalah titik pasti patahan di dalam Bumi. <strong>Episentrum</strong> adalah titik di permukaan tepat di atasnya, di mana getaran biasanya paling kuat.</p>",
+  "termWaves": "<h5>Gelombang Seismik (P & S)</h5><p><strong>Gelombang P (Primer)</strong> lebih cepat dan tiba lebih dulu. <strong>Gelombang S (Sekunder)</strong> tiba kemudian dan menyebabkan gerakan 'bergoyang', lebih merusak.</p>",
+  "termLiquefaction": "<h5>Likuifaksi Tanah</h5><p>Fenomena di mana tanah berpasir jenuh air kehilangan kekuatannya dan berperilaku seperti cairan karena guncangan, menyebabkan bangunan tenggelam atau miring.</p>",
+  "termAftershock": "<h5>Gempa Susulan</h5><p>Gempa bumi yang lebih kecil yang terjadi di area yang sama setelah gempa utama, disebabkan oleh penyesuaian kerak. Dapat berlanjut selama berhari-hari atau berminggu-minggu.</p>",
+  "historicalSismosTitle": "🌍 Gempa Bumi Besar dalam Sejarah",
+  "historicalSismos": [
+    {
+      "title": "Valdivia, Chili (1960) - Magnitudo 9.5",
+      "content": "Gempa terkuat yang pernah tercatat secara instrumental. Menyebabkan kehancuran luas di Chili dan menghasilkan tsunami yang melintasi Samudra Pasifik, menghantam Hawaii, Jepang, dan Filipina, menunjukkan jangkauan planet dari peristiwa semacam itu."
+    },
+    {
+      "title": "Sumatra, Indonesia (2004) - Magnitudo 9.1",
+      "content": "Gempa megathrust bawah laut ini memicu salah satu tsunami paling mematikan dalam sejarah, yang melanda 14 negara dan menyebabkan lebih dari 230.000 kematian. Peristiwa ini menyoroti perlunya sistem peringatan dini tsunami yang efektif di Samudra Hindia."
+    },
+    {
+      "title": "Tohoku, Jepang (2011) - Magnitudo 9.0",
+      "content": "Selain guncangan hebat, gempa ini menghasilkan tsunami dengan gelombang setinggi 40 meter yang menghancurkan pantai timur laut Jepang. Peristiwa ini dikenal dunia karena menyebabkan bencana nuklir Fukushima, menunjukkan bagaimana risiko seismik dapat berkembang menjadi berbagai bencana."
+    }
+  ],
+  "associatedRisksTitle": "Risiko Terkait Gempa Bumi",
+  "associatedRisks": [
+    {
+      "title": "Tsunami",
+      "content": "Gempa besar yang terjadi di dasar laut dapat memindahkan volume air yang sangat besar, menghasilkan gelombang raksasa yang bergerak dengan kecepatan tinggi. Saat mencapai pantai, gelombang ini dapat membanjiri dan menghancurkan daerah pesisir ribuan kilometer dari episentrum."
+    },
+    {
+      "title": "Tanah Longsor",
+      "content": "Guncangan tanah dapat mengganggu kestabilan lereng curam di perbukitan dan pegunungan, menyebabkan longsoran tanah, batu, dan puing-puing. Di daerah perkotaan, ini merupakan risiko serius bagi komunitas yang dibangun di medan yang tidak stabil."
+    },
+    {
+      "title": "Kebakaran",
+      "content": "Getaran dapat merusak pipa gas dan kabel listrik, menyebabkan kebocoran gas dan korsleting. Insiden ini sering kali mengakibatkan kebakaran yang dapat menyebar dengan cepat di daerah perkotaan, terutama jika jaringan air juga rusak, yang menghambat upaya pemadaman."
+    }
+  ],
+  "volcanoSectionTitle": "🌋 Glosarium Vulkanik",
+  "volcanoTypesTitle": "Jenis Utama Gunung Berapi",
+  "volcanoTypes": [
+    {
+      "title": "Gunung Berapi Perisai",
+      "content": "Lebar dengan lereng landai, terbentuk dari lava sangat cair yang mengalir jauh. Letusannya biasanya tidak eksplosif. Contoh: Kīlauea, Hawaii."
+    },
+    {
+      "title": "Stratovolcano (Komposit)",
+      "content": "Gunung berapi tinggi dan kerucut, terbangun dari lapisan lava kental, abu, dan batuan. Lava kaya silika dapat memerangkap gas, menyebabkan letusan yang sangat eksplosif. Contoh: Gunung Fuji, Vesuvius."
+    },
+    {
+      "title": "Supervolcano",
+      "content": "Raksasa geologis yang mampu menghasilkan letusan yang mengubah iklim global. Membentuk kaldera besar, bukan kerucut, seperti Yellowstone. Satu letusan dapat memuntahkan lebih dari 1.000 km³ material."
+    },
+    {
+      "title": "Kubah Lava",
+      "content": "Terbentuk dari lava kental yang menumpuk di sekitar lubang, menciptakan kubah. Runtuhnya kubah dapat menghasilkan aliran piroklastik yang berbahaya dan tiba-tiba."
+    },
+    {
+      "title": "Gunung Berapi Celah",
+      "content": "Magma meletus melalui retakan panjang di kerak bumi, bukan kawah pusat, yang dapat melepaskan ladang lava yang luas dan gas yang berdampak pada iklim, seperti letusan Laki di Islandia pada 1783."
+    },
+    {
+      "title": "Gunung Berapi Bawah Laut",
+      "content": "Sebagian besar gunung berapi di Bumi berada di bawah air. Letusan dapat menciptakan pulau baru, seperti Surtsey, atau menghasilkan tsunami dan gelombang kejut global, seperti Hunga Tonga-Hunga Haʻapai pada 2022."
+    },
+    {
+      "title": "Gunung Berapi Lumpur",
+      "content": "Terbentuk dari ekstrusi lumpur, air asin, dan gas seperti metana, yang naik melalui rekahan di kerak bumi. Tidak berasal dari magma tetapi disebabkan oleh tekanan cairan yang terperangkap dalam lapisan tanah liat. Ribuan telah dipetakan di wilayah seperti Azerbaijan dan Laut Kaspia."
+    }
+  ],
+  "eruptionTypesTitle": "Jenis Utama Letusan",
+  "eruptionTypes": [
+    {
+      "title": "Hawaiian (Efusif)",
+      "content": "Aliran lava cair yang stabil dengan kandungan gas rendah, yang mengalir menuruni lereng tanpa ledakan besar. Khas gunung berapi perisai."
+    },
+    {
+      "title": "Plinian (Eksplosif)",
+      "content": "Bentuk paling ekstrem. Memuntahkan kolom abu dan gas lebih dari 30 km ke stratosfer, berpotensi mempengaruhi iklim global. Contoh: Vesuvius (79 M)."
+    },
+    {
+      "title": "Strombolian",
+      "content": "Ditandai dengan ledakan sedang dan berirama yang melemparkan semburan material pijar (bom lava) ke udara. Contoh: Stromboli, Italia."
+    },
+    {
+      "title": "Vulcanian",
+      "content": "Letusan singkat namun agresif. Lava kental menyumbat saluran, dan tekanan yang menumpuk menghasilkan pelepasan tiba-tiba fragmen batuan, uap, dan abu. Kolom letusan bisa mencapai beberapa kilometer tingginya."
+    },
+    {
+      "title": "Freatik",
+      "content": "Ledakan uap yang terjadi ketika air tanah dipanaskan secara berlebihan oleh batuan atau magma, tanpa magma itu sendiri mencapai permukaan. Dapat terjadi dengan sedikit peringatan."
+    },
+    {
+      "title": "Freatomagmatik",
+      "content": "Terjadi di perairan dangkal atau di bawah tanah ketika magma berinteraksi hebat dengan air, menghasilkan semburan abu, uap, dan lava terfragmentasi yang eksplosif. Lebih berbahaya daripada letusan freatik karena melibatkan magma."
+    },
+    {
+      "title": "Surtseyan",
+      "content": "Terjadi di perairan dangkal ketika magma berinteraksi hebat dengan air, menghasilkan semburan abu dan uap yang eksplosif. Dapat membangun pulau baru, seperti Surtsey di Islandia."
+    },
+    {
+      "title": "Subglasial",
+      "content": "Terjadi di bawah gletser. Magma mencairkan es, yang dapat menyebabkan banjir besar (jökulhlaups) dan ledakan uap. Contoh: Eyjafjallajökull, 2010."
+    },
+    {
+      "title": "Lateral",
+      "content": "Terjadi ketika magma keluar melalui celah di sisi gunung, bukan di puncak. Bisa sangat merusak, seperti letusan Gunung St. Helens tahun 1980 yang meledakkan sisinya sendiri."
+    },
+    {
+      "title": "Pluvial (Lahar)",
+      "content": "Bukan letusan lava, tetapi konsekuensi berbahaya. Hujan deras bercampur dengan endapan abu di lereng, membentuk aliran lumpur padat dan berat yang turun dengan kecepatan tinggi, mampu menghancurkan seluruh desa bahkan beberapa hari atau minggu setelah aktivitas gunung berapi."
+    },
+    {
+      "title": "Limnik",
+      "content": "Fenomena langka dan mematikan yang terjadi di danau-danau di daerah vulkanik. Gas seperti karbon dioksida terperangkap di dasar danau dan, ketika tiba-tiba dilepaskan, naik sebagai gelembung raksasa dan menyebar ke lereng, mencekik orang dan hewan tanpa warna atau bau."
+    }
+  ],
+  "volcanoTermsTitle": "Risiko dan Istilah Vulkanik",
+  "volcanoTerms": [
+    {
+      "title": "Aliran Piroklastik",
+      "content": "Campuran mematikan dari gas super panas, abu, dan fragmen batuan yang menuruni lereng dengan kecepatan melebihi 300 km/jam. Ini adalah salah satu fenomena paling merusak dan tak terhindarkan dari letusan eksplosif."
+    },
+    {
+      "title": "Lahar (Aliran Lumpur)",
+      "content": "Bukan letusan langsung, tetapi konsekuensi berbahaya. Hujan lebat dapat bercampur dengan endapan abu di lereng, menciptakan aliran lumpur padat dan cepat yang menghancurkan segala sesuatu di jalurnya, bahkan beberapa minggu setelah letusan."
+    },
+    {
+      "title": "Viskositas (dan Silika)",
+      "content": "Adalah ketahanan lava untuk mengalir. Lava dengan silika rendah (basaltik) bersifat cair dan menghasilkan letusan yang tenang (efusif). Lava yang kaya silika bersifat kental (tebal), memerangkap gas, dan menyebabkan letusan yang dahsyat (eksplosif)."
+    },
+    {
+      "title": "Kaldera",
+      "content": "Depresi besar yang terbentuk ketika gunung berapi runtuh ke dalam dirinya sendiri setelah letusan besar mengosongkan kantong magmanya. Supervolcano, seperti Yellowstone, diidentifikasi dari kaldera-kaldera besarnya."
+    },
+    {
+      "title": "Indeks Ledakan Vulkanik (VEI)",
+      "content": "Skala dari 0 hingga 8 yang mengukur intensitas letusan berdasarkan volume material yang dikeluarkan dan ketinggian kolom abu. Letusan Plinian dan ultraplinian berada di puncak skala ini."
+    },
+    {
+      "title": "Rambut Pele",
+      "content": "Ini adalah helai-helai kaca vulkanik yang sangat tipis, terbentuk ketika partikel-partikel kecil lava basaltik yang sangat cair direntangkan oleh angin selama letusan efusif, seperti yang terjadi di Hawaii. Meskipun menakjubkan, mereka tajam dan berbahaya jika terhirup atau bersentuhan dengan kulit. Nama ini adalah penghormatan kepada Pele, dewi gunung berapi Hawaii."
+    }
+  ],
+  "historicalEruptionsTitle": "Letusan Besar dalam Sejarah",
+  "historicalEruptions": [
+    {
+      "title": "Gunung Tambora (1815) - Tahun Tanpa Musim Panas",
+      "content": "Letusan di Indonesia begitu besar sehingga melontarkan abu dan gas ke stratosfer, menghalangi sinar matahari. Dampaknya bersifat global: 1816 dikenal sebagai 'Tahun Tanpa Musim Panas,' menyebabkan gagal panen dan kelaparan hingga ke Eropa."
+    },
+    {
+      "title": "Krakatau (1883) - Ledakan yang Terdengar di Seluruh Dunia",
+      "content": "Ledakan Krakatau di Indonesia begitu kuat sehingga suaranya terdengar lebih dari 4.800 km jauhnya, dan gelombang kejutnya mengelilingi planet empat kali. Ini menghasilkan tsunami yang menghancurkan dan mengubah warna matahari terbenam selama berminggu-minggu di seluruh dunia."
+    },
+    {
+      "title": "Gunung St. Helens (1980) - Ledakan Lateral",
+      "content": "Berbeda dari kebanyakan, letusan gunung berapi AS ini terjadi di sisinya. Sisi gunung runtuh dan meledak, menciptakan kawah selebar lebih dari dua kilometer dan awan abu yang melintasi negara itu, menutupi area seluas 600.000 km²."
+    }
+  ],
+  "volcanoMonitoringTitle": "Bagaimana Gunung Berapi Dipantau",
+  "volcanoMonitoring": [
+    {
+      "title": "Analisis Seismik",
+      "content": "Getaran kecil dan getaran berulang dapat menunjukkan bahwa magma bergerak di bawah tanah. Seismograf dipasang untuk merekam setiap peningkatan aktivitas seismik yang tidak biasa, yang dapat mendahului letusan."
+    },
+    {
+      "title": "Pengukuran Gas",
+      "content": "Peningkatan emisi gas seperti sulfur dioksida (SO₂) dan karbon dioksida (CO₂) dapat berarti bahwa magma sedang naik. Pengukuran ini dilakukan oleh sensor di lokasi atau dengan drone."
+    },
+    {
+      "title": "Deformasi Tanah",
+      "content": "Ketika magma menumpuk, tanah di atasnya bisa membengkak beberapa milimeter atau sentimeter. Perangkat GPS presisi tinggi dan tiltmeter mengukur deformasi kecil ini, yang berfungsi sebagai tanda peringatan penting."
+    },
+    {
+      "title": "Pengawasan Satelit",
+      "content": "Satelit menggunakan sensor inframerah untuk mendeteksi perubahan suhu di permukaan, yang menunjukkan titik-titik panas. Mereka juga memantau awan abu dan gas, membantu memprediksi dampaknya pada daerah yang jauh dan lalu lintas udara."
+    }
+  ],
+  "volcanoBenefitsTitle": "Manfaat Gunung Berapi",
+  "volcanoBenefits": [
+    {
+      "title": "Penciptaan Tanah Subur",
+      "content": "Ketika lava dan abu terurai seiring waktu, mereka melepaskan nutrisi seperti nitrogen, fosfor, dan kalium. Ini menciptakan tanah yang sangat subur, ideal untuk pertanian, seperti yang terlihat di kebun-kebun anggur di sekitar Etna dan perkebunan kopi di Hawaii."
+    },
+    {
+      "title": "Pembentukan Daratan Baru",
+      "content": "Banyak pulau, seperti yang ada di Hawaii dan Galápagos, seluruhnya terbentuk oleh letusan bawah laut. Daratan baru ini, yang terisolasi oleh lautan, memungkinkan spesies hewan dan tumbuhan berevolusi secara unik, menciptakan ekosistem eksklusif."
+    },
+    {
+      "title": "Sumber Air Panas dan Energi",
+      "content": "Panas bawah tanah yang dihasilkan oleh aktivitas vulkanik memanaskan air, yang naik ke permukaan sebagai sumber air panas. Selain potensi medis dan pariwisata, panas ini dapat dimanfaatkan untuk menghasilkan energi panas bumi."
+    }
+  ]
+}
