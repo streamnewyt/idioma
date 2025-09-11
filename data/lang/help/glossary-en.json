@@ -1,0 +1,219 @@
+{
+  "sismoFormationTitle": "How Do Earthquakes Happen? The Engine of Tectonic Plates",
+  "sismoFormationTypes": [
+    {
+      "title": "What Causes an Earthquake?",
+      "content": "The Earth's surface is not a single piece. It's a giant puzzle made of enormous rock blocks called <b>tectonic plates</b>, which float on the planet's semi-liquid mantle. They are in constant, slow motion (a few centimeters per year). An earthquake is the vibration felt when the energy stored from this movement is suddenly released."
+    },
+    {
+      "title": "Collision Earthquakes (Convergent Boundaries)",
+      "content": "This occurs when two plates push against each other. Usually, a denser plate (oceanic) dives under a less dense one (continental) in a process called <b>subduction</b>. The diving plate doesn't slide smoothly; it gets stuck, building up immense stress. When the stress overcomes friction, the plate slips abruptly, releasing a colossal amount of energy. This is where the <b>world's strongest earthquakes</b> occur, like those in Chile and Japan, which can generate tsunamis."
+    },
+    {
+      "title": "Spreading Earthquakes (Divergent Boundaries)",
+      "content": "This happens when two plates move away from each other. This movement creates cracks in the crust, allowing magma to rise from the mantle and form a new ocean floor. This process is accompanied by earthquakes, but they are generally <b>less intense and shallower</b>. Most occur in the middle of oceans, in underwater mountain ranges called mid-ocean ridges."
+    },
+    {
+      "title": "Sliding Earthquakes (Transform Boundaries)",
+      "content": "This occurs when two plates slide horizontally past each other. The plate edges are not smooth, so they get locked by friction. Stress builds up over years or decades until, suddenly, the rocks break and the plates jerk forward. The most famous example is the <b>San Andreas Fault</b> in California, which marks the boundary between the Pacific Plate and the North American Plate."
+    }
+  ],
+  "magnitudeTitle": "Understanding Magnitude (M)",
+  "magnitudeIntro": "Moment Magnitude (Mw) measures the total energy released at an earthquake's focus. The scale is logarithmic: a 1.0 point increase (e.g., from M6 to M7) represents a 10-fold increase in motion amplitude and the release of <strong>~32 times more energy</strong>.",
+  "magnitudeTable": "<table class=\"glossary-table\"><thead><tr><th>Magnitude</th><th>Classification</th><th>Typical Sensation & Impact</th></tr></thead><tbody><tr><td>2.0 - 2.9</td><td>Micro</td><td>Not felt by humans. Only detected by seismographs.</td></tr><tr><td>3.0 - 3.9</td><td>Minor</td><td>Felt by some people at rest. Vibrations similar to a passing truck.</td></tr><tr><td>4.0 - 4.9</td><td>Light</td><td>Felt by most people. Windows and dishes rattle. Cars may rock.</td></tr><tr><td>5.0 - 5.9</td><td>Moderate</td><td>Felt by everyone. Objects fall from shelves. Plaster may crack.</td></tr><tr><td>6.0 - 6.9</td><td>Strong</td><td>Difficult to stand. Significant damage to poorly constructed buildings.</td></tr><tr><td>7.0 - 7.9</td><td>Major</td><td>Severe damage over large areas. Most buildings suffer damage or collapse.</td></tr><tr><td>8.0 - 8.9</td><td>Great</td><td>Near-total destruction. Cities flattened. Large cracks in the ground.</td></tr><tr><td>9.0+</td><td>Catastrophic</td><td>Widespread devastation, permanently altering geography. Generates ocean-crossing tsunamis.</td></tr></tbody></table>",
+  "colorsTitle": "Color Standard in the App",
+  "colorsIntro": "Colors help to quickly identify the intensity of earthquakes:",
+  "colorsTable": "<table class=\"glossary-table\"><tbody><tr><td><span class=\"color-swatch\" style=\"background-color: #08e108;\"></span>Green</td><td>Magnitude below 4.0 (Light).</td></tr><tr><td><span class=\"color-swatch\" style=\"background-color: yellow;\"></span>Yellow</td><td>Magnitude between 4.0 and 4.9 (Light to Moderate).</td></tr><tr><td><span class=\"color-swatch\" style=\"background-color: orange;\"></span>Orange</td><td>Magnitude between 5.0 and 5.9 (Moderate to Strong).</td></tr><tr><td><span class=\"color-swatch\" style=\"background-color: #ff0000;\"></span>Red</td><td>Magnitude 6.0 or higher (Strong to Great).</td></tr></tbody></table>",
+  "termsTitle": "Fundamental Seismic Terms",
+  "termMercalli": "<h5>Intensity (Mercalli Scale) vs. Magnitude</h5><p><strong>Magnitude</strong> (e.g., 7.2 Mw) measures the energy released at the focus, a single number. <strong>Intensity</strong> (e.g., Grade IX) measures the <strong>effects</strong> of shaking at a specific location and decreases with distance.</p>",
+  "termDepth": "<h5>Depth</h5><p>Indicates how far below the surface the earthquake originated. <strong>Shallow quakes (0-70 km)</strong> are generally more dangerous than <strong>deep ones (>300 km)</strong>.</p>",
+  "termEpicenter": "<h5>Epicenter vs. Hypocenter</h5><p>The <strong>Hypocenter</strong> is the exact point of fracture inside the Earth. The <strong>Epicenter</strong> is the point on the surface directly above, where shaking is usually strongest.</p>",
+  "termWaves": "<h5>Seismic Waves (P & S)</h5><p><strong>P-waves (Primary)</strong> are faster and arrive first. <strong>S-waves (Secondary)</strong> arrive later and cause a 'wobbling' motion, being more destructive.</p>",
+  "termLiquefaction": "<h5>Soil Liquefaction</h5><p>A phenomenon where water-saturated sandy soils lose strength and behave like a liquid due to shaking, causing buildings to sink or tilt.</p>",
+  "termAftershock": "<h5>Aftershocks</h5><p>Smaller earthquakes that occur in the same area after a mainshock, caused by crustal adjustments. They can continue for days or weeks.</p>",
+  "historicalSismosTitle": "🌍 Great Earthquakes in History",
+  "historicalSismos": [
+    {
+      "title": "Valdivia, Chile (1960) - Magnitude 9.5",
+      "content": "The strongest earthquake ever recorded instrumentally. It caused widespread destruction in Chile and generated a tsunami that crossed the Pacific Ocean, hitting Hawaii, Japan, and the Philippines, demonstrating the planetary reach of such events."
+    },
+    {
+      "title": "Sumatra, Indonesia (2004) - Magnitude 9.1",
+      "content": "This undersea megathrust earthquake triggered one of the deadliest tsunamis in history, which struck 14 countries and caused over 230,000 deaths. The event highlighted the need for effective tsunami warning systems in the Indian Ocean."
+    },
+    {
+      "title": "Tohoku, Japan (2011) - Magnitude 9.0",
+      "content": "Besides the intense shaking, it generated a tsunami with waves up to 40 meters high that devastated the northeast coast of Japan. The event became globally known for causing the Fukushima nuclear disaster, showing how seismic risks can unfold into multiple catastrophes."
+    }
+  ],
+  "associatedRisksTitle": "Associated Risks of Earthquakes",
+  "associatedRisks": [
+    {
+      "title": "Tsunamis",
+      "content": "Large earthquakes occurring on the seafloor can displace enormous volumes of water, generating giant waves that travel at high speeds. Upon reaching the coast, these waves can inundate and destroy coastal areas thousands of kilometers from the epicenter."
+    },
+    {
+      "title": "Landslides",
+      "content": "The ground shaking can destabilize steep slopes of hills and mountains, causing landslides of soil, rock, and debris. In urban areas, this poses a severe risk to communities built on unstable terrain."
+    },
+    {
+      "title": "Fires",
+      "content": "Tremors can rupture gas lines and damage electrical wiring, causing gas leaks and short circuits. These incidents often result in fires that can spread rapidly through urban areas, especially if water mains are also damaged, hampering firefighting efforts."
+    }
+  ],
+  "volcanoSectionTitle": "🌋 Volcanic Glossary",
+  "volcanoTypesTitle": "Main Types of Volcanoes",
+  "volcanoTypes": [
+    {
+      "title": "Shield Volcano",
+      "content": "Broad with gentle slopes, formed by very fluid lava that flows over long distances. Eruptions are not typically explosive. Example: Kīlauea, Hawaii."
+    },
+    {
+      "title": "Stratovolcano (Composite)",
+      "content": "A tall, conical volcano built up by many layers of viscous lava, ash, and rock. Silica-rich lava can trap gases, leading to extremely explosive eruptions. Examples: Mount Fuji, Vesuvius."
+    },
+    {
+      "title": "Supervolcano",
+      "content": "A geological giant capable of eruptions that alter the global climate. It forms a huge caldera, not a cone, like Yellowstone. An eruption can eject over 1,000 km³ of material."
+    },
+    {
+      "title": "Lava Dome",
+      "content": "Formed by viscous lava that piles up around the vent, creating a dome. The collapse of a dome can generate dangerous and sudden pyroclastic flows."
+    },
+    {
+      "title": "Fissure Volcano",
+      "content": "Magma erupts through long cracks in the crust instead of a central crater, which can release vast lava fields and climate-impacting gases, like the Laki eruption in Iceland in 1783."
+    },
+    {
+      "title": "Submarine Volcano",
+      "content": "Most of Earth's volcanoes are underwater. Eruptions can create new islands, like Surtsey, or generate tsunamis and global shockwaves, like Hunga Tonga-Hunga Haʻapai in 2022."
+    },
+    {
+      "title": "Mud Volcano",
+      "content": "Formed by the extrusion of mud, saltwater, and gases like methane, which rise through fractures in the crust. It does not have a magmatic origin but is caused by the pressure of fluids trapped in clay layers. Thousands are mapped in regions like Azerbaijan and the Caspian Sea."
+    }
+  ],
+  "eruptionTypesTitle": "Main Types of Eruptions",
+  "eruptionTypes": [
+    {
+      "title": "Hawaiian (Effusive)",
+      "content": "A steady flow of fluid lava with low gas content, which runs down the slopes without major explosions. Typical of shield volcanoes."
+    },
+    {
+      "title": "Plinian (Explosive)",
+      "content": "The most extreme form. Ejects columns of ash and gas more than 30 km into the stratosphere, potentially impacting the global climate. Example: Vesuvius (79 AD)."
+    },
+    {
+      "title": "Strombolian",
+      "content": "Characterized by moderate, rhythmic explosions that hurl jets of incandescent material (lava bombs) into the air. Example: Stromboli, Italy."
+    },
+    {
+      "title": "Vulcanian",
+      "content": "A short but aggressive eruption. Viscous lava plugs the conduit, and the built-up pressure generates a sudden release of rock fragments, steam, and ash. The eruptive column can reach several kilometers in height."
+    },
+    {
+      "title": "Phreatic",
+      "content": "A steam explosion that occurs when groundwater is superheated by rocks or magma, without the magma itself reaching the surface. Can happen with little warning."
+    },
+    {
+      "title": "Phreatomagmatic",
+      "content": "Occurs in shallow water or underground when magma violently interacts with water, producing explosive jets of ash, steam, and fragmented lava. It is more dangerous than a phreatic eruption because it involves magma."
+    },
+    {
+      "title": "Surtseyan",
+      "content": "Occurs in shallow water when magma violently interacts with water, producing explosive jets of ash and steam. Can build new islands, like Surtsey in Iceland."
+    },
+    {
+      "title": "Subglacial",
+      "content": "Occurs under glaciers. The magma melts the ice, which can cause massive floods (jökulhlaups) and steam explosions. Example: Eyjafjallajökull, 2010."
+    },
+    {
+      "title": "Lateral",
+      "content": "Happens when magma escapes through a fissure on the side of the mountain instead of the summit. It can be extremely destructive, like the 1980 eruption of Mount St. Helens, which blew out its own flank."
+    },
+    {
+      "title": "Pluvial (Lahars)",
+      "content": "Not a lava eruption, but a dangerous consequence. Heavy rains mix with ash deposits on the slopes, forming a dense and heavy mudflow that descends at high speed, capable of destroying entire villages even days or weeks after volcanic activity."
+    },
+    {
+      "title": "Limnic",
+      "content": "A rare and lethal phenomenon that occurs in lakes in volcanic areas. Gases like carbon dioxide get trapped at the bottom of the lake and, when suddenly released, rise as a giant bubble and spread down the slopes, suffocating people and animals without color or smell."
+    }
+  ],
+  "volcanoTermsTitle": "Volcanic Risks and Terms",
+  "volcanoTerms": [
+    {
+      "title": "Pyroclastic Flow",
+      "content": "A lethal mixture of superheated gas, ash, and rock fragments that descends slopes at speeds that can exceed 300 km/h. It is one of the most destructive and inescapable phenomena of an explosive eruption."
+    },
+    {
+      "title": "Lahar (Mudflow)",
+      "content": "Not a direct eruption, but a dangerous consequence. Heavy rains can mix with ash deposits on the slopes, creating a dense and rapid mudflow that destroys everything in its path, even weeks after the eruption."
+    },
+    {
+      "title": "Viscosity (and Silica)",
+      "content": "It is the resistance of lava to flow. Lavas with low silica (basaltic) are fluid and generate calm (effusive) eruptions. Lavas rich in silica are viscous (thick), trap gases, and cause violent (explosive) eruptions."
+    },
+    {
+      "title": "Caldera",
+      "content": "A large depression formed when a volcano collapses on itself after a massive eruption empties its magma chamber. Supervolcanoes, like Yellowstone, are identified by their immense calderas."
+    },
+    {
+      "title": "Volcanic Explosivity Index (VEI)",
+      "content": "A scale from 0 to 8 that measures the intensity of an eruption based on the volume of ejected material and the height of the ash column. Plinian and ultraplinian eruptions are at the top of this scale."
+    },
+    {
+      "title": "Pele's Hair",
+      "content": "These are very thin strands of volcanic glass, formed when small particles of very fluid basaltic lava are stretched by the wind during effusive eruptions, such as those in Hawaii. Although fascinating, they are sharp and dangerous if inhaled or in contact with the skin. The name is a tribute to Pele, the Hawaiian goddess of volcanoes."
+    }
+  ],
+  "historicalEruptionsTitle": "Great Eruptions in History",
+  "historicalEruptions": [
+    {
+      "title": "Mount Tambora (1815) - The Year Without a Summer",
+      "content": "The eruption in Indonesia was so massive that it launched ash and gases into the stratosphere, blocking sunlight. The impact was global: 1816 became known as the 'Year Without a Summer,' causing crop failures and famine as far away as Europe."
+    },
+    {
+      "title": "Krakatoa (1883) - The Explosion Heard Around the World",
+      "content": "The explosion of Krakatoa in Indonesia was so powerful that the sound was heard over 4,800 km away, and the shockwave circled the planet four times. It generated devastating tsunamis and changed the color of sunsets for weeks worldwide."
+    },
+    {
+      "title": "Mount St. Helens (1980) - The Lateral Blast",
+      "content": "Unlike most, the eruption of this US volcano occurred on its side. The mountain's flank gave way and exploded, creating a crater more than two kilometers wide and an ash cloud that crossed the country, covering an area of 600,000 km²."
+    }
+  ],
+  "volcanoMonitoringTitle": "How Volcanoes Are Monitored",
+  "volcanoMonitoring": [
+    {
+      "title": "Seismic Analysis",
+      "content": "Small tremors and repeated vibrations can indicate that magma is moving beneath the ground. Seismographs are installed to record any unusual increase in seismic activity, which can precede an eruption."
+    },
+    {
+      "title": "Gas Measurement",
+      "content": "An increase in the emission of gases like sulfur dioxide (SO₂) and carbon dioxide (CO₂) can mean that magma is rising. These measurements are taken by sensors on-site or by drones."
+    },
+    {
+      "title": "Ground Deformation",
+      "content": "When magma accumulates, the ground above can swell by millimeters or centimeters. High-precision GPS devices and tiltmeters measure these small deformations, which serve as an important warning sign."
+    },
+    {
+      "title": "Satellite Surveillance",
+      "content": "Satellites use infrared sensors to detect temperature changes on the surface, indicating hot spots. They also monitor ash and gas clouds, helping to predict their impact on distant areas and air traffic."
+    }
+  ],
+  "volcanoBenefitsTitle": "The Benefits of Volcanoes",
+  "volcanoBenefits": [
+    {
+      "title": "Creation of Fertile Soil",
+      "content": "When lava and ash break down over time, they release nutrients like nitrogen, phosphorus, and potassium. This creates extremely fertile soils, ideal for agriculture, as seen in the vineyards around Etna and the coffee plantations in Hawaii."
+    },
+    {
+      "title": "Formation of New Land",
+      "content": "Many islands, such as those in Hawaii and the Galápagos, were entirely formed by underwater eruptions. This new land, isolated by the ocean, allows animal and plant species to evolve in unique ways, creating exclusive ecosystems."
+    },
+    {
+      "title": "Hot Springs and Energy",
+      "content": "The underground heat generated by volcanic activity heats water, which rises to the surface as hot springs. In addition to medicinal and tourist potential, this heat can be harnessed to generate geothermal energy."
+    }
+  ]
+}
