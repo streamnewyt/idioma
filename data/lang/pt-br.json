@@ -209,5 +209,9 @@
     "faultPopupTitle": "Falha Tectônica",
     "faultNameLabel": "Nome",
     "faultTypeLabel": "Tipo",
-    "faultSlipTypeLabel": "Tipo de Deslizamento"
+    "faultSlipTypeLabel": "Tipo de Deslizamento",
+    "alertsEnabled": "🔔 Alertas sísmicos ativados com sucesso!",
+    "alertsDisabled": "🔕 Alertas sísmicos desativados.",
+    "alertsError": "⚠️ Erro ao atualizar os alertas."
 }
+
