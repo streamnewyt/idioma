@@ -1,9 +1,9 @@
 {
     "appTitle": "StreamNew Monitor",
-    "monitorTab": "📊 Pantau",
-    "queryTab": "🔍 Kueri",
-    "volcanosTab": "🌋 Gunung Berapi",
-    "mapTab": "🗺️ Peta",
+    "monitorTab": "Pantau",
+    "queryTab": "Kueri",
+    "volcanosTab": "Gunung Berapi",
+    "mapTab": "Peta",
     "aboutTitle": "❓ Tentang",
     "closeButton": "Tutup",
     "refreshButton": "Segarkan Data",
@@ -198,6 +198,7 @@
     "alertsDisabled": "🔕 Peringatan seismik dinonaktifkan.",
     "alertsError": "⚠️ Kesalahan memperbarui peringatan."
 }
+
 
 
 
