@@ -1,9 +1,9 @@
 {
     "appTitle": "StreamNew Monitor",
-    "monitorTab": "📊 Monitor",
-    "queryTab": "🔍 Consulta",
-    "volcanosTab": "🌋 Volcanes",
-    "mapTab": "🗺️ Mapa",
+    "monitorTab": "Monitor",
+    "queryTab": "Consulta",
+    "volcanosTab": "Volcanes",
+    "mapTab": "Mapa",
     "aboutTitle": "❓ Acerca de",
     "closeButton": "Cerrar",
     "refreshButton": "Actualizar Datos",
@@ -199,3 +199,4 @@
     "alertsError": "⚠️ Error al actualizar las alertas."
 
 }
+
