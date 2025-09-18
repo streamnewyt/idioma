@@ -1,9 +1,9 @@
 {
     "appTitle": "StreamNew Monitor",
-    "monitorTab": "📊 モニター",
-    "queryTab": "🔍 クエリ",
-    "volcanosTab": "🌋 火山",
-    "mapTab": "🗺️ 地図",
+    "monitorTab": "モニター",
+    "queryTab": "クエリ",
+    "volcanosTab": "火山",
+    "mapTab": "地図",
     "aboutTitle": "❓ 概要",
     "closeButton": "閉じる",
     "refreshButton": "データ更新",
@@ -198,5 +198,6 @@
     "alertsDisabled": "🔕 地震アラートが無効になりました。",
     "alertsError": "⚠️ アラートの更新中にエラーが発生しました。"
 }
+
 
 
