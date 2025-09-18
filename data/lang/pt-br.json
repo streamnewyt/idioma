@@ -212,7 +212,13 @@
     "faultSlipTypeLabel": "Tipo de Deslizamento",
     "alertsEnabled": "🔔 Alertas sísmicos ativados com sucesso!",
     "alertsDisabled": "🔕 Alertas sísmicos desativados.",
-    "alertsError": "⚠️ Erro ao atualizar os alertas."
+    "alertsError": "⚠️ Erro ao atualizar os alertas.",
+    "heatmapInfoTitle": "O que é o Mapa de Calor?",
+"heatmapInfoP1": "O Mapa de Calor visualiza a <strong>intensidade e a concentração</strong> de sismos em uma área.",
+"heatmapInfoP2": "Ele <strong>não representa a temperatura do clima</strong>, mas sim onde a atividade sísmica tem sido mais frequente e/ou forte recentemente.",
+"heatmapInfoP3": "Áreas com cores 'quentes' (como vermelho e laranja) indicam uma alta densidade de terremotos, enquanto áreas 'frias' (azuis) indicam menor atividade.",
+"heatmapInfoP4": "É uma ferramenta útil para identificar rapidamente as zonas sísmicas mais ativas no globo."
 }
+
 
 
