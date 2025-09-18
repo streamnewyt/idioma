@@ -1,9 +1,9 @@
 {
     "appTitle": "StreamNew Monitor",
-    "monitorTab": "📊 Monitor",
-    "queryTab": "🔍 Consultar",
-    "volcanosTab": "🌋 Vulcões",
-    "mapTab": "🗺️ Mapa",
+    "monitorTab": "Monitor",
+    "queryTab": "Consultar",
+    "volcanosTab": "Vulcões",
+    "mapTab": "Mapa",
     "aboutTitle": "❓ Sobre",
     "closeButton": "Fechar",
     "refreshButton": "Atualizar Dados",
@@ -214,4 +214,5 @@
     "alertsDisabled": "🔕 Alertas sísmicos desativados.",
     "alertsError": "⚠️ Erro ao atualizar os alertas."
 }
+
 
