@@ -196,7 +196,13 @@
     "aboutDescPrivacy": "Lee nuestra <a href=\"https://www.streamnew.net/p/politica-de-privacidad-streamnew.html\" target=\"_blank\">Política de Privacidad</a> para entender cómo manejamos los datos.",
     "alertsEnabled": "🔔 ¡Alertas sísmicas activadas con éxito!",
     "alertsDisabled": "🔕 Alertas sísmicas desactivadas.",
-    "alertsError": "⚠️ Error al actualizar las alertas."
+    "alertsError": "⚠️ Error al actualizar las alertas.",
+    "heatmapInfoTitle": "¿Qué es el Mapa de Calor?",
+"heatmapInfoP1": "El Mapa de Calor visualiza la <strong>intensidad y concentración</strong> de sismos en un área.",
+"heatmapInfoP2": "<strong>No representa la temperatura del clima</strong>, sino dónde la actividad sísmica ha sido más frecuente y/o fuerte recientemente.",
+"heatmapInfoP3": "Las áreas con colores 'cálidos' (como rojo y naranja) indican una alta densidad de terremotos, mientras que las áreas 'frías' (azules) indican menos actividad.",
+"heatmapInfoP4": "Es una herramienta útil para identificar rápidamente las zonas sísmicas más activas del globo."
 
 }
+
 
