@@ -201,8 +201,20 @@
 "heatmapInfoP1": "ヒートマップは、ある地域の地震の<strong>強度と集中度</strong>を視覚化します。",
 "heatmapInfoP2": "これは<strong>天候の温度を表すものではなく</strong>、最近どこで地震活動が最も頻繁かつ強力であったかを示します。",
 "heatmapInfoP3": "「暖かい」色（赤やオレンジなど）のエリアは地震の密度が高いことを示し、「冷たい」色（青）は活動が少ないことを示します。",
-"heatmapInfoP4": "これは、地球上で最も活発な地震帯を迅速に特定するための便利なツールです。"
+"heatmapInfoP4": "これは、地球上で最も活発な地震帯を迅速に特定するための便利なツールです。",
+    "detailStatus": "ステータス",
+"detailAlert": "警告レベル",
+"detailMMI": "最大震度",
+"detailFelt": "体感報告",
+"detailSignificance": "重要度",
+"detailStations": "観測点数",
+"detailMoreInfo": "USGSで表示",
+"statusReviewed": "地震学者によるレビュー済み",
+"statusAutomatic": "自動",
+"people": "人",
+"noFeltReports": "記録なし"
 }
+
 
 
 
