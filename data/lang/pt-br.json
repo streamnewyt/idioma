@@ -101,7 +101,7 @@
     "distanceUnitDescription": "Escolha entre quilômetros ou milhas para a exibição de profundidade e distância.",
     "autoRefreshDescription": "Quando ativada, a lista de sismos no monitor principal será atualizada automaticamente a cada 5 minutos.",
     "highlightDescription": "Ative para ser alertado automaticamente ao entrar no app quando houver sismos de magnitude 6.0 ou superior.",
-    "analyzeEarthquake": "✨ Analisar Sismo",
+    "analyzeEarthquake": "✨ ANALISAR SISMO",
     "generateVolcanoSummary": "✨ Gerar Resumo IA",
     "analyzing": "Analisando...",
     "generating": "Gerando...",
@@ -231,6 +231,7 @@
 "noFeltReports": "Sem registros",
     "potentialTsunami": "POTENCIAL TSUNAMI"
 }
+
 
 
 
