@@ -228,8 +228,10 @@
 "statusReviewed": "Revisado por Sismólogo",
 "statusAutomatic": "Automático",
 "people": "pessoas",
-"noFeltReports": "Sem registros"
+"noFeltReports": "Sem registros",
+    "potentialTsunami": "POTENCIAL TSUNAMI"
 }
+
 
 
 
