@@ -212,8 +212,10 @@
 "statusReviewed": "Ditinjau oleh Seismolog",
 "statusAutomatic": "Otomatis",
 "people": "orang",
-"noFeltReports": "Tidak ada catatan"
+"noFeltReports": "Tidak ada catatan",
+    "potentialTsunami": "POTENSI TSUNAMI"
 }
+
 
 
 
