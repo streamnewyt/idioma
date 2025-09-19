@@ -217,8 +217,20 @@
 "heatmapInfoP1": "O Mapa de Calor visualiza a <strong>intensidade e a concentração</strong> de sismos em uma área.",
 "heatmapInfoP2": "Ele <strong>não representa a temperatura do clima</strong>, mas sim onde a atividade sísmica tem sido mais frequente e/ou forte recentemente.",
 "heatmapInfoP3": "Áreas com cores 'quentes' (como vermelho e laranja) indicam uma alta densidade de terremotos, enquanto áreas 'frias' (azuis) indicam menor atividade.",
-"heatmapInfoP4": "É uma ferramenta útil para identificar rapidamente as zonas sísmicas mais ativas no globo."
+"heatmapInfoP4": "É uma ferramenta útil para identificar rapidamente as zonas sísmicas mais ativas no globo.",
+    "detailStatus": "Status",
+"detailAlert": "Nível de Alerta",
+"detailMMI": "Intensidade Máx.",
+"detailFelt": "Sentido por",
+"detailSignificance": "Significância",
+"detailStations": "Estações",
+"detailMoreInfo": "Ver na USGS",
+"statusReviewed": "Revisado por Sismólogo",
+"statusAutomatic": "Automático",
+"people": "pessoas",
+"noFeltReports": "Sem registros"
 }
+
 
 
 
