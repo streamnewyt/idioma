@@ -212,8 +212,10 @@
 "statusReviewed": "地震学者によるレビュー済み",
 "statusAutomatic": "自動",
 "people": "人",
-"noFeltReports": "記録なし"
+"noFeltReports": "記録なし",
+    "potentialTsunami": "津波の可能性"
 }
+
 
 
 
