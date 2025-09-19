@@ -212,9 +212,10 @@
 "statusReviewed": "Revisado por Sismólogo",
 "statusAutomatic": "Automático",
 "people": "personas",
-"noFeltReports": "Sin registros"
-
+"noFeltReports": "Sin registros",
+"potentialTsunami": "POTENCIAL DE TSUNAMI"
 }
+
 
 
 
