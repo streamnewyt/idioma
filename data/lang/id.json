@@ -213,8 +213,25 @@
 "statusAutomatic": "Otomatis",
 "people": "orang",
 "noFeltReports": "Tidak ada catatan",
-    "potentialTsunami": "POTENSI TSUNAMI"
+    "potentialTsunami": "POTENSI TSUNAMI",
+    "shakeMapLabel": "Peta Intensitas (USGS)",
+  "intensityScaleTitle": "Skala Intensitas",
+  "shakeMapNoData": "Tidak ada data intensitas gempa USGS terkini yang tersedia.",
+  "shakeMapLoading": "Memuat peta intensitas...",
+  "intensity": {
+    "1": "I. Tidak Dirasakan",
+    "2": "II. Lemah",
+    "3": "III. Lemah",
+    "4": "IV. Sedang",
+    "5": "V. Kuat",
+    "6": "VI. Sangat Kuat",
+    "7": "VII. Parah",
+    "8": "VIII. Dahsyat",
+    "9": "IX. Ekstrem",
+    "10": "X. Ekstrem"
+  }
 }
+
 
 
 
