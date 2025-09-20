@@ -213,8 +213,25 @@
 "statusAutomatic": "自動",
 "people": "人",
 "noFeltReports": "記録なし",
-    "potentialTsunami": "津波の可能性"
+    "potentialTsunami": "津波の可能性",
+    "shakeMapLabel": "震度マップ (USGS)",
+  "intensityScaleTitle": "震度階級",
+  "shakeMapNoData": "利用可能なUSGSの最近の地震の震度データはありません。",
+  "shakeLoading": "震度マップを読み込んでいます...",
+  "intensity": {
+    "1": "I. 無感",
+    "2": "II. 弱震",
+    "3": "III. 弱震",
+    "4": "IV. 中震",
+    "5": "V. 強震",
+    "6": "VI. 烈震",
+    "7": "VII. 激震",
+    "8": "VIII. 猛烈",
+    "9": "IX. 超絶",
+    "10": "X. 超絶"
+  }
 }
+
 
 
 
