@@ -213,8 +213,25 @@
 "statusAutomatic": "Automático",
 "people": "personas",
 "noFeltReports": "Sin registros",
-"potentialTsunami": "POTENCIAL TSUNAMI"
+"potentialTsunami": "POTENCIAL TSUNAMI",
+"shakeMapLabel": "Mapa de Intensidad (USGS)",
+  "intensityScaleTitle": "Escala de Intensidad",
+  "shakeMapNoData": "No hay datos de intensidad disponibles para sismos recientes de USGS.",
+  "shakeMapLoading": "Cargando mapa de intensidad...",
+  "intensity": {
+    "1": "I. No Sentido",
+    "2": "II. Débil",
+    "3": "III. Débil",
+    "4": "IV. Moderado",
+    "5": "V. Fuerte",
+    "6": "VI. Muy Fuerte",
+    "7": "VII. Severo",
+    "8": "VIII. Violento",
+    "9": "IX. Extremo",
+    "10": "X. Extremo"
+  }
 }
+
 
 
 
