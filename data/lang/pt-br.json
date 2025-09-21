@@ -229,8 +229,10 @@
 "statusAutomatic": "Automático",
 "people": "pessoas",
 "noFeltReports": "Sem registros",
-    "potentialTsunami": "POTENCIAL TSUNAMI"
+    "potentialTsunami": "POTENCIAL TSUNAMI",
+    "shakeMapReady": "{count} sismos com mapa de intensidade foram destacados. Clique em um para ver os detalhes."
 }
+
 
 
 
