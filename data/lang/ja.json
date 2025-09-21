@@ -216,6 +216,7 @@
     "potentialTsunami": "津波の可能性",
     "shakeMapLabel": "震度マップ (USGS)",
   "intensityScaleTitle": "震度階級",
+    "shakeMapReady": "震度マップ付きの地震が{count}件強調表示されました。クリックして詳細を確認してください。",
   "shakeMapNoData": "利用可能なUSGSの最近の地震の震度データはありません。",
   "shakeLoading": "震度マップを読み込んでいます...",
   "intensity": {
@@ -231,6 +232,7 @@
     "10": "X. 超絶"
   }
 }
+
 
 
 
