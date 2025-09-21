@@ -214,6 +214,7 @@
 "people": "personas",
 "noFeltReports": "Sin registros",
 "potentialTsunami": "POTENCIAL TSUNAMI",
+    "shakeMapViewButton": "Visualizar",
 "shakeMapLabel": "Mapa de Intensidad (USGS)",
     "shakeMapReady": "{count} sismos con mapa de intensidad han sido destacados. Haga clic en uno para ver los detalles.",
   "intensityScaleTitle": "Escala de Intensidad",
@@ -232,6 +233,7 @@
     "10": "X. Extremo"
   }
 }
+
 
 
 
