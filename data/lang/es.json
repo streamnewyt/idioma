@@ -229,8 +229,10 @@
     "8": "VIII. Violento",
     "9": "IX. Extremo",
     "10": "X. Extremo"
-  }
+  },
+    "shakeMapReady": "{count} sismos con mapa de intensidad han sido destacados. Haga clic en uno para ver los detalles."
 }
+
 
 
 
