@@ -217,6 +217,7 @@
     "shakeMapLabel": "Peta Intensitas (USGS)",
     "shakeMapReady": "{count} gempa dengan peta intensitas telah ditandai. Klik satu untuk melihat detailnya.",
   "intensityScaleTitle": "Skala Intensitas",
+    "shakeMapViewButton": "Lihat",
   "shakeMapNoData": "Tidak ada data intensitas gempa USGS terkini yang tersedia.",
   "shakeMapLoading": "Memuat peta intensitas...",
   "intensity": {
@@ -232,6 +233,7 @@
     "10": "X. Ekstrem"
   }
 }
+
 
 
 
