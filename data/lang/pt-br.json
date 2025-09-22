@@ -232,32 +232,45 @@
     "shakeMapViewButton": "Visualizar",
     "potentialTsunami": "POTENCIAL TSUNAMI",
     "shakeMapReady": "{count} sismos com mapa de intensidade foram destacados. Clique em um para ver os detalhes.",
-"airQualityMonitor": "Air Quality Monitor",
-    "back": "Back",
-    "selectVolcano": "Select Volcano",
-    "gasInfo": {
-        "volcanicGasesTitle": "🌋 Information about Volcanic Gases",
-        "co2": {
-            "title": "Dióxido de Carbono (CO₂)",
-            "color": "🟦",
-            "text": "**Origem vulcânica:** É o segundo gás mais abundante liberado por vulcões, depois do vapor d'água.\n**Comportamento:** Por ser mais pesado que o ar, pode se acumular em depressões do terreno, formando bolsões invisíveis e potencialmente letais.\n**Risco à saúde:** Em altas concentrações, pode causar asfixia. Em áreas abertas, geralmente se dispersa rapidamente.\n**Limite seguro:**\n<ul>\n    <li>Ambientes internos: até 1000 ppm</li>\n    <li>Áreas abertas vulcânicas: depende da ventilação natural, mas concentrações acima de 5000 ppm já exigem atenção.</li>\n</ul>"
-        },
-        "co": {
-            "title": "Monóxido de Carbono (CO)",
-            "color": "🟥",
-            "text": "**Origem vulcânica:** Surge em menor quantidade, geralmente pela combustão incompleta de matéria orgânica ou atividade magmática.\n**Comportamento:** Altamente tóxico, incolor e inodoro. Liga-se à hemoglobina e impede o transporte de oxigênio.\n**Risco à saúde:**\n<ul>\n    <li>39 ppm é o limite de tolerância ocupacional (NR-15)</li>\n    <li>200 ppm pode causar dor de cabeça</li>\n    <li>1000+ ppm pode levar à inconsciência ou morte em minutos</li>\n</ul>\n**Ambientes vulcânicos:** Apesar de raro em grandes volumes, pode se acumular em cavernas, crateras ou áreas com combustão."
-        },
-        "no2": {
-            "title": "Dióxido de Nitrogênio (NO₂)",
-            "color": "🟨",
-            "text": "**Origem vulcânica:** Menos comum, mas pode surgir como subproduto de reações atmosféricas envolvendo NOx.\n**Comportamento:** Gás irritante, de cor castanha-avermelhada, com odor forte. Contribui para chuva ácida.\n**Risco à saúde:**\n<ul>\n    <li>200 µg/m³ (média 1h) é o limite recomendado pela OMS</li>\n    <li>Pode causar irritação pulmonar, bronquite e agravar doenças respiratórias</li>\n</ul>\n**Ambientes vulcânicos:** Geralmente presente em plumas vulcânicas e áreas com alta atividade de desgaseificação."
-        },
-        "so2": {
-            "title": "Dióxido de Enxofre (SO₂)",
-            "color": "🟪",
-            "text": "**Origem vulcânica:** É um dos gases mais abundantes emitidos por vulcões ativos, especialmente durante fases de desgaseificação ou erupções explosivas.\n**Comportamento:** Gás incolor com odor pungente. Reage com a umidade do ar formando ácido sulfúrico (H₂SO₄), contribuindo para chuva ácida.\n**Risco à saúde:**\n<ul>\n    <li>Irrita olhos, garganta e pulmões</li>\n    <li>Pode causar tosse, chiado no peito, crises de asma</li>\n    <li>Afeta especialmente crianças, idosos e pessoas com doenças respiratórias</li>\n</ul>\n**Limites recomendados (OMS/CETESB):**\n<ul>\n    <li>Média diária (24h): ≤ 20 µg/m³</li>\n    <li>Curto prazo (1h): ≤ 500 µg/m³</li>\n    <li>Meta intermediária: 50–125 µg/m³ (transição)</li>\n</ul>\n**Indicador vulcânico:**\n<ul>\n    <li>Aumento súbito nas emissões pode sinalizar pressão magmática crescente</li>\n    <li>Níveis elevados e persistentes indicam risco de erupção ou atividade subterrânea intensa</li>\n</ul>"
-        }
-    }
+    "gasInfoTitle": "🌋 Informações sobre Gases Vulcânicos",
+    "gasCO2Title": "Dióxido de Carbono (CO₂)",
+    "gasCO2Origin": "<strong>Origem Vulcânica:</strong> É o segundo gás mais abundante liberado por vulcões, depois do vapor d’água.",
+    "gasCO2Behavior": "<strong>Comportamento:</strong> Por ser mais pesado que o ar, pode se acumular em depressões do terreno, formando bolsões invisíveis e potencialmente letais.",
+    "gasCO2HealthRisk": "<strong>Risco à Saúde:</strong> Em altas concentrações, pode causar asfixia. Em áreas abertas, geralmente se dispersa rapidamente.",
+    "gasCO2SafeLimits": "<strong>Limites Seguros:</strong>",
+    "gasCO2LimitIndoor": "Ambientes internos: até 1000 ppm",
+    "gasCO2LimitVolcanic": "Áreas abertas vulcânicas: depende da ventilação, mas concentrações acima de 5000 ppm exigem atenção.",
+    "gasCOTitle": "Monóxido de Carbono (CO)",
+    "gasCOOrigin": "<strong>Origem Vulcânica:</strong> Surge em menor quantidade, geralmente pela combustão incompleta de matéria orgânica ou atividade magmática.",
+    "gasCOBehavior": "<strong>Comportamento:</strong> Altamente tóxico, incolor e inodoro. Liga-se à hemoglobina e impede o transporte de oxigênio.",
+    "gasCOHealthRisk": "<strong>Risco à Saúde:</strong>",
+    "gasCOLimitOccupational": "39 ppm é o limite de tolerância ocupacional (NR-15)",
+    "gasCOLimitHeadache": "200 ppm pode causar dor de cabeça",
+    "gasCOLimitSevere": "1000+ ppm pode levar à inconsciência ou morte em minutos",
+    "gasCOVolcanicContext": "<strong>Ambientes Vulcânicos:</strong> Raro em grandes volumes, mas pode se acumular em cavernas, crateras ou áreas com combustão.",
+    "gasNO2Title": "Dióxido de Nitrogênio (NO₂)",
+    "gasNO2Origin": "<strong>Origem Vulcânica:</strong> Menos comum, mas pode surgir como subproduto de reações atmosféricas envolvendo NOx.",
+    "gasNO2Behavior": "<strong>Comportamento:</strong> Gás irritante, de cor castanha-avermelhada, com odor forte. Contribui para chuva ácida.",
+    "gasNO2HealthRisk": "<strong>Risco à Saúde:</strong>",
+    "gasNO2LimitWHO": "200 µg/m³ (média 1h) é o limite recomendado pela OMS",
+    "gasNO2Symptoms": "Pode causar irritação pulmonar, bronquite e agravar doenças respiratórias.",
+    "gasNO2VolcanicContext": "<strong>Ambientes Vulcânicos:</strong> Geralmente presente em plumas vulcânicas e áreas com alta atividade de desgaseificação.",
+    "gasSO2Title": "Dióxido de Enxofre (SO₂)",
+    "gasSO2Origin": "<strong>Origem Vulcânica:</strong> Um dos gases mais abundantes emitidos por vulcões ativos, especialmente durante desgaseificação ou erupções explosivas.",
+    "gasSO2Behavior": "<strong>Comportamento:</strong> Gás incolor com odor pungente. Reage com a umidade do ar formando ácido sulfúrico (H₂SO₄), contribuindo para chuva ácida.",
+    "gasSO2HealthRisk": "<strong>Risco à Saúde:</strong>",
+    "gasSO2Symptoms": "Irrita olhos, garganta e pulmões.",
+    "gasSO2Aggravates": "Pode causar tosse, chiado no peito e crises de asma.",
+    "gasSO2Vulnerable": "Afeta especialmente crianças, idosos e pessoas com doenças respiratórias.",
+    "gasSO2SafeLimits": "<strong>Limites Recomendados (OMS/CETESB):</strong>",
+    "gasSO2LimitDaily": "Média diária (24h): ≤ 20 µg/m³",
+    "gasSO2LimitShort": "Curto prazo (1h): ≤ 500 µg/m³",
+    "gasSO2LimitIntermediate": "Meta intermediária: 50–125 µg/m³ (transição)",
+    "gasSO2Indicator": "<strong>Indicador Vulcânico:</strong>",
+    "gasSO2IndicatorMagma": "Aumento súbito nas emissões pode sinalizar pressão magmática crescente.",
+    "gasSO2IndicatorRisk": "Níveis elevados e persistentes indicam risco de erupção ou atividade subterrânea intensa.",
+    "dispersionMapTitle": "Localização e Dispersão (Grade de 11km)",
+    "windLabel": "Vento"
 }
 
 
