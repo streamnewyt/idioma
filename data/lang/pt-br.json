@@ -240,7 +240,6 @@
 "aqLegendGood": "Bom",
 "aqLegendModerate": "Moderado",
 "aqLegendUnhealthy": "Prejudicial",
-    {
     "airQualityMonitor": "Air Quality Monitor",
     "back": "Back",
     "selectVolcano": "Select Volcano",
@@ -269,6 +268,7 @@
     }
 }
 }
+
 
 
 
