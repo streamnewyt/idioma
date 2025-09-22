@@ -270,8 +270,16 @@
     "gasSO2IndicatorMagma": "Aumento súbito nas emissões pode sinalizar pressão magmática crescente.",
     "gasSO2IndicatorRisk": "Níveis elevados e persistentes indicam risco de erupção ou atividade subterrânea intensa.",
     "dispersionMapTitle": "Localização e Dispersão (Grade de 11km)",
-    "windLabel": "Vento"
+    "windLabel": "Vento",
+    "airQualityMenuTitle": "Selecione o Vulcão",
+    "chartTitleCO2": "Dióxido de Carbono (CO₂)",
+    "chartTitleSO2": "Dióxido de Enxofre (SO₂)",
+    "chartTitleCO": "Monóxido de Carbono (CO)",
+    "chartTitleNO2": "Dióxido de Nitrogênio (NO₂)",
+        "backButton": "Retornar",
+    "airQualityTitle": "🌋 Dados de Poluentes Vulcânicos",
 }
+
 
 
 
