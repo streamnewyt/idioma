@@ -245,6 +245,7 @@
     "unitInfoUgM3": "<strong>µg/m³ (Mikrogram per meter kubik):</strong> Mengukur BERAT gas dalam volume udara. Ini adalah unit yang digunakan dalam grafik untuk SO₂, CO, dan NO₂.",
     "unitInfoPPM": "<strong>ppm (Bagian per juta):</strong> Mengukur VOLUME gas relatif terhadap udara. Ini lebih umum digunakan untuk gas seperti CO₂ dan dalam teks referensi toksisitas.",
     "gasInfoTitle": "🌋 Informasi Gas Vulkanik",
+    "volcanoSectionTitle": "🌋 Glosarium Vulkanik",
     "gasCO2Title": "Karbon Dioksida (CO₂)",
     "gasCO2Characteristic": "<strong>Karakteristik Utama:</strong> Menyebabkan sesak napas pada konsentrasi tinggi karena lebih padat dari udara.",
     "gasCO2RiskLevel": "<strong>Tingkat Risiko:</strong> 🟢 Rendah di area terbuka / 🔴 Tinggi di ruang tertutup dan tanpa ventilasi.",
@@ -296,6 +297,7 @@
 "aqDataSourceP2": "Informasi tentang SO₂ (sulfur dioksida), CO₂ (karbon dioksida), CO (karbon monoksida), dan NO₂ (nitrogen dioksida) digunakan untuk tujuan edukasi, lingkungan, dan peningkatan kesadaran. <strong>Penting:</strong> nilai yang ditampilkan dapat mengandung ketidakakuratan karena sifat estimasi data. Jika ada dugaan risiko kesehatan, aktivitas vulkanik yang intens, atau perubahan lingkungan yang signifikan, selalu ikuti arahan dari Badan Penanggulangan Bencana Daerah, otoritas lingkungan, atau layanan darurat resmi."
 
 }
+
 
 
 
