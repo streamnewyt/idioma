@@ -294,9 +294,12 @@
     "aqLastUpdated": "Datos actualizados en:",
 "aqDataSourceTitle": "Fuente de los datos atmosféricos:",
 "aqDataSourceP1": "Los datos mostrados en este monitor son proporcionados por la plataforma <span class=\"data-source-highlight\">Open-Meteo</span>, que utiliza modelos meteorológicos globales y observaciones satelitales para estimar la concentración de gases atmosféricos, especialmente en zonas volcánicas.",
-"aqDataSourceP2": "La información sobre SO₂ (dióxido de azufre), CO₂ (dióxido de carbono), CO (monóxido de carbono) y NO₂ (dióxido de nitrógeno) se utiliza con fines educativos, ambientales y de concienciación. <strong>Importante:</strong> los valores presentados pueden contener imprecisiones debido a la naturaleza estimada de los datos. En caso de sospecha de riesgo para la salud, actividad volcánica intensa o cambios ambientales significativos, siga siempre las indicaciones de la Defensa Civil local, autoridades ambientales o servicios oficiales de emergencia."
+"aqDataSourceP2": "La información sobre SO₂ (dióxido de azufre), CO₂ (dióxido de carbono), CO (monóxido de carbono) y NO₂ (dióxido de nitrógeno) se utiliza con fines educativos, ambientales y de concienciación. <strong>Importante:</strong> los valores presentados pueden contener imprecisiones debido a la naturaleza estimada de los datos. En caso de sospecha de riesgo para la salud, actividad volcánica intensa o cambios ambientales significativos, siga siempre las indicaciones de la Defensa Civil local, autoridades ambientales o servicios oficiales de emergencia.",
+    "gasGlossaryTitle": "Glosario de Gases Volcánicos",
+    "gasGlossaryButton": "🌋 Glosario de Gases Volcánicos"
 
 }
+
 
 
 
