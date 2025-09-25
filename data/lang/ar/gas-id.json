@@ -1,0 +1,69 @@
+{
+    "gasIntroTitle": "Panduan Gas Vulkanik",
+    "gasIntroP1": "Sebelum letusan, gunung berapi berbisik. Rahasianya tidak naik dalam bentuk api, tetapi dalam bentuk gas—tak terlihat, senyap, dan sangat mengungkapkan. Mereka adalah napas Bumi, sinyal paling halus dan penting yang ditawarkan geologi untuk memahami apa yang terjadi beberapa kilometer di bawah kaki kita.",
+    "gasIntroP2": "Gas-gas ini bukan sekadar produk sampingan magma. Mereka adalah pembawa pesan bawah tanah, membawa petunjuk tentang tekanan internal, komposisi kimia, dan bahkan suasana hati gunung berapi. Mengamati polanya seperti mendengarkan percakapan antara inti Bumi dan permukaannya.",
+    "birthTitle": "🔥 Bagaimana Gas Lahir?",
+    "birthP1": "Gas vulkanik dilepaskan melalui proses yang disebut <b>degassing magma</b>. Bayangkan magma seperti minuman bersoda di bawah tekanan sangat tinggi, tersimpan jauh di dalam kerak bumi. Magma ini mengandung gas terlarut—terutama uap air (H₂O), karbon dioksida (CO₂), sulfur dioksida (SO₂), dan senyawa volatil lainnya.",
+    "birthP2": "Saat magma ini naik ke permukaan, tekanan di sekitarnya menurun drastis. Sama seperti membuka botol soda, gas-gas tersebut terpisah dari cairan dan keluar, naik melalui retakan, celah, dan saluran vulkanik. Proses ini dapat terjadi sebelum, selama, atau bahkan tanpa letusan, menjadikan gas sebagai alat pemantauan yang konstan.",
+    "escapeTitle": "🌬️ Di Mana Mereka Keluar?",
+    "escapePoints": [
+        "<b>Fumarol:</b> celah di kerak bumi yang melepaskan uap dan gas panas.",
+        "<b>Mata air panas:</b> air yang dipanaskan oleh aktivitas vulkanik yang membawa gas terlarut.",
+        "<b>Solfatara:</b> area kaya sulfur, dengan emisi SO₂ yang intens.",
+        "<b>Kawah dan lereng:</b> bahkan tanpa letusan, dapat melepaskan gas melalui retakan mikro."
+    ],
+    "escapeConclusion": "Lokasi-lokasi ini seperti katup pelepas planet—dan masing-masing menceritakan bagian dari kisah bawah tanah.",
+    "signalsTitle": "🧠 Apa yang Mereka Beri Tahu?",
+    "signalsP1": "Komposisi dan jumlah gas-gas ini berfungsi sebagai <b>laporan kesehatan vulkanik</b>. Perubahan halus—atau mendadak—dapat mengindikasikan:",
+    "signalPoints": [
+        "Pergerakan magma",
+        "Peningkatan tekanan internal",
+        "Interaksi dengan air tanah",
+        "Perubahan jenis letusan yang diharapkan"
+    ],
+    "signalsP2": "Sebagai contoh, peningkatan mendadak emisi SO₂ (sulfur dioksida) adalah salah satu tanda paling andal bahwa magma mendekati permukaan. Sementara itu, CO₂, karena lebih ringan dan melimpah, dapat keluar bahkan tanpa letusan, mengungkapkan aktivitas dalam. Memantau gas-gas ini mengubah keingintahuan ilmiah menjadi pencegahan praktis. Mereka digunakan oleh ahli vulkanologi, sistem peringatan dini, dan bahkan komunitas lokal untuk memahami apakah gunung berapi sedang tenang, gelisah, atau akan bangun.",
+    "nextTitle": "🧪 Apa Selanjutnya?",
+    "nextP1": "Setiap gas memiliki ceritanya sendiri—asal, perilaku, risiko. Di bagian berikutnya, kita akan menjelajahi empat gas utama:",
+    "gasList": [
+        "<b>SO₂:</b> sinyal paling langsung dari magma aktif.",
+        "<b>CO₂:</b> gas senyap yang dapat menumpuk dan mencekik.",
+        "<b>CO:</b> pembunuh tak terlihat, beracun bahkan dalam dosis kecil.",
+        "<b>NO₂:</b> iritan atmosfer yang berkontribusi pada hujan asam."
+    ],
+    "gasSO2Title": "🟡 SO₂ — Sulfur Dioksida",
+    "gasSO2Subtitle": "Sinyal paling langsung dari magma aktif.",
+    "gasSO2Desc": "Ketika gunung berapi mulai melepaskan SO₂, seolah-olah ia sedang meninggikan suaranya. Gas ini adalah salah satu yang paling melimpah dalam letusan dan paling banyak digunakan oleh ahli vulkanologi sebagai indikator aktivitas magmatik.",
+    "gasSO2Points": {
+        "Asal": "Terbentuk dari oksidasi sulfur yang ada di dalam magma.",
+        "Perilaku": "Gas tidak berwarna dengan bau yang kuat dan menyengat (seperti korek api yang terbakar).",
+        "Dampak lingkungan": "Bereaksi dengan uap air di udara, membentuk asam sulfat—penyebab utama hujan asam dan fenomena yang dikenal sebagai <b>vog</b> (kabut asap vulkanik).",
+        "Sinyal geologis": "Peningkatan mendadak emisi SO₂ dapat mengindikasikan bahwa magma sedang naik, meningkatkan tekanan internal gunung berapi."
+    },
+    "gasCO2Title": "🔴 CO₂ — Karbon Dioksida",
+    "gasCO2Subtitle": "Gas senyap yang mengungkapkan kedalaman.",
+    "gasCO2Desc": "CO₂ adalah gas kedua yang paling melimpah yang dilepaskan oleh gunung berapi, setelah uap air. Tidak berbau, tidak berwarna—tetapi memiliki berat. Dan berat itu bisa mematikan.",
+    "gasCO2Points": {
+        "Asal": "Dilepaskan langsung dari magma atau melalui interaksi dengan batuan karbonat.",
+        "Perilaku": "Lebih berat dari udara, cenderung menumpuk di daerah dataran rendah, seperti lembah dan gua.",
+        "Risiko": "Dapat menggantikan oksigen di lingkungan, membentuk kantong-kantong tak terlihat dan mematikan.",
+        "Fakta menarik": "Dapat keluar bahkan tanpa letusan, menjadi sinyal aktivitas dalam yang konstan."
+    },
+    "gasCOTitle": "⚠️ CO — Karbon Monoksida",
+    "gasCOSubtitle": "Pembunuh tak terlihat.",
+    "gasCODesc": "CO kurang melimpah di gunung berapi, tetapi sangat berbahaya. Gas ini muncul di lingkungan dengan pembakaran tidak sempurna—seperti vegetasi yang terbakar oleh panas vulkanik—dan bisa mematikan bahkan dalam dosis kecil.",
+    "gasCOPoints": {
+        "Asal": "Hasil dari pembakaran parsial bahan organik di dekat sumber panas vulkanik.",
+        "Perilaku": "Gas tidak berwarna, tidak berbau, dan sangat beracun. Mencegah transportasi oksigen dalam darah.",
+        "Risiko": "Dapat menyebabkan pusing, pingsan, dan kematian diam-diam. Disebut 'gas pengkhianat' karena tidak memberikan tanda-tanda yang terlihat.",
+        "Aplikasi": "Dipantau di kawah dan area dengan vegetasi hangus."
+    },
+    "gasNO2Title": "🟠 NO₂ — Nitrogen Dioksida",
+    "gasNO2Subtitle": "Iritan atmosfer.",
+    "gasNO2Desc": "NO₂ kurang umum di gunung berapi, tetapi dapat muncul sebagai produk sampingan dari reaksi atmosfer yang melibatkan gas lain. Dikenal karena baunya yang kuat dan warnanya yang kemerahan.",
+    "gasNO2Points": {
+        "Asal": "Terbentuk dari reaksi antara gas vulkanik dan udara pada suhu tinggi.",
+        "Perilaku": "Gas yang mengiritasi, berwarna coklat kemerahan, berkontribusi pada pembentukan hujan asam.",
+        "Risiko": "Mempengaruhi sistem pernapasan, terutama pada anak-anak, orang tua, dan penderita asma.",
+        "Fakta menarik": "Dapat dideteksi secara visual pada letusan dengan warna kemerahan di uapnya."
+    }
+}
