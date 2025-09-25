@@ -1,0 +1,69 @@
+{
+    "gasIntroTitle": "A Guide to Volcanic Gases",
+    "gasIntroP1": "Before an eruption, a volcano whispers. Its secrets rise to the surface not in flames, but in gases—invisible, silent, and deeply revealing. They are the Earth's breath, the most subtle and important signals geology offers us to understand what is happening kilometers beneath our feet.",
+    "gasIntroP2": "These gases are not just byproducts of magma. They are subterranean messengers, carrying clues about internal pressure, chemical composition, and even the volcano's mood. Observing their patterns is like listening to a conversation between the Earth's core and its surface.",
+    "birthTitle": "🔥 How Are Gases Born?",
+    "birthP1": "Volcanic gases are released through a process called <b>magma degassing</b>. Imagine magma as a soda bottle under extremely high pressure, stored deep within the Earth's crust. It contains dissolved gases—mainly water vapor (H₂O), carbon dioxide (CO₂), sulfur dioxide (SO₂), and other volatile compounds.",
+    "birthP2": "As this magma rises toward the surface, the surrounding pressure drops dramatically. Just like opening a soda bottle, the gases escape from the liquid and rise through fractures, fissures, and volcanic conduits. This process can occur before, during, or even without eruptions, making gases a constant monitoring tool.",
+    "escapeTitle": "🌬️ Where Do They Escape?",
+    "escapePoints": [
+        "<b>Fumaroles:</b> openings in the crust that release hot steam and gases.",
+        "<b>Hot springs:</b> waters heated by volcanic activity that carry dissolved gases.",
+        "<b>Solfataras:</b> sulfur-rich areas with intense SO₂ emissions.",
+        "<b>Craters and slopes:</b> can release gases through microfractures even without an eruption."
+    ],
+    "escapeConclusion": "These locations are like the planet's exhaust valves—and each one tells a part of the subterranean story.",
+    "signalsTitle": "🧠 What Do They Tell Us?",
+    "signalsP1": "The composition and quantity of these gases act as a <b>volcanic health report</b>. Subtle—or abrupt—changes can indicate:",
+    "signalPoints": [
+        "Movement of magma",
+        "Increase in internal pressure",
+        "Interaction with groundwater",
+        "A change in the expected eruption type"
+    ],
+    "signalsP2": "For example, a sudden increase in SO₂ (sulfur dioxide) emissions is one of the most reliable signs that magma is approaching the surface. Meanwhile, CO₂, being lighter and more abundant, can escape even without an eruption, revealing deep activity. Monitoring these gases transforms scientific curiosity into practical prevention. They are used by volcanologists, early warning systems, and even local communities to understand if a volcano is calm, restless, or about to awaken.",
+    "nextTitle": "🧪 What's Next?",
+    "nextP1": "Each gas has its own story—an origin, a behavior, a risk. In the following sections, we will explore the four main ones:",
+    "gasList": [
+        "<b>SO₂:</b> the most direct sign of active magma.",
+        "<b>CO₂:</b> the silent gas that can accumulate and suffocate.",
+        "<b>CO:</b> the invisible killer, toxic even in small doses.",
+        "<b>NO₂:</b> the atmospheric irritant that contributes to acid rain."
+    ],
+    "gasSO2Title": "🟡 SO₂ — Sulfur Dioxide",
+    "gasSO2Subtitle": "The most direct sign of active magma.",
+    "gasSO2Desc": "When a volcano starts releasing SO₂, it's as if it's raising its voice. This gas is one of the most abundant in eruptions and is the most widely used by volcanologists as an indicator of magmatic activity.",
+    "gasSO2Points": {
+        "Origin": "Formed by the oxidation of sulfur present in the magma.",
+        "Behavior": "A colorless gas with a strong, irritating smell (like a burnt match).",
+        "Environmental Impact": "Reacts with moisture in the air to form sulfuric acid—the main cause of acid rain and the phenomenon known as <b>vog</b> (volcanic smog).",
+        "Geological Signal": "A sudden increase in SO₂ emissions can indicate that magma is rising, increasing the volcano's internal pressure."
+    },
+    "gasCO2Title": "🔴 CO₂ — Carbon Dioxide",
+    "gasCO2Subtitle": "The silent gas that reveals depth.",
+    "gasCO2Desc": "CO₂ is the second most abundant gas released by volcanoes, after water vapor. It has no smell, no color—but it has weight. And that weight can be deadly.",
+    "gasCO2Points": {
+        "Origin": "Released directly from magma or through interaction with carbonate rocks.",
+        "Behavior": "Heavier than air, it tends to accumulate in low-lying areas, such as valleys and caves.",
+        "Risk": "It can displace oxygen in the environment, forming invisible and lethal pockets.",
+        "Curiosity": "It can escape even without an eruption, signaling deep and constant activity."
+    },
+    "gasCOTitle": "⚠️ CO — Carbon Monoxide",
+    "gasCOSubtitle": "The invisible killer.",
+    "gasCODesc": "CO is less abundant in volcanoes but is extremely dangerous. It arises in environments with incomplete combustion—like vegetation burned by volcanic heat—and can be lethal even in small doses.",
+    "gasCOPoints": {
+        "Origin": "Results from the partial burning of organic matter near volcanic heat sources.",
+        "Behavior": "A colorless, odorless, and highly toxic gas. It prevents oxygen transport in the blood.",
+        "Risk": "Can cause dizziness, fainting, and silent death. It is called a 'treacherous gas' because it gives no visible signs.",
+        "Application": "Monitored in craters and areas with charred vegetation."
+    },
+    "gasNO2Title": "🟠 NO₂ — Nitrogen Dioxide",
+    "gasNO2Subtitle": "The atmospheric irritant.",
+    "gasNO2Desc": "NO₂ is less common in volcanoes but can arise as a byproduct of atmospheric reactions involving other gases. It is known for its strong smell and reddish-brown color.",
+    "gasNO2Points": {
+        "Origin": "Formed by reactions between volcanic gases and the air at high temperatures.",
+        "Behavior": "An irritating, reddish-brown gas that contributes to the formation of acid rain.",
+        "Risk": "Affects the respiratory system, especially in children, the elderly, and people with asthma.",
+        "Curiosity": "Can be detected visually in eruptions with a reddish hue in the vapor."
+    }
+}
