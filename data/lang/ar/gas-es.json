@@ -1,0 +1,69 @@
+{
+    "gasIntroTitle": "Una Guía Sobre los Gases Volcánicos",
+    "gasIntroP1": "Antes de una erupción, un volcán susurra. Sus secretos no ascienden en llamas, sino en gases —invisibles, silenciosos y profundamente reveladores. Son la respiración de la Tierra, las señales más sutiles e importantes que la geología nos ofrece para entender lo que sucede a kilómetros bajo nuestros pies.",
+    "gasIntroP2": "Estos gases no son solo subproductos del magma. Son mensajeros subterráneos, que transportan pistas sobre la presión interna, la composición química e incluso el humor del volcán. Observar sus patrones es como escuchar una conversación entre el núcleo de la Tierra y la superficie.",
+    "birthTitle": "🔥 ¿Cómo Nacen los Gases?",
+    "birthP1": "Los gases volcánicos se liberan mediante un proceso llamado <b>desgasificación del magma</b>. Imagina el magma como un refresco bajo altísima presión, almacenado en las profundidades de la corteza terrestre. Contiene gases disueltos, principalmente vapor de agua (H₂O), dióxido de carbono (CO₂), dióxido de azufre (SO₂) y otros compuestos volátiles.",
+    "birthP2": "A medida que este magma asciende hacia la superficie, la presión a su alrededor disminuye drásticamente. Al igual que al abrir una botella de refresco, los gases se separan del líquido y escapan, ascendiendo a través de fracturas, fisuras y conductos volcánicos. Este proceso puede ocurrir antes, durante o incluso sin erupciones, convirtiendo a los gases en una herramienta de monitoreo constante.",
+    "escapeTitle": "🌬️ ¿Por Dónde Escapan?",
+    "escapePoints": [
+        "<b>Fumarolas:</b> aberturas en la corteza que liberan vapor y gases calientes.",
+        "<b>Fuentes termales:</b> aguas calentadas por la actividad volcánica que transportan gases disueltos.",
+        "<b>Solfataras:</b> áreas ricas en azufre, con intensa emisión de SO₂.",
+        "<b>Cráteres y laderas:</b> incluso sin erupción, pueden liberar gases a través de microfracturas."
+    ],
+    "escapeConclusion": "Estos lugares son como válvulas de escape del planeta, y cada uno cuenta una parte de la historia subterránea.",
+    "signalsTitle": "🧠 ¿Qué Nos Dicen?",
+    "signalsP1": "La composición y la cantidad de estos gases funcionan como un <b>boletín de salud volcánico</b>. Cambios sutiles —o abruptos— pueden indicar:",
+    "signalPoints": [
+        "Movimiento de magma",
+        "Aumento de la presión interna",
+        "Interacción con aguas subterráneas",
+        "Cambio en el tipo de erupción esperada"
+    ],
+    "signalsP2": "Por ejemplo, un aumento súbito en la emisión de SO₂ (dióxido de azufre) es una de las señales más fiables de que el magma se está acercando a la superficie. Por su parte, el CO₂, al ser más ligero y abundante, puede escapar incluso sin erupción, revelando actividad profunda. Monitorear estos gases transforma la curiosidad científica en prevención práctica. Son utilizados por vulcanólogos, sistemas de alerta temprana e incluso por comunidades locales para entender si el volcán está en calma, inquieto o a punto de despertar.",
+    "nextTitle": "🧪 ¿Y Qué Sigue?",
+    "nextP1": "Cada gas tiene su propia historia: un origen, un comportamiento, un riesgo. En los próximos bloques, exploraremos los cuatro principales:",
+    "gasList": [
+        "<b>SO₂:</b> la señal más directa de magma activo.",
+        "<b>CO₂:</b> el gas silencioso que puede acumularse y asfixiar.",
+        "<b>CO:</b> el asesino invisible, tóxico incluso en pequeñas dosis.",
+        "<b>NO₂:</b> el irritante atmosférico que contribuye a la lluvia ácida."
+    ],
+    "gasSO2Title": "🟡 SO₂ — Dióxido de Azufre",
+    "gasSO2Subtitle": "La señal más directa de magma activo.",
+    "gasSO2Desc": "Cuando el volcán comienza a liberar SO₂, es como si estuviera alzando la voz. Este gas es uno de los más abundantes en las erupciones y el más utilizado por los vulcanólogos como indicador de actividad magmática.",
+    "gasSO2Points": {
+        "Origen": "Formado por la oxidación del azufre presente en el magma.",
+        "Comportamiento": "Gas incoloro con un olor fuerte e irritante (como un fósforo quemado).",
+        "Impacto ambiental": "Reacciona con la humedad del aire, formando ácido sulfúrico, el principal responsable de la lluvia ácida y del fenómeno conocido como <b>vog</b> (smog volcánico).",
+        "Señal geológica": "Un aumento súbito en la emisión de SO₂ puede indicar que el magma está ascendiendo, aumentando la presión interna del volcán."
+    },
+    "gasCO2Title": "🔴 CO₂ — Dióxido de Carbono",
+    "gasCO2Subtitle": "El gas silencioso que revela la profundidad.",
+    "gasCO2Desc": "El CO₂ es el segundo gas más abundante liberado por los volcanes, después del vapor de agua. No tiene olor, no tiene color, pero tiene peso. Y ese peso puede ser mortal.",
+    "gasCO2Points": {
+        "Origen": "Liberado directamente del magma o por interacción con rocas carbonatadas.",
+        "Comportamiento": "Más pesado que el aire, tiende a acumularse en depresiones del terreno, como valles y cuevas.",
+        "Riesgo": "Puede desplazar el oxígeno del ambiente, formando bolsas invisibles y letales.",
+        "Curiosidad": "Puede escapar incluso sin erupción, siendo una señal de actividad profunda y constante."
+    },
+    "gasCOTitle": "⚠️ CO — Monóxido de Carbono",
+    "gasCOSubtitle": "El asesino invisible.",
+    "gasCODesc": "El CO es menos abundante en los volcanes, pero extremadamente peligroso. Surge en ambientes con combustión incompleta —como vegetación quemada por el calor volcánico— y puede ser letal incluso en pequeñas dosis.",
+    "gasCOPoints": {
+        "Origen": "Resultado de la quema parcial de materia orgánica cerca de fuentes de calor volcánicas.",
+        "Comportamiento": "Gas incoloro, inodoro y altamente tóxico. Impide el transporte de oxígeno en la sangre.",
+        "Riesgo": "Puede causar mareos, desmayos y la muerte silenciosa. Se le llama el 'gas traicionero' por no dar señales visibles.",
+        "Aplicación": "Monitoreado en cráteres y áreas con vegetación carbonizada."
+    },
+    "gasNO2Title": "🟠 NO₂ — Dióxido de Nitrógeno",
+    "gasNO2Subtitle": "El irritante atmosférico.",
+    "gasNO2Desc": "El NO₂ es menos común en los volcanes, pero puede surgir como subproducto de reacciones atmosféricas que involucran otros gases. Es conocido por su olor fuerte y su coloración rojiza.",
+    "gasNO2Points": {
+        "Origen": "Formado por reacciones entre gases volcánicos y el aire a altas temperaturas.",
+        "Comportamiento": "Gas irritante, de color marrón rojizo, que contribuye a la formación de la lluvia ácida.",
+        "Riesgo": "Afecta el sistema respiratorio, especialmente en niños, ancianos y personas con asma.",
+        "Curiosidad": "Puede ser detectado visualmente en erupciones con una coloración rojiza en el vapor."
+    }
+}
