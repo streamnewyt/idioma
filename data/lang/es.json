@@ -150,7 +150,6 @@
     "changeLanguageBtn": "Cambiar",
     "languageDescription": "Cambia el idioma de la interfaz de la aplicación.",
     "glossaryTitle": "📖 Glosario",
-    "volcanoSectionTitle": "🌋 Glosario Volcánico",
     "dataSaverSetting": "Ahorro de Datos",
     "dataSaverDescription": "Activa un modo súper ligero que desactiva mapas y otras funciones pesadas, cargando solo una lista de texto con los 50 sismos más recientes.",
     "notification_dataSaverOn": "Modo de ahorro de datos activado",
@@ -297,6 +296,7 @@
 "aqDataSourceP2": "La información sobre SO₂ (dióxido de azufre), CO₂ (dióxido de carbono), CO (monóxido de carbono) y NO₂ (dióxido de nitrógeno) se utiliza con fines educativos, ambientales y de concienciación. <strong>Importante:</strong> los valores presentados pueden contener imprecisiones debido a la naturaleza estimada de los datos. En caso de sospecha de riesgo para la salud, actividad volcánica intensa o cambios ambientales significativos, siga siempre las indicaciones de la Defensa Civil local, autoridades ambientales o servicios oficiales de emergencia."
 
 }
+
 
 
 
