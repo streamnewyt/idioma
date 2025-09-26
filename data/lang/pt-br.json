@@ -296,8 +296,10 @@
     "aqDataSourceP1": "Os dados exibidos neste monitor são fornecidos pela plataforma <span class=\"data-source-highlight\">Open-Meteo</span>, que utiliza modelos meteorológicos globais e observações satelitais para estimar a concentração de gases atmosféricos, especialmente em áreas vulcânicas.",
     "aqDataSourceP2": "As informações sobre SO₂ (dióxido de enxofre), CO₂ (dióxido de carbono), CO (monóxido de carbono) e NO₂ (dióxido de nitrogênio) são utilizadas com fins educativos, ambientais e de apoio à conscientização. <strong>Importante:</strong> os valores apresentados podem conter imprecisões devido à natureza estimada dos dados. Em caso de suspeita de risco à saúde, atividade vulcânica intensa ou alterações ambientais significativas, siga sempre as orientações da Defesa Civil local, autoridades ambientais ou serviços oficiais de emergência.",
     "gasGlossaryTitle": "Glossário dos Gases Vulcânicos",
-    "gasGlossaryButton": "🌋 Glossário dos Gases Vulcânicos"
+    "gasGlossaryButton": "🌋 Glossário dos Gases Vulcânicos",
+    "generateAirQualitySummary": "✨ Gerar Resumo QA"
 }
+
 
 
 
