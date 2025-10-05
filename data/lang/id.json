@@ -299,9 +299,13 @@
     "gasGlossaryButton": "🌋 Glosarium Gas Vulkanik",
     "generateAirQualitySummary": "✨ Buat Ringkasan KU",
 "sourceDistributionTitle": "Distribusi berdasarkan Sumber",
-"chartDistributionByDay": "Distribusi berdasarkan Hari"
+"chartDistributionByDay": "Distribusi berdasarkan Hari",
+    "copySummaryButton": "Salin Ringkasan",
+"copyWeeklySummary": "Salin Analisis",
+"chartDepthDistributionWeekly": "Aktivitas Seismik (7 Hari Terakhir)"
 
 }
+
 
 
 
