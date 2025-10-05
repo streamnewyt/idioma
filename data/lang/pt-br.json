@@ -30,7 +30,7 @@
     "aboutFeature4": "<b>🗺️ Mapa Interativo:</b> Visualize a atividade sísmica global. Ative camadas de dados para ver a localização de <b>vulcões</b> e o traçado das <b>placas tectônicas</b>, fornecendo um contexto geológico completo.",
     "aboutFeature5": "<b>⚙️ Configurações e Personalização:</b> Ajuste o app ao seu gosto. Altere a <b>unidade de distância</b> (km/milhas), ative a <b>atualização automática</b>, inclua sismos de <b>baixa magnitude</b> ou ligue o <b>painel de destaque</b> para sismos fortes (M6+).",
     "aboutHeader3": "Fonte dos Dados",
-    aboutDesc3: "Esta aplicação utiliza dados públicos de fontes globais. A fonte primária é o <b>USGS (Serviço Geológico dos Estados Unidos)</b>, complementada pelo <b>Portal Sísmico (EMSC)</b>. Os dados das placas tectônicas são fornecidos por Peter Bird, processados por Hugo Ahlenius (Nordpil).",
+    "aboutDesc3": "Esta aplicação utiliza dados públicos de fontes globais. A fonte primária é o <b>USGS (Serviço Geológico dos Estados Unidos)</b>, complementada pelo <b>Portal Sísmico (EMSC)</b>. Os dados das placas tectônicas são fornecidos por Peter Bird, processados por Hugo Ahlenius (Nordpil).",
     "aboutHeader4": "Desenvolvimento",
     "aboutDevInfoHTML": "<p>Desenvolvido por <b>StreamNew</b></p><p><button id=\"contact-email-btn\">Sugestões & Contacto</button></p>",
     "aboutHeader5": "Redes Sociais",
@@ -299,6 +299,7 @@
     "gasGlossaryButton": "🌋 Glossário dos Gases Vulcânicos",
     "generateAirQualitySummary": "✨ Gerar Resumo QA"
 }
+
 
 
 
