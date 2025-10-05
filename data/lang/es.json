@@ -299,9 +299,13 @@
     "gasGlossaryButton": "🌋 Glosario de Gases Volcánicos",
     "generateAirQualitySummary": "✨ Generar Resumen CA",
     "sourceDistributionTitle": "Distribución por Fuente",
-"chartDistributionByDay": "Distribución por Día"
+"chartDistributionByDay": "Distribución por Día",
+    "copySummaryButton": "Copiar Resumen",
+"copyWeeklySummary": "Copiar Análisis",
+"chartDepthDistributionWeekly": "Actividad Sísmica (Últimos 7 Días)"
 
 }
+
 
 
 
