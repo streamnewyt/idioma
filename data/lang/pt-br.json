@@ -297,8 +297,11 @@
     "aqDataSourceP2": "As informações sobre SO₂ (dióxido de enxofre), CO₂ (dióxido de carbono), CO (monóxido de carbono) e NO₂ (dióxido de nitrogênio) são utilizadas com fins educativos, ambientais e de apoio à conscientização. <strong>Importante:</strong> os valores apresentados podem conter imprecisões devido à natureza estimada dos dados. Em caso de suspeita de risco à saúde, atividade vulcânica intensa ou alterações ambientais significativas, siga sempre as orientações da Defesa Civil local, autoridades ambientais ou serviços oficiais de emergência.",
     "gasGlossaryTitle": "Glossário dos Gases Vulcânicos",
     "gasGlossaryButton": "🌋 Glossário dos Gases Vulcânicos",
-    "generateAirQualitySummary": "✨ Gerar Resumo QA"
+    "generateAirQualitySummary": "✨ Gerar Resumo QA",
+    "sourceDistributionTitle": "Distribuição por Fonte",
+    "chartDistributionByDay": "Distribuição por Dia"
 }
+
 
 
 
