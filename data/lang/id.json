@@ -30,7 +30,7 @@
     "aboutFeature4": "<b>🗺️ Peta Interaktif:</b> Visualisasikan aktivitas seismik global. Aktifkan lapisan data untuk melihat lokasi <b>gunung berapi</b> dan tata letak <b>lempeng tektonik</b>, memberikan konteks geologis yang lengkap.",
     "aboutFeature5": "<b>⚙️ Pengaturan dan Kustomisasi:</b> Sesuaikan aplikasi sesuai keinginan Anda. Ubah <b>satuan jarak</b> (km/mil), aktifkan <b>penyegaran otomatis</b>, sertakan gempa <b>magnitudo rendah</b>, atau nyalakan <b>panel sorotan</b> untuk gempa kuat (M6+).",
     "aboutHeader3": "Sumber Data",
-    "aboutDesc3": "Aplikasi ini menggunakan data publik dari sumber global. Sumber utamanya adalah <b>USGS (United States Geological Survey)</b>, dilengkapi oleh <b>Seismic Portal (EMSC)</b>, yang mengumpulkan informasi dari berbagai pusat seismologi di seluruh dunia untuk memberikan cakupan yang lebih luas.",
+    "aboutDesc3": "Aplikasi ini menggunakan data publik dari sumber global. Sumber utamanya adalah <b>USGS (Survei Geologi Amerika Serikat)</b>, dilengkapi oleh <b>Portal Seismik (EMSC)</b>, yang mengumpulkan informasi dari berbagai pusat seismologi di seluruh dunia untuk memberikan cakupan yang lebih luas. Data lempeng tektonik disediakan oleh Peter Bird, diproses oleh Hugo Ahlenius (Nordpil).",
     "aboutHeader4": "Dikembangkan oleh",
     "aboutHeader5": "Media Sosial",
     "aboutDevInfoHTML": "<p>Dikembangkan oleh <b>StreamNew</b></p><p><button id=\"contact-email-btn\">Saran & Kontak</button></p>",
@@ -300,6 +300,7 @@
     "generateAirQualitySummary": "✨ Buat Ringkasan KU"
 
 }
+
 
 
 
