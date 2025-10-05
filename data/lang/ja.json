@@ -299,9 +299,13 @@
     "gasGlossaryButton": "🌋 火山ガス用語集",
     "generateAirQualitySummary": "✨ AQ要約を生成",
 "sourceDistributionTitle": "ソース別の分布",
-"chartDistributionByDay": "日別の分布"
+"chartDistributionByDay": "日別の分布",
+    "copySummaryButton": "概要をコピー",
+"copyWeeklySummary": "分析をコピー",
+"chartDepthDistributionWeekly": "地震活動（過去7日間）"
 
 }
+
 
 
 
