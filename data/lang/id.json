@@ -297,9 +297,12 @@
 "aqDataSourceP2": "Informasi tentang SO₂ (sulfur dioksida), CO₂ (karbon dioksida), CO (karbon monoksida), dan NO₂ (nitrogen dioksida) digunakan untuk tujuan edukasi, lingkungan, dan peningkatan kesadaran. <strong>Penting:</strong> nilai yang ditampilkan dapat mengandung ketidakakuratan karena sifat estimasi data. Jika ada dugaan risiko kesehatan, aktivitas vulkanik yang intens, atau perubahan lingkungan yang signifikan, selalu ikuti arahan dari Badan Penanggulangan Bencana Daerah, otoritas lingkungan, atau layanan darurat resmi.",
     "gasGlossaryTitle": "Glosarium Gas Vulkanik",
     "gasGlossaryButton": "🌋 Glosarium Gas Vulkanik",
-    "generateAirQualitySummary": "✨ Buat Ringkasan KU"
+    "generateAirQualitySummary": "✨ Buat Ringkasan KU",
+"sourceDistributionTitle": "Distribusi berdasarkan Sumber",
+"chartDistributionByDay": "Distribusi berdasarkan Hari"
 
 }
+
 
 
 
