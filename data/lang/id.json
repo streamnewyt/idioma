@@ -302,9 +302,30 @@
 "chartDistributionByDay": "Distribusi berdasarkan Hari",
     "copySummaryButton": "Salin Ringkasan",
 "copyWeeklySummary": "Salin Analisis",
-"chartDepthDistributionWeekly": "Aktivitas Seismik (7 Hari Terakhir)"
+"chartDepthDistributionWeekly": "Aktivitas Seismik (7 Hari Terakhir)",
+    "detailAlert": "Tingkat Peringatan",
+"detailUpdated": "Pembaruan Terakhir",
+"detailGap": "Celah Azimuthal",
+"detailRMS": "Kesalahan RMS",
+"detailDmin": "Stasiun Terdekat",
+"detailMagType": "Jenis Magnitudo",
+"didacticGapTitle": "Apa itu Celah Azimuthal?",
+"didacticGapDesc": "Ini adalah sudut terbesar tanpa stasiun seismik di sekitar episentrum. Celah yang lebih kecil (misalnya < 90°) berarti gempa dikelilingi dengan baik oleh sensor, menghasilkan lokasi yang lebih akurat. Celah besar (> 180°) menunjukkan lokasi yang kurang dapat diandalkan.",
+"didacticRmsTitle": "Apa itu Kesalahan RMS?",
+"didacticRmsDesc": "Kesalahan 'Root Mean Square' (RMS) mengukur seberapa baik lokasi yang dihitung sesuai dengan data yang diamati dari sensor. Nilai yang lebih kecil (misalnya < 0.5) menunjukkan perhitungan berkualitas tinggi dan andal.",
+"didacticDminTitle": "Apa itu Stasiun Terdekat?",
+"didacticDminDesc": "Ini adalah jarak (dalam derajat, di mana 1° ≈ 111 km) ke stasiun seismik terdekat. Nilai yang lebih kecil berarti ada sensor yang sangat dekat dengan kejadian, yang sangat meningkatkan akurasi lokasi dan kedalaman.",
+"didacticMagTypeTitle": "Apa itu Jenis Magnitudo?",
+"didacticMagTypeDesc": "Ini adalah metode yang digunakan untuk menghitung magnitudo. 'ML' (Magnitudo Lokal) dan 'MD' (Magnitudo Durasi) umum untuk gempa kecil dan lokal. 'MB' (Gelombang Tubuh) dan 'MW' (Magnitudo Momen) digunakan untuk gempa yang lebih besar dan jauh, dengan MW menjadi yang paling akurat untuk peristiwa kuat.",
+"didacticMmiTitle": "Apa itu Skala Mercalli (MMI)?",
+"didacticMmiDesc": "Berbeda dengan Magnitudo (yang mengukur energi yang dilepaskan), Skala Mercalli yang Dimodifikasi (MMI) mengukur <strong>efek</strong> gempa bumi di lokasi tertentu. Ini menggambarkan apa yang dirasakan orang dan kerusakan yang disebabkan, mulai dari 'I. Tidak dirasakan' hingga 'X. Ekstrem'. Inilah sebabnya mengapa gempa yang sama memiliki nilai intensitas yang berbeda tergantung pada jarak dari episentrum.",
+"detailFelt": "Dirasakan oleh",
+"people": "orang",
+"noFeltReports": "Tidak ada catatan",
+"detailUpdated": "Pembaruan Terakhir"
 
 }
+
 
 
 
