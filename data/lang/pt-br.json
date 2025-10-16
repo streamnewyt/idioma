@@ -321,8 +321,10 @@
 "didacticMmiDesc": "Diferente da Magnitude (que mede a energia liberada), a Escala Mercalli Modificada (MMI) mede os <strong>efeitos</strong> de um sismo em um local específico. Ela descreve o que as pessoas sentiram e os danos causados, variando de 'I. Não sentido' a 'X. Extremo'. É por isso que um mesmo sismo tem diferentes valores de intensidade dependendo da distância ao epicentro.",
 "detailFelt": "Sentido por",
 "people": "pessoas",
-"noFeltReports": "Sem registros"
+"noFeltReports": "Sem registros",
+    "detailUpdated": "Última Atualização",
 }
+
 
 
 
