@@ -302,9 +302,30 @@
 "chartDistributionByDay": "日別の分布",
     "copySummaryButton": "概要をコピー",
 "copyWeeklySummary": "分析をコピー",
-"chartDepthDistributionWeekly": "地震活動（過去7日間）"
+"chartDepthDistributionWeekly": "地震活動（過去7日間）",
+    "detailAlert": "警戒レベル",
+"detailUpdated": "最終更新",
+"detailGap": "アジマスギャップ",
+"detailRMS": "RMSエラー",
+"detailDmin": "最寄りの観測点",
+"detailMagType": "マグニチュードの種類",
+"didacticGapTitle": "アジマスギャップとは？",
+"didacticGapDesc": "震源の周囲で地震観測点が無い最大の角度のことです。ギャップが小さい（例：90°未満）ほど、地震がセンサーで十分に囲まれていることを意味し、より正確な位置が得られます。ギャップが大きい（180°超）場合は、位置の信頼性が低いことを示します。",
+"didacticRmsTitle": "RMSエラーとは？",
+"didacticRmsDesc": "二乗平均平方根（RMS）エラーは、計算された震源位置が観測データにどれだけ適合しているかを示す指標です。値が小さい（例：0.5未満）ほど、高品質で信頼性の高い計算であることを示します。",
+"didacticDminTitle": "最寄りの観測点とは？",
+"didacticDminDesc": "これは、最も近い地震観測点までの距離（度単位、1° ≈ 111 km）です。値が小さいほど、地震のすぐ近くにセンサーがあったことを意味し、位置と深さの精度が大幅に向上します。",
+"didacticMagTypeTitle": "マグニチュードの種類とは？",
+"didacticMagTypeDesc": "マグニチュードを計算するために使用される手法です。「ML」（ローカルマグニチュード）や「MD」（継続時間マグニチュード）は小規模な局地的地震に、「MB」（実体波マグニチュード）や「MW」（モーメントマグニチュード）はより大規模で遠方の地震に用いられ、MWが強い地震に対して最も正確です。",
+"didacticMmiTitle": "メルカリ震度階級（MMI）とは？",
+"didacticMmiDesc": "エネルギーの放出量を測るマグニチュードとは異なり、改正メルカリ震度階級（MMI）は特定の場所での地震の<strong>影響</strong>を測定します。人々が感じた揺れや被害の程度を「I. 無感」から「X. 極甚」までの範囲で記述します。このため、同じ地震でも震源からの距離によって震度の値が異なります。",
+"detailFelt": "体感者数",
+"people": "人",
+"noFeltReports": "記録なし",
+"detailUpdated": "最終更新"
 
 }
+
 
 
 
