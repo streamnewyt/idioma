@@ -302,9 +302,30 @@
 "chartDistributionByDay": "Distribución por Día",
     "copySummaryButton": "Copiar Resumen",
 "copyWeeklySummary": "Copiar Análisis",
-"chartDepthDistributionWeekly": "Actividad Sísmica (Últimos 7 Días)"
+"chartDepthDistributionWeekly": "Actividad Sísmica (Últimos 7 Días)",
+    "detailAlert": "Nivel de Alerta",
+"detailUpdated": "Última Actualización",
+"detailGap": "Intervalo Azimutal",
+"detailRMS": "Error RMS",
+"detailDmin": "Estación Más Cercana",
+"detailMagType": "Tipo de Magnitud",
+"didacticGapTitle": "¿Qué es el Intervalo Azimutal?",
+"didacticGapDesc": "Es el ángulo más grande sin una estación sísmica alrededor del epicentro. Un intervalo menor (ej: < 90°) significa que el sismo fue bien rodeado por sensores, resultando en una ubicación más precisa. Un intervalo grande (> 180°) indica una ubicación menos confiable.",
+"didacticRmsTitle": "¿Qué es el Error RMS?",
+"didacticRmsDesc": "El error 'Root Mean Square' (RMS) mide qué tan bien la ubicación calculada se ajusta a los datos observados por los sensores. Un valor menor (ej: < 0.5) indica un cálculo de alta calidad y confiable.",
+"didacticDminTitle": "¿Qué es la Estación Más Cercana?",
+"didacticDminDesc": "Esta es la distancia (en grados, donde 1° ≈ 111 km) a la estación sísmica más cercana. Un valor menor significa que había un sensor muy cerca del evento, lo que aumenta mucho la precisión de la ubicación y la profundidad.",
+"didacticMagTypeTitle": "¿Qué es el Tipo de Magnitud?",
+"didacticMagTypeDesc": "Es el método utilizado para calcular la magnitud. 'ML' (Magnitud Local) y 'MD' (Magnitud de Duración) son comunes para sismos pequeños y locales. 'MB' (Onda de Cuerpo) y 'MW' (Magnitud de Momento) se usan para sismos más grandes y distantes, siendo MW la más precisa para eventos fuertes.",
+"didacticMmiTitle": "¿Qué es la Escala de Mercalli (MMI)?",
+"didacticMmiDesc": "A diferencia de la Magnitud (que mide la energía liberada), la Escala de Mercalli Modificada (MMI) mide los <strong>efectos</strong> de un terremoto en un lugar específico. Describe lo que la gente sintió y los daños causados, variando de 'I. No sentido' a 'X. Extremo'. Por eso un mismo sismo tiene diferentes valores de intensidad dependiendo de la distancia al epicentro.",
+"detailFelt": "Sentido por",
+"people": "personas",
+"noFeltReports": "Sin registros",
+"detailUpdated": "Última Actualización"
 
 }
+
 
 
 
