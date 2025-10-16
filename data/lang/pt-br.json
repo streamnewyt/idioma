@@ -302,8 +302,28 @@
     "chartDistributionByDay": "Distribuição por Dia",
     "copySummaryButton": "Copiar Resumo",
 "copyWeeklySummary": "Copiar Análise",
-"chartDepthDistributionWeekly": "Atividade Sísmica (Últimos 7 Dias)"
+"chartDepthDistributionWeekly": "Atividade Sísmica (Últimos 7 Dias)",
+    "detailAlert": "Nível de Alerta",
+"detailUpdated": "Última Atualização",
+"detailGap": "Gap Azimutal",
+"detailRMS": "Erro RMS",
+"detailDmin": "Estação Mais Próxima",
+"detailMagType": "Tipo de Magnitude",
+"didacticGapTitle": "O que é Gap Azimutal?",
+"didacticGapDesc": "É o maior ângulo sem uma estação sísmica ao redor do epicentro. Um gap menor (ex: < 90°) significa que o sismo foi bem cercado por sensores, resultando em uma localização mais precisa. Um gap grande (> 180°) indica uma localização menos confiável.",
+"didacticRmsTitle": "O que é Erro RMS?",
+"didacticRmsDesc": "O erro 'Root Mean Square' (RMS) mede o quão bem a localização calculada se ajusta aos dados observados pelos sensores. Um valor menor (ex: < 0.5) indica um cálculo de alta qualidade e confiável.",
+"didacticDminTitle": "O que é Estação Mais Próxima?",
+"didacticDminDesc": "Esta é a distância (em graus, onde 1° ≈ 111 km) para a estação sísmica mais próxima. Um valor menor significa que havia um sensor muito perto do evento, o que aumenta muito a precisão da localização e da profundidade.",
+"didacticMagTypeTitle": "O que é Tipo de Magnitude?",
+"didacticMagTypeDesc": "É o método usado para calcular a magnitude. 'ML' (Magnitude Local) e 'MD' (Magnitude de Duração) são comuns para sismos menores e locais. 'MB' (Onda de Corpo) e 'MW' (Magnitude de Momento) são usados para sismos maiores e mais distantes, sendo o MW o mais preciso para eventos fortes.",
+"didacticMmiTitle": "O que é a Escala Mercalli (MMI)?",
+"didacticMmiDesc": "Diferente da Magnitude (que mede a energia liberada), a Escala Mercalli Modificada (MMI) mede os <strong>efeitos</strong> de um sismo em um local específico. Ela descreve o que as pessoas sentiram e os danos causados, variando de 'I. Não sentido' a 'X. Extremo'. É por isso que um mesmo sismo tem diferentes valores de intensidade dependendo da distância ao epicentro.",
+"detailFelt": "Sentido por",
+"people": "pessoas",
+"noFeltReports": "Sem registros"
 }
+
 
 
 
