@@ -322,9 +322,11 @@
 "detailFelt": "体感者数",
 "people": "人",
 "noFeltReports": "記録なし",
-"detailUpdated": "最終更新"
+"detailUpdated": "最終更新",
+    "unknownLocation": "不明な場所"
 
 }
+
 
 
 
