@@ -323,9 +323,11 @@
 "people": "personas",
 "noFeltReports": "Sin registros",
 "detailUpdated": "Última Actualización",
-    "unknownLocation": "Ubicación Desconocida"
+    "unknownLocation": "Ubicación Desconocida",
+    "filterPlaceholder": "Filtrar por ubicación (ej: Alaska)..."
 
 }
+
 
 
 
