@@ -323,9 +323,11 @@
 "people": "人",
 "noFeltReports": "記録なし",
 "detailUpdated": "最終更新",
-    "unknownLocation": "不明な場所"
+    "unknownLocation": "不明な場所",
+    "filterPlaceholder": "場所でフィルター（例：アラスカ）..."
 
 }
+
 
 
 
