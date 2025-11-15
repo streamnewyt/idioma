@@ -323,9 +323,11 @@
 "people": "orang",
 "noFeltReports": "Tidak ada catatan",
 "detailUpdated": "Pembaruan Terakhir",
-    "unknownLocation": "Lokasi Tidak Diketahui"
+    "unknownLocation": "Lokasi Tidak Diketahui",
+    "filterPlaceholder": "Saring berdasarkan lokasi (cth: Alaska)..."
 
 }
+
 
 
 
