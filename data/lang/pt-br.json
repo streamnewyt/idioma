@@ -323,8 +323,10 @@
 "people": "pessoas",
 "noFeltReports": "Sem registros",
     "detailUpdated": "Última Atualização",
-  "unknownLocation": "Localização Desconhecida"
+  "unknownLocation": "Localização Desconhecida",
+    "filterPlaceholder": "Filtrar por local (ex: Turquia)..."
 }
+
 
 
 
