@@ -1,0 +1,219 @@
+{
+    "sismoFormationTitle": "Paano nabubuo ang mga lindol? Ang makina ng mga tectonic plate",
+    "sismoFormationTypes": [
+        {
+            "title": "Ano ang nagdudulot ng lindol?",
+            "content": "Ang ibabaw ng Mundo ay hindi isang piraso. Ito ay isang napakalaking puzzle na binubuo ng malalaking bloke ng bato na tinatawag na <b>mga tectonic plate</b>, na lumulutang sa semi-liquid na mantle ng planeta. Sila ay patuloy na gumagalaw, ngunit napakabagal (ilang sentimetro bawat taon). Ang lindol ay ang pagyanig na nararamdaman kapag ang energyang naipon ng galaw na ito ay biglaang napalaya."
+        },
+        {
+            "title": "Mga lindol sa banggaan (convergent boundaries)",
+            "content": "Nangyayari kapag ang dalawang plate ay nagtutulakan. Sa pangkalahatan, ang mas makapal (oceanic) na plate ay sumusibak sa ilalim ng mas magaan (continental) na plate, sa isang proseso na tinatawag na <b>subduction</b>. Ang plate na sumasibak ay hindi maayos na dumadausdos; ito ay nagsisikip, nag-iipon ng napakalaking tensyon. Kapag ang tensyon ay nalampasan ang friction, ang plate ay biglang dumadausdos, naglalabas ng napakalaking halaga ng enerhiya. Dito nagaganap ang <b>pinakamalakas na mga lindol sa mundo</b>, tulad ng sa Chile at Japan, na maaaring gumawa ng mga tsunami."
+        },
+        {
+            "title": "Mga lindol sa paghihiwalay (divergent boundaries)",
+            "content": "Nangyayari kapag ang dalawang plate ay lumayo sa isa't isa. Ang galaw na ito ay gumagawa ng mga bitak sa crust, na nagbibigay-daan sa magma na sumampa mula sa mantle at gumawa ng bagong ocean floor. Ang prosesong ito ay sinasamahan ng mga lindol, ngunit karaniwang <b>hindi gaanong matindi at mas mababaw</b>. Karamihan ay nagaganap sa gitna ng mga karagatan, sa mga underwater na hanay ng bundok na tinatawag na mid-ocean ridges."
+        },
+        {
+            "title": "Mga lindol sa pagsasalubong (transform boundaries)",
+            "content": "Nangyayari kapag ang dalawang plate ay pahalang na dumadausdos sa tabi ng isa't isa. Ang mga gilid ng plate ay hindi makinis, kaya't sila ay nag-iikip sa pamamagitan ng friction. Nag-iipon ang tensyon sa loob ng maraming taon o dekada hanggang sa, bigla na lang, ang mga bato ay nagbasag at ang mga plate ay biglang dumausdos. Ang pinakakilalang halimbawa ay ang <b>San Andreas Fault</b>, sa California, na nagmamarka ng hangganan sa pagitan ng Pacific plate at ng North American plate."
+        }
+    ],
+    "magnitudeTitle": "Pag-unawa sa magnitude (M)",
+    "magnitudeIntro": "Ang moment magnitude (Mw) ay sumusukat ng kabuuang enerhiyang napalaya sa pokus ng isang lindol. Ang sukat ay logarithmic: ang pagtaas ng 1.0 punto (hal. mula M6 hanggang M7) ay kumakatawan sa 10 beses na mas malaking amplitude ng galaw at <strong>~32 beses</strong> na mas malaking paglabas ng enerhiya.",
+    "magnitudeTable": "<table class=\"glossary-table\"><thead><tr><th>Magnitude</th><th>Klasipikasyon</th><th>Karaniwang pakiramdam at epekto</th></tr></thead><tbody><tr><td>2.0 - 2.9</td><td>Micro</td><td>Hindi nararamdaman ng mga tao. Natutukoy lamang ng mga seismograph.</td></tr><tr><td>3.0 - 3.9</td><td>Maliit</td><td>Nararamdaman ng iilang tao na nagpapahinga. Mga pagyanig na katulad ng pagdaan ng trak.</td></tr><tr><td>4.0 - 4.9</td><td>Magaan</td><td>Nararamdaman ng karamihang tao. Ang mga bintana at pinggan ay nanginginig. Ang mga sasakyan ay umaalog.</td></tr><tr><td>5.0 - 5.9</td><td>Katamtaman</td><td>Nararamdaman ng lahat. Ang mga bagay ay nahuhulog mula sa mga istante. Ang plaster ay maaaring pumutok.</td></tr><tr><td>6.0 - 6.9</td><td>Malakas</td><td>Mahirap tumayo. Malaking pinsala sa mga gusaling mahina ang konstruksyon.</td></tr><tr><td>7.0 - 7.9</td><td>Malaki</td><td>Matinding pinsala sa malalawak na lugar. Karamihan sa mga gusali ay nagdurusa ng pinsala o gumuguho.</td></tr><tr><td>8.0 - 8.9</td><td>Sukdulan</td><td>Halos ganap na pagkasira. Mga lungsod na binasag. Malalaking bitak sa lupa.</td></tr><tr><td>9.0+</td><td>Sakuna</td><td>Malawak na pagkawasak, permanenteng nagbabago ng heograpiya. Gumagawa ng mga tsunami na tumatawid sa mga karagatan.</td></tr></tbody></table>",
+    "colorsTitle": "Kulay-code sa aplikasyon",
+    "colorsIntro": "Ang mga kulay ay nagbibigay-daan sa mabilis na pagkilala ng intensity ng mga lindol:",
+    "colorsTable": "<table class=\"glossary-table\"><tbody><tr><td><span class=\"color-swatch\" style=\"background-color: #08e108;\"></span>Berde</td><td>Magnitude na mas mababa sa 4.0 (Magaan).</td></tr><tr><td><span class=\"color-swatch\" style=\"background-color: yellow;\"></span>Dilaw</td><td>Magnitude sa pagitan ng 4.0 at 4.9 (Magaan hanggang Katamtaman).</td></tr><tr><td><span class=\"color-swatch\" style=\"background-color: orange;\"></span>Kahel</td><td>Magnitude sa pagitan ng 5.0 at 5.9 (Katamtaman hanggang Malakas).</td></tr><tr><td><span class=\"color-swatch\" style=\"background-color: #ff0000;\"></span>Pula</td><td>Magnitude na 6.0 o mas mataas (Malakas hanggang Sukdulan).</td></tr></tbody></table>",
+    "termsTitle": "Mga pangunahing termino sa lindol",
+    "termMercalli": "<h5>Intensity (Mercalli Scale) kumpara sa Magnitude</h5><p><strong>Ang magnitude</strong> (hal. 7.2 Mw) ay sumusukat ng enerhiyang napalaya sa pokus; ito ay isang natatanging numero. <strong>Ang intensity</strong> (hal. antas IX) ay sumusukat ng <strong>mga epekto</strong> ng lindol sa isang tiyak na lugar (pinsala, persepsyon ng mga tao) at bumababa habang lumalayo mula sa epicenter.</p>",
+    "termDepth": "<h5>Lalim</h5><p>Nagpapahiwatig kung gaano kalayo sa ilalim ng ibabaw nagmula ang lindol (hypocenter). Ang mga <strong>mababaw na lindol (0-70 km)</strong> ay karaniwang mas mapanganib, dahil ang enerhiya ng mga seismic wave ay may mas maikling distansya na tatakbuhin hanggang sa ibabaw, na dumating nang may mas malaking lakas.</p>",
+    "termEpicenter": "<h5>Epicenter kumpara sa Hypocenter</h5><p>Ang <strong>hypocenter</strong> (o pokus) ay ang eksaktong punto ng pagbasag ng bato sa loob ng Mundo kung saan nagsisimula ang lindol. Ang <strong>epicenter</strong> ay ang punto sa ibabaw na direkta sa itaas ng hypocenter, karaniwang ang lugar kung saan pinaka-matindis nararamdaman ang lindol.</p>",
+    "termWaves": "<h5>Mga Seismic Wave (P at S)</h5><p>Ang <strong>P (primary) waves</strong> ay longitudinal at mas mabilis, na unang natutukoy. Ang <strong>S (secondary) waves</strong> ay transverse, mas mabagal at nagdudulot ng 'yanig' na galaw, na pangunahing responsable sa pagkasira.</p>",
+    "termLiquefaction": "<h5>Liquefaction ng lupa</h5><p>Mapanganib na penomenon kung saan ang mga sandy na lupa na puno ng tubig ay nawawalan ng tigas at kumikilos na parang likido sa ilalim ng matinding pagyanig. Maaari itong magdulot ng pagsink, pag-tilt o pagguho ng mga gusali at iba pang mga istruktura.</p>",
+    "termAftershock": "<h5>Mga aftershock</h5><p>Ito ay mas maliliit na lindol na nagaganap sa parehong lugar pagkatapos ng isang pangunahing lindol. Sanhi ng muling pag-aayos ng geological fault na nasira at maaaring magpatuloy ng mga araw, linggo o kahit buwan, na kumakatawan sa karagdagang panganib para sa mga istrukturang nasira na.</p>",
+    "historicalSismosTitle": "🌍 Malalaking lindol sa kasaysayan",
+    "historicalSismos": [
+        {
+            "title": "Valdivia, Chile (1960) - Magnitude 9.5",
+            "content": "Ang pinakamalakas na lindol na naitalang instrumental. Nagdulot ito ng malawak na pagkasira sa Chile at gumawa ng tsunami na tumawid sa Karagatang Pasipiko, na umabot sa Hawaii, Japan at Pilipinas, na nagpapakita ng pandaigdigang lawak ng mga kaganapang ito."
+        },
+        {
+            "title": "Sumatra, Indonesia (2004) - Magnitude 9.1",
+            "content": "Ang mega-lindol na ito sa ilalim ng karagatan ay nagpukaw ng isa sa pinaka-nakamamatay na tsunami sa kasaysayan, na nakaapekto sa 14 na bansa at nagdulot ng higit sa 230,000 na kamatayan. Inilabas ng kaganapan ang pangangailangan para sa mga epektibong sistema ng babala sa tsunami sa Indian Ocean."
+        },
+        {
+            "title": "Tōhoku, Japan (2011) - Magnitude 9.0",
+            "content": "Bukod sa matinding pagyanig, gumawa ito ng tsunami na may mga alon na umabot sa 40 metro na winasak ang hilagang-silangang baybayin ng Japan. Ang kaganapan ay kilala sa buong mundo dahil sa pagdulot ng nuclear accident sa Fukushima, na nagpapakita kung paano ang mga seismic na panganib ay maaaring magparami sa maraming sakuna."
+        }
+    ],
+    "associatedRisksTitle": "Mga panganib na nauugnay sa mga lindol",
+    "associatedRisks": [
+        {
+            "title": "Mga Tsunami",
+            "content": "Ang malalaking lindol na nagaganap sa ilalim ng dagat ay maaaring maglipat ng napakalaking dami ng tubig, na gumagawa ng malalaking alon na naglalakbay sa mataas na bilis. Sa pagdating sa baybayin, ang mga alon na ito ay maaaring lunurin at sirain ang mga coastal na lugar sa libu-libong kilometro mula sa epicenter."
+        },
+        {
+            "title": "Mga Landslide",
+            "content": "Ang pagyanig ng lupa ay maaaring gawing hindi matatag ang mabibilis na gilid ng mga burol at bundok, na nagdudulot ng pagdausdos ng lupa, bato at debris. Sa mga urban na lugar, ito ay kumakatawan ng matinding panganib para sa mga komunidad na itinayo sa hindi matatag na lupa."
+        },
+        {
+            "title": "Mga Sunog",
+            "content": "Ang mga lindol ay maaaring sumira ng mga gas pipe at makapinsala sa mga electrical wiring, na nagdudulot ng mga gas leak at short circuit. Ang mga insidente na ito ay kadalasang humahantong sa mga sunog na maaaring mabilis na kumalat sa mga urban na lugar, lalo na kung ang mga water network ay nasira rin, na nagpapalubha ng trabaho ng mga bumbero."
+        }
+    ],
+    "volcanoSectionTitle": "🌋 Talasalitaan ng bulkán",
+    "volcanoTypesTitle": "Mga pangunahing uri ng bulkán",
+    "volcanoTypes": [
+        {
+            "title": "Shield volcano",
+            "content": "Malawak at may malambot na mga gilid, nabuo mula sa napaka-likidong lava na dumadausdos sa malalaking distansya. Ang mga pagsabog nito ay karaniwang hindi explosive. Halimbawa: Kīlauea, sa Hawaii."
+        },
+        {
+            "title": "Stratovolcano (composite)",
+            "content": "Mataas at conical na bulkán, itinayo ng mga layer ng malagkit na lava, abo at mga bato. Ang lava na mayaman sa silica ay maaaring mag-trap ng mga gas, na humahantong sa napaka-explosive na mga pagsabog. Mga halimbawa: Mount Fuji, Vesuvius, Krakatoa at Mount St. Helens."
+        },
+        {
+            "title": "Supervolcano",
+            "content": "Heolohikal na higante na may kakayahang mag-erupt na nagbabago ng pandaigdigang klima. Hindi ito gumagawa ng cone, kundi isang napakalaking caldera, tulad ng sa Yellowstone. Ang isang pagsabog ay maaaring magtapon ng higit sa 1,000 km³ ng materyal."
+        },
+        {
+            "title": "Dome volcano (lava dome)",
+            "content": "Nabuo ng napaka-malagkit na lava na nag-iipon sa krater, na gumagawa ng dome. Ang pagguho ng dome ay maaaring gumawa ng mapanganib at biglaang pyroclastic flow."
+        },
+        {
+            "title": "Fissure volcano",
+            "content": "Ang magma ay lumalabas sa pamamagitan ng mahahabang bitak sa crust, sa halip na sa pamamagitan ng isang sentral na krater. Maaari itong maglabas ng malawak na mga lava field at mga gas na nakakaapekto sa klima, tulad ng pagsabog ng Laki sa Iceland noong 1783."
+        },
+        {
+            "title": "Submarine volcano",
+            "content": "Ang karamihan ng mga bulkán ng Mundo ay nasa ilalim ng tubig. Ang mga pagsabog ay maaaring gumawa ng mga bagong isla, tulad ng Surtsey, o gumawa ng mga tsunami at pandaigdigang shock wave, tulad ng Hunga Tonga-Hunga Ha'apai noong 2022."
+        },
+        {
+            "title": "Mud volcano",
+            "content": "Nabuo ng paglabas ng putik, tubig-alat at mga gas tulad ng methane, na sumasampa sa pamamagitan ng mga bitak ng crust. Wala itong magmatic na pinagmulan, ngunit resulta ng presyon ng mga likidong nakulong sa mga clay layer. Libu-libo ang naka-katalogo sa mga rehiyon tulad ng Azerbaijan at Caspian Sea."
+        }
+    ],
+    "eruptionTypesTitle": "Mga pangunahing uri ng pagsabog",
+    "eruptionTypes": [
+        {
+            "title": "Hawaiian (effusive)",
+            "content": "Patuloy na daloy ng likidong lava, na may mababang nilalaman ng gas, na dumadausdos sa mga gilid nang walang malalaking pagsabog. Karaniwang makikita sa mga shield volcano."
+        },
+        {
+            "title": "Plinian (explosive)",
+            "content": "Ang pinaka-sukdulan na anyo. Nagtatatapon ng mga haligi ng abo at gas ng higit sa 30 km sa stratosphere, na maaaring makaapekto sa pandaigdigang klima. Mga halimbawa: Vesuvius (79 AD) at Krakatoa (1883)."
+        },
+        {
+            "title": "Strombolian",
+            "content": "Nailalarawan sa pamamagitan ng katamtaman at ritmikong mga pagsabog na nagtatapon ng mga jet ng incandescent na materyal (lava bomb) sa hangin. Halimbawa: Stromboli, sa Italy."
+        },
+        {
+            "title": "Vulcanian",
+            "content": "Maikling ngunit agresibong pagsabog. Ang malagkit na lava ay nagharang sa conduit, at ang naipong presyon ay gumagawa ng biglaang paglabas ng mga piraso ng bato, singaw at abo. Ang eruptive column ay maaaring umabot ng ilang kilometro."
+        },
+        {
+            "title": "Phreatic",
+            "content": "Isang steam explosion na nagaganap kapag ang mga underground water ay pinainit ng mainit na mga bato o magma, nang hindi mismo naaabot ng magma ang ibabaw. Maaaring mangyari nang may kaunting babala."
+        },
+        {
+            "title": "Phreatomagmatic",
+            "content": "Nagaganap sa mababaw na tubig o sa ilalim ng lupa, kapag ang magma ay marahas na nakikipag-ugnayan sa tubig, na gumagawa ng explosive na mga jet ng abo, singaw at fragmented na lava. Mas mapanganib kaysa phreatic dahil nagsasangkot ng magma."
+        },
+        {
+            "title": "Surtseyan",
+            "content": "Nagaganap sa mababaw na tubig, kapag ang magma ay marahas na nakikipag-ugnayan sa tubig, na gumagawa ng explosive na mga jet ng abo at singaw. Maaaring gumawa ng mga bagong isla, tulad ng Surtsey sa Iceland."
+        },
+        {
+            "title": "Subglacial",
+            "content": "Nagaganap sa ilalim ng mga glacier. Ang magma ay nagpapatunaw ng yelo, na maaaring magdulot ng malaking baha (jökulhlaups) at steam explosion. Halimbawa: Eyjafjallajökull, 2010."
+        },
+        {
+            "title": "Lateral",
+            "content": "Nagaganap kapang ang magma ay tumakas sa pamamagitan ng bitak sa gilid ng bundok sa halip na sa tuktok. Maaaring maging napaka-mapanira, tulad ng pagsabog ng Mount St. Helens noong 1980, na pinasabog ang sarili nitong gilid."
+        },
+        {
+            "title": "Lahar (mud flow)",
+            "content": "Hindi ito isang pagsabog ng lava, kundi isang mapanganib na kahihinatnan. Ang malakas na ulan ay naghahalò sa mga abo na naidepositong sa mga gilid, na bumubuo ng makapal at mabigat na putik na bumababa sa mataas na bilis, na maaaring sirain ang buong mga baryo kahit mga araw o linggo pagkatapos ng aktibidad ng bulkán."
+        },
+        {
+            "title": "Limnic",
+            "content": "Bihirang at nakamamatay na penomenon na nagaganap sa mga lawa ng mga volcanic na lugar. Ang mga gas tulad ng carbon dioxide ay nakulong sa ilalim ng lawa at, kapag biglaang napalaya, ay sumampa tulad ng napakalaking bula at kumakalat sa mga gilid, na nag-aasphyxiate ng mga tao at hayop nang walang kulay o amoy."
+        }
+    ],
+    "volcanoTermsTitle": "Mga panganib at termino sa bulkán",
+    "volcanoTerms": [
+        {
+            "title": "Pyroclastic flow (apoy na ulap)",
+            "content": "Isang nakamamatay na halo ng sobrang init na gas, abo at mga piraso ng bato na bumababa sa mga gilid sa mga bilis na maaaring lampas sa 300 km/h. Ito ay isa sa pinaka-mapanira at hindi maiiwasang penomenon ng isang explosive na pagsabog."
+        },
+        {
+            "title": "Lahar (mud flow)",
+            "content": "Hindi ito direktang pagsabog, kundi isang mapanganib na kahihinatnan. Ang malakas na ulan ay maaaring maghalo ng mga abo na naidepositong sa mga gilid, na gumagawa ng makapal at mabilis na daloy ng putik na sumisira ng lahat sa landas nito, kahit mga linggo pagkatapos ng pagsabog."
+        },
+        {
+            "title": "Viscosity (at silica)",
+            "content": "Ito ang resistensya ng lava sa pag-agos. Ang mga lava na may mababang nilalaman ng silica (basaltic) ay likido at gumagawa ng tahimik (effusive) na mga pagsabog. Ang mga lava na mayaman sa silica ay malagkit (makapal), nag-trap ng mga gas at nagdudulot ng marahas (explosive) na mga pagsabog."
+        },
+        {
+            "title": "Caldera",
+            "content": "Isang malaking depresyon na nabuo kapag ang isang bulkán ay gumuguho sa sarili nito pagkatapos ng isang malaking pagsabog na nagpaalis ng magmatic chamber. Ang mga supervolcano, tulad ng Yellowstone, ay nakilala sa kanilang napakalaking caldera."
+        },
+        {
+            "title": "Volcanic Explosivity Index (VEI)",
+            "content": "Isang sukat mula 0 hanggang 8 na sumusukat ng intensity ng isang pagsabog batay sa dami ng materyal na natatapon at taas ng haligi ng abo. Ang mga Plinian at ultraplinian na pagsabog ay nasa tuktok ng sukat na ito."
+        },
+        {
+            "title": "Mga buhok ni Pele",
+            "content": "Ito ay napaka-manipis na mga sinulid ng volcanic na salamin, nabuo kapang ang maliliit na particle ng napaka-likidong basaltic lava ay hinila ng hangin sa panahon ng mga effusive na pagsabog, tulad ng mga nasa Hawaii. Bagama't kapakipakinabang, ito ay matalim at mapanganib kung nailanghap o nakasama sa balat. Ang pangalan ay isang parangal kay Pele, ang Hawaiian goddess ng mga bulkán."
+        }
+    ],
+    "historicalEruptionsTitle": "Malalaking pagsabog sa kasaysayan",
+    "historicalEruptions": [
+        {
+            "title": "Mount Tambora (1815) - Ang Taon Walang Tag-araw",
+            "content": "Ang pagsabog sa Indonesia ay napakalaki na nagtalon ng mga abo at gas sa stratosphere, na humadlang sa sikat ng araw. Ang epekto ay pandaigdigan: ang 1816 ay kilala bilang ang 'taon walang tag-araw', na nagdulot ng pagpalya ng ani at taggutom hanggang sa Europa."
+        },
+        {
+            "title": "Krakatoa (1883) - Ang pagsabog na narinig sa buong mundo",
+            "content": "Ang pagsabog ng Krakatoa, sa Indonesia, ay napakaalakas na ang tunog ay narinig sa higit sa 4,800 km ang layo at ang shock wave ay nag-ikot ng apat na beses sa planeta. Gumawa ito ng nakawasak na mga tsunami at nagbago ng kulay ng mga paglubog ng araw sa loob ng mga linggo sa buong mundo."
+        },
+        {
+            "title": "Mount St. Helens (1980) - Ang lateral na pagsabog",
+            "content": "Hindi tulad ng karamihang pagsabog, ang bulkán na ito sa Estados Unidos ay sumabog sa sarili nitong gilid. Ang dingding ng bundok ay bumagsak at sumabog, na gumagawa ng krater na higit sa dalawang kilometro at isang ulap ng abo na tumawid sa bansa, na sumasaklaw ng 600,000 km²."
+        }
+    ],
+    "volcanoMonitoringTitle": "Paano nino-monitor ang mga bulkán",
+    "volcanoMonitoring": [
+        {
+            "title": "Seismic analysis",
+            "content": "Ang maliliit na pagyanig at paulit-ulit na mga vibration ay maaaring magpahiwatig na ang magma ay gumagalaw sa ilalim ng lupa. Ang mga seismograph ay inilalagay upang itala ang anumang hindi karaniwang pagtaas ng seismic activity, na maaaring mangyari bago ang isang pagsabog."
+        },
+        {
+            "title": "Pagsukat ng gas",
+            "content": "Ang pagtaas ng mga emisyon ng gas tulad ng sulfur dioxide (SO₂) at carbon dioxide (CO₂) ay maaaring mangahulugang ang magma ay sumasampa. Ang mga pagsukat na ito ay ginagawa ng mga on-site sensor o ng mga drone."
+        },
+        {
+            "title": "Deformation ng lupa",
+            "content": "Kapag nag-iipon ang magma, ang lupa sa itaas ay maaaring umbok ng ilang milimetro o sentimetro. Ang mga mataas na katumpakan na GPS device at inclinometer ay sumusukat ng mga maliit na depormasyon na ito, na bumubuo ng mahalagang signal ng babala."
+        },
+        {
+            "title": "Satellite monitoring",
+            "content": "Ang mga satellite ay gumagamit ng infrared sensor upang matukoy ang mga pagbabago ng temperatura sa ibabaw, na nagtatukoy ng mga hot spot. Nino-monitor din nila ang mga ulap ng abo at mga gas, na tumutulong na mahulaan ang kanilang epekto sa malalayong lugar at trapik ng eroplano."
+        }
+    ],
+    "volcanoBenefitsTitle": "Mga benepisyo ng mga bulkán",
+    "volcanoBenefits": [
+        {
+            "title": "Paglikha ng matatabang lupa",
+            "content": "Kapang ang lava at abo ay nabubulok sa paglipas ng panahon, naglalabas sila ng mga sustansya tulad ng nitrogen, phosphorus at potassium. Gumagawa ito ng napaka-matatabang lupa, perpekto para sa agrikultura, tulad ng makikita sa mga ubasan sa paligid ng Etna at mga taniman ng kape sa Hawaii."
+        },
+        {
+            "title": "Pagbuo ng bagong lupain",
+            "content": "Maraming isla, tulad ng mga nasa Hawaii at Galapagos, ay ganap na nabuo ng mga underwater na pagsabog. Ang mga bagong lupain na ito, na nahiwalay ng karagatan, ay nagbibigay-daan sa mga hayop at halaman na mag-evolve nang natatangi, na gumagawa ng eksklusibong mga ekosistema."
+        },
+        {
+            "title": "Mga mainit na bukal at enerhiya",
+            "content": "Ang underground na init na ginawa ng aktibidad ng bulkán ay nagpainit ng tubig, na sumasampa sa ibabaw bilang mga mainit na bukal. Bukod sa medikal at turistikal na potensyal, ang init na ito ay maaaring gamitin upang gumawa ng geothermal energy."
+        }
+    ]
+}

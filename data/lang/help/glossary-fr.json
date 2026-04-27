@@ -1,0 +1,219 @@
+{
+    "sismoFormationTitle": "Comment se produisent les séismes ? Le moteur des plaques tectoniques",
+    "sismoFormationTypes": [
+        {
+            "title": "Qu'est-ce qui cause un tremblement de terre ?",
+            "content": "La surface de la Terre n'est pas une pièce unique. C'est un immense puzzle formé par d'énormes blocs de roche appelés <b>plaques tectoniques</b>, qui flottent sur le manteau semi-liquide de la planète. Elles sont en mouvement constant, mais très lentement (quelques centimètres par an). Un séisme est la vibration ressentie lorsque l'énergie accumulée par ce mouvement est libérée de façon soudaine."
+        },
+        {
+            "title": "Séismes de collision (limites convergentes)",
+            "content": "Se produit lorsque deux plaques se poussent l'une contre l'autre. En général, une plaque plus dense (océanique) plonge sous une plaque moins dense (continentale), dans un processus appelé <b>subduction</b>. La plaque qui plonge ne glisse pas doucement ; elle se bloque, accumulant une tension immense. Quand la tension surmonte la friction, la plaque glisse brusquement, libérant une quantité colossale d'énergie. C'est ici que se produisent les <b>séismes les plus forts du monde</b>, comme ceux du Chili et du Japon, qui peuvent générer des tsunamis."
+        },
+        {
+            "title": "Séismes de séparation (limites divergentes)",
+            "content": "Se produit lorsque deux plaques s'éloignent l'une de l'autre. Ce mouvement crée des fissures dans la croûte, permettant au magma de remonter du manteau et de créer un nouveau fond océanique. Ce processus est accompagné de séismes, mais généralement <b>moins intenses et plus superficiels</b>. La plupart se produisent au milieu des océans, sur des chaînes de montagnes sous-marines appelées dorsales médio-océaniques."
+        },
+        {
+            "title": "Séismes de coulissement (limites transformantes)",
+            "content": "Se produit lorsque deux plaques glissent horizontalement l'une à côté de l'autre. Les bords des plaques ne sont pas lisses, alors ils se bloquent par friction. La tension s'accumule pendant des années ou des décennies jusqu'à ce que, soudainement, les roches se fracturent et les plaques glissent brusquement. L'exemple le plus célèbre est la <b>faille de San Andreas</b>, en Californie, qui marque la limite entre la plaque Pacifique et la plaque nord-américaine."
+        }
+    ],
+    "magnitudeTitle": "Comprendre la magnitude (M)",
+    "magnitudeIntro": "La magnitude de moment (Mw) mesure l'énergie totale libérée au foyer d'un séisme. L'échelle est logarithmique : une augmentation de 1.0 point (ex : de M6 à M7) représente une amplitude de mouvement 10 fois plus grande et une libération d'énergie <strong>~32 fois supérieure</strong>.",
+    "magnitudeTable": "<table class=\"glossary-table\"><thead><tr><th>Magnitude</th><th>Classification</th><th>Sensation et impact typique</th></tr></thead><tbody><tr><td>2.0 - 2.9</td><td>Micro</td><td>Non ressenti par les humains. Détecté uniquement par les sismographes.</td></tr><tr><td>3.0 - 3.9</td><td>Petit</td><td>Ressenti par quelques personnes au repos. Vibrations semblables au passage d'un camion.</td></tr><tr><td>4.0 - 4.9</td><td>Léger</td><td>Ressenti par la plupart des gens. Les fenêtres et la vaisselle tremblent. Les voitures oscillent.</td></tr><tr><td>5.0 - 5.9</td><td>Modéré</td><td>Ressenti par tous. Des objets tombent des étagères. Le plâtre peut se fissurer.</td></tr><tr><td>6.0 - 6.9</td><td>Fort</td><td>Difficile de rester debout. Dommages importants aux bâtiments mal construits.</td></tr><tr><td>7.0 - 7.9</td><td>Majeur</td><td>Dommages graves sur de vastes zones. La plupart des bâtiments subissent des dommages ou s'effondrent.</td></tr><tr><td>8.0 - 8.9</td><td>Extrême</td><td>Destruction quasi totale. Villes ravagées. Grandes fissures dans le sol.</td></tr><tr><td>9.0+</td><td>Catastrophique</td><td>Dévastation à grande échelle, modifiant définitivement la géographie. Génère des tsunamis traversant les océans.</td></tr></tbody></table>",
+    "colorsTitle": "Code couleur dans l'application",
+    "colorsIntro": "Les couleurs permettent d'identifier rapidement l'intensité des séismes :",
+    "colorsTable": "<table class=\"glossary-table\"><tbody><tr><td><span class=\"color-swatch\" style=\"background-color: #08e108;\"></span>Vert</td><td>Magnitude inférieure à 4.0 (Léger).</td></tr><tr><td><span class=\"color-swatch\" style=\"background-color: yellow;\"></span>Jaune</td><td>Magnitude entre 4.0 et 4.9 (Léger à Modéré).</td></tr><tr><td><span class=\"color-swatch\" style=\"background-color: orange;\"></span>Orange</td><td>Magnitude entre 5.0 et 5.9 (Modéré à Fort).</td></tr><tr><td><span class=\"color-swatch\" style=\"background-color: #ff0000;\"></span>Rouge</td><td>Magnitude 6.0 ou supérieure (Fort à Extrême).</td></tr></tbody></table>",
+    "termsTitle": "Termes fondamentaux sur les séismes",
+    "termMercalli": "<h5>Intensité (Échelle de Mercalli) vs. Magnitude</h5><p><strong>La magnitude</strong> (ex : 7.2 Mw) mesure l'énergie libérée au foyer, c'est un chiffre unique. <strong>L'intensité</strong> (ex : degré IX) mesure les <strong>effets</strong> du tremblement en un lieu précis (dommages, perception des personnes) et diminue avec la distance de l'épicentre.</p>",
+    "termDepth": "<h5>Profondeur</h5><p>Indique à quelle distance sous la surface le séisme a pris naissance (hypocentre). Les séismes <strong>superficiels (0-70 km)</strong> sont généralement plus dangereux, car l'énergie des ondes sismiques a moins de distance à parcourir jusqu'à la surface, arrivant avec plus de force.</p>",
+    "termEpicenter": "<h5>Épicentre vs. Hypocentre</h5><p>L'<strong>hypocentre</strong> (ou foyer) est le point exact de la fracture rocheuse à l'intérieur de la Terre où le séisme commence. L'<strong>épicentre</strong> est le point en surface directement au-dessus de l'hypocentre, généralement l'endroit où le tremblement est ressenti avec le plus d'intensité.</p>",
+    "termWaves": "<h5>Ondes sismiques (P et S)</h5><p>Les <strong>ondes P (primaires)</strong> sont longitudinales et plus rapides, étant les premières à être détectées. Les <strong>ondes S (secondaires)</strong> sont transversales, plus lentes et provoquent le mouvement de « secousse », étant les principales responsables de la destruction.</p>",
+    "termLiquefaction": "<h5>Liquéfaction du sol</h5><p>Phénomène dangereux où des sols sableux saturés en eau perdent leur solidité et se comportent comme un liquide sous l'effet du tremblement intense. Cela peut provoquer l'affaissement, l'inclinaison ou l'effondrement de bâtiments et autres structures.</p>",
+    "termAftershock": "<h5>Répliques (aftershocks)</h5><p>Ce sont des séismes plus petits qui se produisent dans la même zone après un séisme principal. Ils sont causés par le réajustement de la faille géologique qui s'est rompue et peuvent se poursuivre pendant des jours, des semaines ou même des mois, représentant un risque supplémentaire pour les structures déjà endommagées.</p>",
+    "historicalSismosTitle": "🌍 Grands séismes de l'Histoire",
+    "historicalSismos": [
+        {
+            "title": "Valdivia, Chili (1960) - Magnitude 9.5",
+            "content": "Le séisme le plus puissant jamais enregistré instrumentalement. Il a causé une destruction généralisée au Chili et a généré un tsunami qui a traversé l'océan Pacifique, atteignant Hawaï, le Japon et les Philippines, démontrant la portée planétaire de ces événements."
+        },
+        {
+            "title": "Sumatra, Indonésie (2004) - Magnitude 9.1",
+            "content": "Ce méga-séisme au fond de l'océan a déclenché l'un des tsunamis les plus meurtriers de l'histoire, qui a touché 14 pays et causé plus de 230 000 morts. L'événement a mis en évidence la nécessité de systèmes d'alerte aux tsunamis efficaces dans l'océan Indien."
+        },
+        {
+            "title": "Tōhoku, Japon (2011) - Magnitude 9.0",
+            "content": "En plus du tremblement intense, il a généré un tsunami avec des vagues atteignant 40 mètres qui a dévasté la côte nord-est du Japon. L'événement est mondialement connu pour avoir causé l'accident nucléaire de Fukushima, montrant comment les risques sismiques peuvent se multiplier en plusieurs catastrophes."
+        }
+    ],
+    "associatedRisksTitle": "Risques associés aux séismes",
+    "associatedRisks": [
+        {
+            "title": "Tsunamis",
+            "content": "Les grands séismes qui se produisent au fond de la mer peuvent déplacer d'énormes volumes d'eau, générant des vagues gigantesques qui voyagent à grande vitesse. En atteignant la côte, ces vagues peuvent inonder et détruire des zones côtières à des milliers de kilomètres de l'épicentre."
+        },
+        {
+            "title": "Glissements de terrain",
+            "content": "Le tremblement du sol peut déstabiliser les flancs abrupts de collines et de montagnes, provoquant des glissements de terre, de roches et de débris. Dans les zones urbaines, cela représente un risque grave pour les communautés construites sur des terrains instables."
+        },
+        {
+            "title": "Incendies",
+            "content": "Les tremblements peuvent rompre des gazoducs et endommager des câblages électriques, provoquant des fuites de gaz et des courts-circuits. Ces incidents entraînent souvent des incendies qui peuvent se propager rapidement dans les zones urbaines, surtout si les réseaux d'eau sont également endommagés, compliquant le travail des pompiers."
+        }
+    ],
+    "volcanoSectionTitle": "🌋 Glossaire volcanique",
+    "volcanoTypesTitle": "Principaux types de volcans",
+    "volcanoTypes": [
+        {
+            "title": "Volcan bouclier",
+            "content": "Large et aux flancs doux, formé par une lave très fluide qui s'écoule sur de grandes distances. Ses éruptions ne sont généralement pas explosives. Exemple : Kīlauea, à Hawaï."
+        },
+        {
+            "title": "Stratovolcan (composé)",
+            "content": "Volcan haut et conique, construit par des couches de lave visqueuse, de cendres et de roches. La lave riche en silice peut piéger des gaz, conduisant à des éruptions extrêmement explosives. Exemples : mont Fuji, Vésuve, Krakatoa et mont Saint Helens."
+        },
+        {
+            "title": "Supervolcan",
+            "content": "Géant géologique capable d'éruptions qui modifient le climat mondial. Il ne forme pas de cône, mais une immense caldeira, comme celle de Yellowstone. Une éruption peut éjecter plus de 1 000 km³ de matière."
+        },
+        {
+            "title": "Volcan dôme (dôme de lave)",
+            "content": "Formé par une lave très visqueuse qui s'accumule dans le cratère, créant un dôme. L'effondrement du dôme peut générer des nuées ardentes dangereuses et soudaines."
+        },
+        {
+            "title": "Volcan de fissure",
+            "content": "Le magma émerge à travers de longues fissures dans la croûte, plutôt que par un cratère central. Il peut libérer de vastes champs de lave et des gaz qui impactent le climat, comme l'éruption du Laki en Islande en 1783."
+        },
+        {
+            "title": "Volcan sous-marin",
+            "content": "La majorité des volcans de la Terre est submergée. Les éruptions peuvent créer de nouvelles îles, comme Surtsey, ou générer des tsunamis et des ondes de choc mondiales, comme le Hunga Tonga-Hunga Ha'apai en 2022."
+        },
+        {
+            "title": "Volcan de boue",
+            "content": "Formé par l'extrusion de boue, d'eau salée et de gaz comme le méthane, qui remontent par des fractures de la croûte. Il n'a pas d'origine magmatique, mais résulte de la pression de fluides piégés dans des couches d'argile. Des milliers sont répertoriés dans des régions comme l'Azerbaïdjan et la mer Caspienne."
+        }
+    ],
+    "eruptionTypesTitle": "Principaux types d'éruption",
+    "eruptionTypes": [
+        {
+            "title": "Hawaïenne (effusive)",
+            "content": "Flux constant de lave fluide, à faible teneur en gaz, qui s'écoule sur les flancs sans grandes explosions. Typique des volcans boucliers."
+        },
+        {
+            "title": "Plinienne (explosive)",
+            "content": "La forme la plus extrême. Lance des colonnes de cendres et de gaz à plus de 30 km dans la stratosphère, pouvant impacter le climat mondial. Exemples : Vésuve (79 ap. J.-C.) et Krakatoa (1883)."
+        },
+        {
+            "title": "Strombolienne",
+            "content": "Caractérisée par des explosions modérées et rythmiques qui projettent des jets de matière incandescente (bombes de lave) dans les airs. Exemple : Stromboli, en Italie."
+        },
+        {
+            "title": "Vulcanienne",
+            "content": "Éruption courte mais agressive. La lave visqueuse bloque le conduit, et la pression accumulée génère une libération soudaine de fragments de roche, de vapeur et de cendres. La colonne éruptive peut atteindre plusieurs kilomètres."
+        },
+        {
+            "title": "Phréatique",
+            "content": "Une explosion de vapeur qui se produit lorsque les eaux souterraines sont surchauffées par des roches ou du magma, sans que le magma lui-même atteigne la surface. Peut survenir avec peu d'avertissement."
+        },
+        {
+            "title": "Phréatomagmatique",
+            "content": "Se produit en eaux peu profondes ou dans le sous-sol, lorsque le magma interagit violemment avec l'eau, produisant des jets explosifs de cendres, de vapeur et de lave fragmentée. Plus dangereuse que la phréatique car elle implique du magma."
+        },
+        {
+            "title": "Surtséenne",
+            "content": "Se produit en eaux peu profondes, lorsque le magma interagit violemment avec l'eau, produisant des jets explosifs de cendres et de vapeur. Peut construire de nouvelles îles, comme Surtsey en Islande."
+        },
+        {
+            "title": "Sous-glaciaire",
+            "content": "Se produit sous les glaciers. Le magma fait fondre la glace, pouvant provoquer des inondations massives (jökulhlaups) et des explosions de vapeur. Exemple : Eyjafjallajökull, 2010."
+        },
+        {
+            "title": "Latérale",
+            "content": "Se produit lorsque le magma s'échappe par une fissure sur le flanc de la montagne plutôt que par le sommet. Peut être extrêmement destructrice, comme lors de l'éruption du mont Saint Helens en 1980, qui a fait exploser son propre flanc."
+        },
+        {
+            "title": "Pluviale (lahars)",
+            "content": "Ce n'est pas une éruption de lave, mais une conséquence dangereuse. De fortes pluies se mélangent aux cendres déposées sur les flancs, formant une boue dense et lourde qui descend à grande vitesse, pouvant détruire des villages entiers même des jours ou des semaines après l'activité volcanique."
+        },
+        {
+            "title": "Limnogénique",
+            "content": "Phénomène rare et mortel qui se produit dans les lacs de zones volcaniques. Des gaz comme le dioxyde de carbone sont piégés au fond du lac et, lorsqu'ils sont libérés soudainement, remontent comme une immense bulle et se répandent sur les flancs, asphyxiant personnes et animaux sans couleur ni odeur."
+        }
+    ],
+    "volcanoTermsTitle": "Risques et termes volcaniques",
+    "volcanoTerms": [
+        {
+            "title": "Nuée ardente",
+            "content": "Un mélange mortel de gaz surchauffé, de cendres et de fragments de roche qui descend les flancs à des vitesses pouvant dépasser 300 km/h. C'est l'un des phénomènes les plus destructeurs et inévitables d'une éruption explosive."
+        },
+        {
+            "title": "Lahar (coulée de boue)",
+            "content": "Ce n'est pas une éruption directe, mais une conséquence dangereuse. De fortes pluies peuvent mélanger les cendres déposées sur les flancs, créant un flux de boue dense et rapide qui détruit tout sur son passage, même des semaines après l'éruption."
+        },
+        {
+            "title": "Viscosité (et silice)",
+            "content": "C'est la résistance de la lave à l'écoulement. Les laves à faible teneur en silice (basaltiques) sont fluides et génèrent des éruptions calmes (effusives). Les laves riches en silice sont visqueuses (épaisses), piègent les gaz et causent des éruptions violentes (explosives)."
+        },
+        {
+            "title": "Caldeira",
+            "content": "Une grande dépression formée lorsqu'un volcan s'effondre sur lui-même après qu'une éruption massive ait vidé sa chambre magmatique. Les supervolcans, comme Yellowstone, sont identifiés par leurs immenses caldeiras."
+        },
+        {
+            "title": "Indice d'explosivité volcanique (VEI)",
+            "content": "Une échelle de 0 à 8 qui mesure l'intensité d'une éruption en fonction du volume de matière éjectée et de la hauteur de la colonne de cendres. Les éruptions pliniennes et ultrapliniennes sont au sommet de cette échelle."
+        },
+        {
+            "title": "Cheveux de Pelé",
+            "content": "Ce sont de très fins fils de verre volcanique, formés lorsque de petites particules de lave basaltique très fluide sont étirées par le vent lors d'éruptions effusives, comme celles de Hawaï. Bien que fascinants, ils sont tranchants et dangereux s'ils sont inhalés ou en contact avec la peau. Le nom est un hommage à Pelé, la déesse hawaïenne des volcans."
+        }
+    ],
+    "historicalEruptionsTitle": "Grandes éruptions de l'Histoire",
+    "historicalEruptions": [
+        {
+            "title": "Mont Tambora (1815) - L'année sans été",
+            "content": "L'éruption en Indonésie fut si massive qu'elle lança des cendres et des gaz dans la stratosphère, bloquant la lumière solaire. L'impact fut mondial : 1816 fut connu comme l'« année sans été », causant des échecs de récoltes et des famines jusqu'en Europe."
+        },
+        {
+            "title": "Krakatoa (1883) - L'explosion entendue dans le monde entier",
+            "content": "L'explosion du Krakatoa, en Indonésie, fut si puissante que le son fut entendu à plus de 4 800 km de distance et que l'onde de choc fit quatre fois le tour de la planète. Elle généra des tsunamis dévastateurs et modifia la couleur des couchers de soleil pendant des semaines dans le monde entier."
+        },
+        {
+            "title": "Mont Saint Helens (1980) - L'explosion latérale",
+            "content": "Contrairement à la plupart des éruptions, celle de ce volcan aux États-Unis se produisit sur son flanc. La paroi de la montagne céda et explosa, créant un cratère de plus de deux kilomètres et un nuage de cendres qui traversa le pays, recouvrant une superficie de 600 000 km²."
+        }
+    ],
+    "volcanoMonitoringTitle": "Comment les volcans sont surveillés",
+    "volcanoMonitoring": [
+        {
+            "title": "Analyse sismique",
+            "content": "De petits tremblements et des vibrations répétées peuvent indiquer que le magma se déplace sous le sol. Des sismographes sont installés pour enregistrer toute augmentation inhabituelle de l'activité sismique, qui peut précéder une éruption."
+        },
+        {
+            "title": "Mesure des gaz",
+            "content": "L'augmentation des émissions de gaz comme le dioxyde de soufre (SO₂) et le dioxyde de carbone (CO₂) peut signifier que le magma remonte. Ces mesures sont effectuées par des capteurs sur place ou par des drones."
+        },
+        {
+            "title": "Déformation du sol",
+            "content": "Lorsque le magma s'accumule, le sol au-dessus peut gonfler de quelques millimètres ou centimètres. Des appareils GPS de haute précision et des inclinomètres mesurent ces légères déformations, qui constituent un important signal d'alerte."
+        },
+        {
+            "title": "Surveillance par satellite",
+            "content": "Des satellites utilisent des capteurs infrarouges pour détecter les changements de température à la surface, indiquant des points chauds. Ils surveillent également les nuages de cendres et les gaz, aidant à prévoir leur impact sur les zones éloignées et le trafic aérien."
+        }
+    ],
+    "volcanoBenefitsTitle": "Les bienfaits des volcans",
+    "volcanoBenefits": [
+        {
+            "title": "Création de sols fertiles",
+            "content": "Lorsque la lave et les cendres se décomposent avec le temps, elles libèrent des nutriments comme l'azote, le phosphore et le potassium. Cela crée des sols extrêmement fertiles, idéaux pour l'agriculture, comme on le voit dans les vignobles autour de l'Etna et les plantations de café à Hawaï."
+        },
+        {
+            "title": "Formation de nouvelles terres",
+            "content": "De nombreuses îles, comme celles d'Hawaï et des Galápagos, ont été entièrement formées par des éruptions sous-marines. Ces nouvelles terres, isolées par l'océan, permettent à des espèces animales et végétales d'évoluer de manière unique, créant des écosystèmes exclusifs."
+        },
+        {
+            "title": "Sources thermales et énergie",
+            "content": "La chaleur souterraine générée par l'activité volcanique réchauffe l'eau, qui remonte à la surface sous forme de sources thermales. Outre le potentiel médical et touristique, cette chaleur peut être utilisée pour produire de l'énergie géothermique."
+        }
+    ]
+}

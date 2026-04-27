@@ -1,0 +1,219 @@
+{
+    "sismoFormationTitle": "Depremler nasıl oluşur? Tektonik plakaların motoru",
+    "sismoFormationTypes": [
+        {
+            "title": "Bir depremi ne tetikler?",
+            "content": "Dünya'nın yüzeyi tek bir parçadan oluşmaz. <b>Tektonik plakalar</b> adı verilen büyük kaya bloklarından oluşan devasa bir bulmacadır; bu plakalar gezegenin yarı-sıvı mantosunda yüzer. Sürekli hareket halindedirler, ancak çok yavaş (yılda birkaç santimetre). Deprem, bu hareketin biriktirdiği enerji aniden serbest bırakıldığında hissedilen titreşimdir."
+        },
+        {
+            "title": "Çarpışma depremleri (yakınsak sınırlar)",
+            "content": "İki plaka birbirine doğru itiştiğinde meydana gelir. Genellikle daha yoğun (okyanus) bir plaka, daha az yoğun (kıtasal) bir plakanın altına <b>dalma</b> adı verilen bir süreçle dalar. Dalan plaka düzgünce kaymaz; sıkışır ve muazzam bir gerilim biriktirir. Gerilim sürtünmeyi aşınca plaka aniden kayar ve devasa miktarda enerji açığa çıkar. Tsunamiler üretebilen Şili ve Japonya gibi <b>dünyanın en güçlü depremleri</b> burada oluşur."
+        },
+        {
+            "title": "Ayrılma depremleri (iraksak sınırlar)",
+            "content": "İki plaka birbirinden uzaklaştığında meydana gelir. Bu hareket kabukta çatlaklar oluşturur, mantodaki magmanın yükselmesine ve yeni okyanus tabanı oluşturmasına izin verir. Bu süreç depremlerle birlikte gerçekleşir, ancak genellikle <b>daha az şiddetli ve daha yüzeysel</b>. Çoğu, okyanus ortası sırtları adı verilen su altı dağ zincirlerinde meydana gelir."
+        },
+        {
+            "title": "Kaymа depremleri (transform sınırlar)",
+            "content": "İki plaka yatay olarak yan yana kaydığında meydana gelir. Plaka kenarları pürüzlü olduğundan sürtünmeyle birbirini kilitler. Gerilim yıllar ya da on yıllar boyunca birikir; sonunda kayalar aniden kırılır ve plakalar sarsılarak kayar. En ünlü örnek, Pasifik plakası ile Kuzey Amerika plakası arasındaki sınırı işaretleyen Kaliforniya'daki <b>San Andreas Fayı</b>'dır."
+        }
+    ],
+    "magnitudeTitle": "Magnitudu (M) anlamak",
+    "magnitudeIntro": "Moment magnitüdü (Mw), bir depremin odak noktasında açığa çıkan toplam enerjiyi ölçer. Ölçek logaritmiktir: 1,0 birimlik artış (örn. M6'dan M7'ye) harekette 10 kat büyüklük ve <strong>yaklaşık 32 kat</strong> daha fazla enerji salımı anlamına gelir.",
+    "magnitudeTable": "<table class=\"glossary-table\"><thead><tr><th>Magnitüd</th><th>Sınıf</th><th>Tipik his ve etki</th></tr></thead><tbody><tr><td>2.0 - 2.9</td><td>Mikro</td><td>İnsanlar tarafından hissedilmez. Yalnızca sismograflar tarafından tespit edilir.</td></tr><tr><td>3.0 - 3.9</td><td>Küçük</td><td>Dinlenimdeki birkaç kişi tarafından hissedilir. Kamyon geçişine benzer titreşimler.</td></tr><tr><td>4.0 - 4.9</td><td>Hafif</td><td>Çoğu insan tarafından hissedilir. Pencereler ve bulaşıklar titrer. Arabalar sallanır.</td></tr><tr><td>5.0 - 5.9</td><td>Orta</td><td>Herkes tarafından hissedilir. Raflardan nesneler düşer. Sıva çatıyabilir.</td></tr><tr><td>6.0 - 6.9</td><td>Güçlü</td><td>Ayakta durmak zorlaşır. Kötü inşa edilmiş binalarda büyük hasar.</td></tr><tr><td>7.0 - 7.9</td><td>Büyük</td><td>Geniş alanlarda ciddi hasar. Binaların büyük kısmı hasar görür veya çöker.</td></tr><tr><td>8.0 - 8.9</td><td>Aşırı</td><td>Neredeyse tam yıkım. Şehirler harabeye döner. Zeminde büyük çatlaklar.</td></tr><tr><td>9.0+</td><td>Felaket</td><td>Geniş çaplı yıkım, coğrafyayı kalıcı olarak değiştirir. Okyanusları aşan tsunamiler üretir.</td></tr></tbody></table>",
+    "colorsTitle": "Uygulamadaki renk kodu",
+    "colorsIntro": "Renkler depremlerin şiddetini hızlıca belirlemenizi sağlar:",
+    "colorsTable": "<table class=\"glossary-table\"><tbody><tr><td><span class=\"color-swatch\" style=\"background-color: #08e108;\"></span>Yeşil</td><td>Magnitüd 4.0'ın altında (Hafif).</td></tr><tr><td><span class=\"color-swatch\" style=\"background-color: yellow;\"></span>Sarı</td><td>Magnitüd 4.0 ile 4.9 arasında (Hafif ila Orta).</td></tr><tr><td><span class=\"color-swatch\" style=\"background-color: orange;\"></span>Turuncu</td><td>Magnitüd 5.0 ile 5.9 arasında (Orta ila Güçlü).</td></tr><tr><td><span class=\"color-swatch\" style=\"background-color: #ff0000;\"></span>Kırmızı</td><td>Magnitüd 6.0 ve üzeri (Güçlü ila Aşırı).</td></tr></tbody></table>",
+    "termsTitle": "Temel deprem terimleri",
+    "termMercalli": "<h5>Şiddet (Mercalli Ölçeği) ile Magnitüd</h5><p><strong>Magnitüd</strong> (örn. 7,2 Mw), odakta açığa çıkan enerjiyi ölçer; tek bir sayıdır. <strong>Şiddet</strong> (örn. IX derece), belirli bir yerdeki depremin <strong>etkilerini</strong> (hasar, insanların algısı) ölçer ve episantırdan uzaklaştıkça azalır.</p>",
+    "termDepth": "<h5>Derinlik</h5><p>Depremin başladığı odağın yüzeyden ne kadar aşağıda olduğunu gösterir. <strong>Sığ depremler (0-70 km)</strong> genellikle daha tehlikelidir; çünkü sismik dalgaların enerjisi yüzeye ulaşmak için daha az mesafe kat eder ve daha güçlü ulaşır.</p>",
+    "termEpicenter": "<h5>Episantır ile Hiposantır</h5><p><strong>Hiposantır</strong> (veya odak), depremin başladığı yerin Dünya içindeki tam noktasıdır. <strong>Episantır</strong> ise hiposantırın üzerinde doğrudan yer yüzeyindeki noktadır ve genellikle sarsıntının en güçlü hissedildiği yerdir.</p>",
+    "termWaves": "<h5>Sismik Dalgalar (P ve S)</h5><p><strong>P (birincil) dalgaları</strong> boylamasaldır ve daha hızlıdır; ilk tespit edilenlerdir. <strong>S (ikincil) dalgaları</strong> ise enine dalgalar olup daha yavaştır ve 'sallantı' hareketine neden olarak yıkımın başlıca sorumlusudur.</p>",
+    "termLiquefaction": "<h5>Zemin sıvılaşması</h5><p>Su doymuş kumlu zeminlerin şiddetli sarsıntı altında katılığını yitirip sıvı gibi davrandığı tehlikeli bir olgudur. Bu durum binalarda ve diğer yapılarda çökme, eğilme veya devrilmeye yol açabilir.</p>",
+    "termAftershock": "<h5>Artçı sarsıntılar</h5><p>Ana depremin ardından aynı bölgede meydana gelen daha küçük depremlerdir. Kırılan jeolojik fayın yeniden denge kurması sonucunda oluşur ve günlerce, haftalarca hatta aylarca sürebilir; halihazırda hasar görmüş yapılar için ek tehlike oluşturur.</p>",
+    "historicalSismosTitle": "🌍 Tarihin büyük depremleri",
+    "historicalSismos": [
+        {
+            "title": "Valdivia, Şili (1960) - Magnitüd 9.5",
+            "content": "Aletsel olarak kaydedilen en güçlü deprem. Şili'de yaygın yıkıma neden oldu ve Pasifik Okyanusu'nu aşarak Hawaii, Japonya ve Filipinler'e ulaşan bir tsunami yarattı; bu olayların gezegensel boyutunu gözler önüne serdi."
+        },
+        {
+            "title": "Sumatra, Endonezya (2004) - Magnitüd 9.1",
+            "content": "Okyanus tabanındaki bu mega deprem, 14 ülkeyi etkileyen ve 230.000'den fazla ölüme yol açan tarihin en ölümcül tsunamilerinden birini tetikledi. Olay, Hint Okyanusu'nda etkili tsunami uyarı sistemlerine duyulan ihtiyacı gözler önüne serdi."
+        },
+        {
+            "title": "Tōhoku, Japonya (2011) - Magnitüd 9.0",
+            "content": "Şiddetli sarsıntının yanı sıra, Japonya'nın kuzeydoğu kıyısını harabeye çeviren 40 metreye ulaşan dalgalarla bir tsunami oluşturdu. Olay, sismik risklerin çok sayıda felakete nasıl katlanabileceğini gösteren Fukushima nükleer kazasına neden olmasıyla dünyaca tanınır."
+        }
+    ],
+    "associatedRisksTitle": "Depremlerle ilişkili riskler",
+    "associatedRisks": [
+        {
+            "title": "Tsunamiler",
+            "content": "Deniz tabanında meydana gelen büyük depremler, muazzam su kütlelerini yerinden edebilir ve büyük hızlarla yol alan dev dalgalar oluşturabilir. Kıyıya ulaştıklarında bu dalgalar, episantırdan binlerce kilometre uzaktaki kıyı bölgelerini su altında bırakıp tahrip edebilir."
+        },
+        {
+            "title": "Heyelanlar",
+            "content": "Zemin sarsıntısı dik tepe ve dağ yamaçlarını dengesiz hale getirebilir; toprak, kaya ve moloz kayması gibi heyelanlara yol açabilir. Kentsel alanlarda bu durum, kararsız arazi üzerine kurulu topluluklara ciddi tehlike oluşturur."
+        },
+        {
+            "title": "Yangınlar",
+            "content": "Sarsıntılar gaz borularını kırabilir ve elektrik kablolarına hasar verebilir; gaz kaçaklarına ve kısa devrelere yol açabilir. Bu olaylar, özellikle su şebekeleri de hasar görmüşse itfaiyenin çalışmasını zorlaştıracak şekilde kentsel alanlarda hızla yayılabilen yangınlara neden olur."
+        }
+    ],
+    "volcanoSectionTitle": "🌋 Volkan sözlüğü",
+    "volcanoTypesTitle": "Başlıca volkan türleri",
+    "volcanoTypes": [
+        {
+            "title": "Kalkan yanardağı",
+            "content": "Büyük mesafelere akan çok akışkan lavlardan oluşan, geniş ve hafif eğimli yamaçlara sahip yanardağ. Patlamaları genellikle patlayıcı değildir. Örnek: Hawaii'deki Kīlauea."
+        },
+        {
+            "title": "Stratovolkan (bileşik)",
+            "content": "Viskoz lav, kül ve kaya katmanlarıyla inşa edilmiş yüksek ve konik yanardağ. Silis açısından zengin lav gazları hapsedebildiğinden son derece patlayıcı püskürtmelere yol açabilir. Örnekler: Fuji Dağı, Vezüv, Krakatoa ve St. Helens Dağı."
+        },
+        {
+            "title": "Süpervolkan",
+            "content": "Küresel iklimi değiştirebilecek patlamalar gerçekleştirebilen jeolojik dev. Koni oluşturmaz; Yellowstone gibi devasa bir kaldera oluşturur. Bir patlama 1.000 km³'ten fazla malzeme fırlatabilir."
+        },
+        {
+            "title": "Kubbe yanardağı (lav kubbesi)",
+            "content": "Kraterde birikerek bir kubbe oluşturan çok viskoz lavdan meydana gelir. Kubbenin çökmesi tehlikeli ve ani ateş bulutları (piroplastik akıntı) oluşturabilir."
+        },
+        {
+            "title": "Fissür yanardağı",
+            "content": "Magma merkezi bir krater yerine kabukta uzun çatlaklar aracılığıyla yüzeye çıkar. 1783'teki İzlanda Laki patlaması gibi geniş lav alanları ve iklimi etkileyen gazlar salabilir."
+        },
+        {
+            "title": "Sualtı yanardağı",
+            "content": "Dünyanın volkanlarının büyük çoğunluğu su altındadır. Patlamalar Surtsey gibi yeni adalar oluşturabilir ya da 2022'deki Hunga Tonga-Hunga Ha'apai gibi tsunamiler ve küresel şok dalgaları üretebilir."
+        },
+        {
+            "title": "Çamur yanardağı",
+            "content": "Kil katmanlarında sıkışmış sıvıların basıncıyla kabuk çatlaklarından yükselen çamur, tuzlu su ve metan gibi gazların püskürtülmesiyle oluşur. Magmatik kökeni yoktur. Azerbaycan ve Hazar Denizi gibi bölgelerde binlercesi kayıt altına alınmıştır."
+        }
+    ],
+    "eruptionTypesTitle": "Başlıca patlama türleri",
+    "eruptionTypes": [
+        {
+            "title": "Hawaii tipi (efüzif)",
+            "content": "Büyük patlamalar olmadan yamaçlardan akan, düşük gaz içerikli akışkan lavin sürekli akışı. Kalkan yanardağlarına özgüdür."
+        },
+        {
+            "title": "Plinyen (patlayıcı)",
+            "content": "En aşırı biçim. Kül ve gaz sütunlarını stratosferde 30 km'nin üzerine fırlatır; küresel iklimi etkileyebilir. Örnekler: Vezüv (MS 79) ve Krakatoa (1883)."
+        },
+        {
+            "title": "Stromboli tipi",
+            "content": "Havaya parlak malzeme fırlatıcılar (lav bombaları) atan orta şiddette ve ritmik patlamalarla karakterize edilir. Örnek: İtalya'daki Stromboli."
+        },
+        {
+            "title": "Vulkan tipi",
+            "content": "Kısa ama saldırgan patlama. Viskoz lav kanalı tıkar; biriken basınç kaya parçaları, buhar ve kül üreten ani bir salınım yaratır. Patlama sütunu birkaç kilometreye ulaşabilir."
+        },
+        {
+            "title": "Fretatik",
+            "content": "Magmanın yüzeye ulaşmadan sıcak kayalar veya magma tarafından ısıtılan yeraltı sularının buhar patlaması. Az uyarıyla meydana gelebilir."
+        },
+        {
+            "title": "Freatomagmatik",
+            "content": "Sığ sularda veya yeraltında magma suyla şiddetli etkileşime girdiğinde oluşur; kül, buhar ve parçalanmış lav patlamalarına yol açar. Magmayı içerdiğinden fretaikten daha tehlikelidir."
+        },
+        {
+            "title": "Surtsey tipi",
+            "content": "Sığ sularda magmanın suyla şiddetli etkileşimiyle oluşur; kül ve buhar patlamaları üretir. İzlanda'daki Surtsey gibi yeni adalar oluşturabilir."
+        },
+        {
+            "title": "Buzul altı",
+            "content": "Buzulların altında gerçekleşir. Magma buzu eritir; büyük seller (jökulhlaup) ve buhar patlamalarına yol açabilir. Örnek: Eyjafjallajökull, 2010."
+        },
+        {
+            "title": "Yanal",
+            "content": "Magma zirve yerine dağın yamacındaki bir çatlaktan kaçtığında meydana gelir. 1980'deki St. Helens Dağı patlamasında olduğu gibi son derece yıkıcı olabilir; dağ kendi yamacını patlattı."
+        },
+        {
+            "title": "Lahar (çamur akıntısı)",
+            "content": "Lav patlaması değil, tehlikeli bir sonuçtur. Şiddetli yağmurlar yamaçlardaki külle karışarak yoğun ve ağır bir çamur oluşturur; bu çamur büyük hızla aşağıya inerek volkanik aktiviteden günler ya da haftalar sonra bile köylerin tamamını yok edebilir."
+        },
+        {
+            "title": "Limnik",
+            "content": "Volkanik bölgelerdeki göllerde nadir ve ölümcül bir fenomen. Karbondioksit gibi gazlar göl tabanında sıkışır ve aniden serbest kaldığında devasa bir balon gibi yükselir; insanları ve hayvanları renk veya koku olmadan boğar."
+        }
+    ],
+    "volcanoTermsTitle": "Volkanik riskler ve terimler",
+    "volcanoTerms": [
+        {
+            "title": "Piroplastik akıntı (ateş bulutu)",
+            "content": "Saatte 300 km'yi aşan hızlarda yamaçlardan inen aşırı ısınmış gaz, kül ve kaya parçalarının ölümcül karışımı. Patlayıcı bir patlamanın en yıkıcı ve kaçınılmaz fenomenlerinden biridir."
+        },
+        {
+            "title": "Lahar (çamur akıntısı)",
+            "content": "Doğrudan patlama değil, tehlikeli bir sonuçtur. Şiddetli yağmurlar yamaçlardaki küllerle karışarak yoğun ve hızlı bir çamur akıntısı oluşturabilir; bu akıntı patlamadan haftalar sonra bile her şeyi yok eder."
+        },
+        {
+            "title": "Viskozite (ve silis)",
+            "content": "Lavin akma direncidir. Düşük silis içerikli (bazaltik) lavlar akışkandır ve sakin (efüzif) patlamalar oluşturur. Yüksek silis içerikli lavlar viskózdur (yoğun), gazları hapseder ve şiddetli (patlayıcı) patlamalara neden olur."
+        },
+        {
+            "title": "Kaldera",
+            "content": "Büyük bir patlama magma odasını boşalttıktan sonra bir yanardağın kendi üzerine çökmesiyle oluşan büyük çukur. Yellowstone gibi süpervolkanlar devasa kalderaları ile tanımlanır."
+        },
+        {
+            "title": "Volkanik Patlayıcılık İndeksi (VEI)",
+            "content": "Atılan malzeme hacmi ve kül sütununun yüksekliğine göre bir patlamanın şiddetini ölçen 0'dan 8'e kadar bir ölçek. Plinyen ve ultraplinyen patlamalar bu ölçeğin zirvesindedir."
+        },
+        {
+            "title": "Pele'nin saçları",
+            "content": "Hawaii gibi efüzif patlamalar sırasında rüzgar tarafından çok akışkan bazaltik lavin küçük parçacıklarını uzatmasıyla oluşan çok ince volkanik cam iplikleri. Büyüleyici olmalarına karşın keskindir ve solunması ya da cilde teması durumunda tehlikelidir. Adı Hawaii volkan tanrıçası Pele'ye atıfla verilmiştir."
+        }
+    ],
+    "historicalEruptionsTitle": "Tarihin büyük patlamaları",
+    "historicalEruptions": [
+        {
+            "title": "Tambora Dağı (1815) - Yazsız Yıl",
+            "content": "Endonezya'daki patlama o kadar büyüktü ki stratosfere kül ve gaz fırlattı; güneş ışığını engelledi. Etkisi küresaldi: 1816, 'yazsız yıl' olarak bilinir; Avrupa'ya kadar hasat başarısızlıklarına ve kıtlıklara neden oldu."
+        },
+        {
+            "title": "Krakatoa (1883) - Dünyada duyulan patlama",
+            "content": "Endonezya'daki Krakatoa patlaması o kadar güçlüydü ki sesi 4.800 km öteden duyuldu ve şok dalgası gezegenin etrafında dört kez dolaştı. Yıkıcı tsunamiler oluşturdu ve haftalarca dünya genelinde günbatımı renklerini değiştirdi."
+        },
+        {
+            "title": "St. Helens Dağı (1980) - Yanal patlama",
+            "content": "Çoğu patlamanın aksine, ABD'deki bu yanardağ kendi yamacından patladı. Dağın duvarı çöktü ve patladı; iki kilometreden büyük bir krater ve ülkeyi aşarak 600.000 km²'lik bir alanı örten bir kül bulutu oluşturdu."
+        }
+    ],
+    "volcanoMonitoringTitle": "Volkanlar nasıl izlenir",
+    "volcanoMonitoring": [
+        {
+            "title": "Sismik analiz",
+            "content": "Küçük sarsıntılar ve tekrarlayan titreşimler magmanın yer altında hareket ettiğine işaret edebilir. Sismograflar, patlamadan önce gelebilecek olağandışı sismik aktivite artışını kaydetmek için kurulur."
+        },
+        {
+            "title": "Gaz ölçümü",
+            "content": "SO₂ ve CO₂ gibi gaz emisyonlarındaki artış, magmanın yükseldiğine işaret edebilir. Bu ölçümler yerinde sensörler veya insansız hava araçları aracılığıyla gerçekleştirilir."
+        },
+        {
+            "title": "Zemin deformasyonu",
+            "content": "Magma birikimleri zemin yüzeyinin birkaç milimetre veya santimetre kabarmasına neden olabilir. Yüksek hassasiyetli GPS cihazları ve inklinometreler bu küçük deformasyonları ölçer; bunlar önemli bir erken uyarı sinyalidir."
+        },
+        {
+            "title": "Uydu izlemesi",
+            "content": "Uydular, yüzeydeki sıcaklık değişikliklerini saptamak için kızılötesi sensörler kullanır; sıcak noktaları belirler. Ayrıca kül bulutlarını ve gazları izleyerek uzak bölgeler ve hava trafiği üzerindeki etkilerini tahmin etmeye yardımcı olurlar."
+        }
+    ],
+    "volcanoBenefitsTitle": "Volkanların faydaları",
+    "volcanoBenefits": [
+        {
+            "title": "Verimli toprak oluşumu",
+            "content": "Lav ve kül zamanla ayrıştığında azot, fosfor ve potasyum gibi besinleri serbest bırakır. Bu, Etna çevresindeki bağlarda ve Hawaii'deki kahve plantasyonlarında görüldüğü üzere tarım için son derece verimli topraklar oluşturur."
+        },
+        {
+            "title": "Yeni kara oluşumu",
+            "content": "Hawaii ve Galapagos Adaları gibi pek çok ada, tamamen su altı patlamalarıyla oluşmuştur. Okyanus tarafından izole edilmiş bu yeni karalarda hayvan ve bitki türleri eşsiz biçimde evrilerek özel ekosistemler oluşturur."
+        },
+        {
+            "title": "Termal kaynaklar ve enerji",
+            "content": "Volkanik aktivite tarafından üretilen yeraltı ısısı suyu ısıtır; bu su termal kaynaklar olarak yüzeye çıkar. Tıbbi ve turistik potansiyelin yanı sıra bu ısı jeotermal enerji üretmek için kullanılabilir."
+        }
+    ]
+}

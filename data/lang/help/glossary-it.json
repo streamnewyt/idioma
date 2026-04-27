@@ -1,0 +1,219 @@
+{
+    "sismoFormationTitle": "Come si formano i terremoti? Il motore delle placche tettoniche",
+    "sismoFormationTypes": [
+        {
+            "title": "Cosa causa un terremoto?",
+            "content": "La superficie della Terra non è un pezzo unico. È un enorme puzzle formato da enormi blocchi di roccia chiamati <b>placche tettoniche</b>, che galleggiano sul mantello semi-liquido del pianeta. Sono in costante movimento, ma molto lentamente (pochi centimetri all'anno). Un terremoto è la vibrazione avvertita quando l'energia accumulata da questo movimento viene liberata bruscamente."
+        },
+        {
+            "title": "Terremoti di collisione (margini convergenti)",
+            "content": "Si verifica quando due placche si spingono l'una contro l'altra. In genere, una placca più densa (oceanica) scende sotto una meno densa (continentale), in un processo chiamato <b>subduzione</b>. La placca che scende non scivola dolcemente; si blocca, accumulando un'enorme tensione. Quando la tensione supera l'attrito, la placca scivola bruscamente, rilasciando un'enorme quantità di energia. È qui che si verificano i <b>terremoti più forti del mondo</b>, come quelli in Cile e in Giappone, che possono generare tsunami."
+        },
+        {
+            "title": "Terremoti di separazione (margini divergenti)",
+            "content": "Si verifica quando due placche si allontanano l'una dall'altra. Questo movimento crea fratture nella crosta, consentendo al magma di risalire dal mantello e creare nuovo fondale oceanico. Questo processo è accompagnato da terremoti, ma generalmente <b>meno intensi e più superficiali</b>. La maggior parte si verifica nel mezzo degli oceani, su catene montuose sottomarine chiamate dorsali medio-oceaniche."
+        },
+        {
+            "title": "Terremoti di scorrimento (margini trasformi)",
+            "content": "Si verifica quando due placche scorrono orizzontalmente l'una accanto all'altra. I bordi delle placche non sono lisci, quindi si bloccano per attrito. La tensione si accumula per anni o decenni finché, improvvisamente, le rocce si fratturano e le placche scorrono bruscamente. L'esempio più famoso è la <b>Faglia di San Andreas</b>, in California, che segna il confine tra la placca del Pacifico e quella nordamericana."
+        }
+    ],
+    "magnitudeTitle": "Comprendere la magnitudo (M)",
+    "magnitudeIntro": "La magnitudo momento (Mw) misura l'energia totale rilasciata al fuoco di un terremoto. La scala è logaritmica: un aumento di 1,0 punto (es. da M6 a M7) rappresenta un'ampiezza del movimento 10 volte maggiore e un rilascio di energia <strong>~32 volte superiore</strong>.",
+    "magnitudeTable": "<table class=\"glossary-table\"><thead><tr><th>Magnitudo</th><th>Classificazione</th><th>Sensazione e impatto tipico</th></tr></thead><tbody><tr><td>2.0 - 2.9</td><td>Micro</td><td>Non avvertito dagli esseri umani. Rilevato solo dai sismografi.</td></tr><tr><td>3.0 - 3.9</td><td>Minore</td><td>Avvertito da poche persone a riposo. Vibrazioni simili al passaggio di un camion.</td></tr><tr><td>4.0 - 4.9</td><td>Leggero</td><td>Avvertito dalla maggior parte delle persone. Finestre e stoviglie tremano. Le auto oscillano.</td></tr><tr><td>5.0 - 5.9</td><td>Moderato</td><td>Avvertito da tutti. Gli oggetti cadono dagli scaffali. L'intonaco può incrinarsi.</td></tr><tr><td>6.0 - 6.9</td><td>Forte</td><td>Difficile restare in piedi. Gravi danni agli edifici mal costruiti.</td></tr><tr><td>7.0 - 7.9</td><td>Maggiore</td><td>Gravi danni su vaste aree. La maggior parte degli edifici subisce danni o crolla.</td></tr><tr><td>8.0 - 8.9</td><td>Estremo</td><td>Distruzione quasi totale. Città devastate. Grandi spaccature nel terreno.</td></tr><tr><td>9.0+</td><td>Catastrofico</td><td>Devastazione su larga scala, altera definitivamente la geografia. Genera tsunami che attraversano gli oceani.</td></tr></tbody></table>",
+    "colorsTitle": "Codice colore nell'applicazione",
+    "colorsIntro": "I colori consentono di identificare rapidamente l'intensità dei terremoti:",
+    "colorsTable": "<table class=\"glossary-table\"><tbody><tr><td><span class=\"color-swatch\" style=\"background-color: #08e108;\"></span>Verde</td><td>Magnitudo inferiore a 4.0 (Leggero).</td></tr><tr><td><span class=\"color-swatch\" style=\"background-color: yellow;\"></span>Giallo</td><td>Magnitudo tra 4.0 e 4.9 (Leggero-Moderato).</td></tr><tr><td><span class=\"color-swatch\" style=\"background-color: orange;\"></span>Arancione</td><td>Magnitudo tra 5.0 e 5.9 (Moderato-Forte).</td></tr><tr><td><span class=\"color-swatch\" style=\"background-color: #ff0000;\"></span>Rosso</td><td>Magnitudo 6.0 o superiore (Forte-Estremo).</td></tr></tbody></table>",
+    "termsTitle": "Termini fondamentali sui terremoti",
+    "termMercalli": "<h5>Intensità (Scala Mercalli) vs. Magnitudo</h5><p><strong>La magnitudo</strong> (es. 7,2 Mw) misura l'energia rilasciata al fuoco; è un numero unico. <strong>L'intensità</strong> (es. grado IX) misura gli <strong>effetti</strong> del terremoto in un luogo specifico (danni, percezione delle persone) e diminuisce con la distanza dall'epicentro.</p>",
+    "termDepth": "<h5>Profondità</h5><p>Indica a quanta distanza sotto la superficie il terremoto ha avuto origine (ipocentro). I terremoti <strong>superficiali (0-70 km)</strong> sono generalmente più pericolosi, poiché l'energia delle onde sismiche deve percorrere meno distanza fino alla superficie, arrivando con maggiore forza.</p>",
+    "termEpicenter": "<h5>Epicentro vs. Ipocentro</h5><p>L'<strong>ipocentro</strong> (o fuoco) è il punto esatto della frattura rocciosa all'interno della Terra dove inizia il terremoto. L'<strong>epicentro</strong> è il punto in superficie direttamente sopra l'ipocentro, generalmente dove il terremoto è avvertito con maggiore intensità.</p>",
+    "termWaves": "<h5>Onde sismiche (P e S)</h5><p>Le <strong>onde P (primarie)</strong> sono longitudinali e più veloci, essendo le prime a essere rilevate. Le <strong>onde S (secondarie)</strong> sono trasversali, più lente e causano il movimento di 'scuotimento', essendo le principali responsabili della distruzione.</p>",
+    "termLiquefaction": "<h5>Liquefazione del suolo</h5><p>Fenomeno pericoloso in cui terreni sabbiosi saturi d'acqua perdono la loro solidità e si comportano come un liquido sotto l'effetto del forte scuotimento. Questo può causare cedimenti, inclinazioni o crollo di edifici e altre strutture.</p>",
+    "termAftershock": "<h5>Repliche (aftershock)</h5><p>Sono terremoti minori che si verificano nella stessa area dopo un terremoto principale. Sono causati dal riadattamento della faglia geologica che si è rotta e possono continuare per giorni, settimane o persino mesi, rappresentando un rischio aggiuntivo per le strutture già danneggiate.</p>",
+    "historicalSismosTitle": "🌍 Grandi terremoti della storia",
+    "historicalSismos": [
+        {
+            "title": "Valdivia, Cile (1960) - Magnitudo 9.5",
+            "content": "Il terremoto più potente mai registrato strumentalmente. Ha causato una distruzione generalizzata in Cile e ha generato uno tsunami che ha attraversato l'Oceano Pacifico, raggiungendo Hawaii, Giappone e Filippine, dimostrando la portata planetaria di questi eventi."
+        },
+        {
+            "title": "Sumatra, Indonesia (2004) - Magnitudo 9.1",
+            "content": "Questo mega-terremoto in fondo all'oceano ha scatenato uno dei tsunami più letali della storia, colpendo 14 paesi e causando più di 230.000 morti. L'evento ha evidenziato la necessità di sistemi efficaci di allerta tsunami nell'Oceano Indiano."
+        },
+        {
+            "title": "Tōhoku, Giappone (2011) - Magnitudo 9.0",
+            "content": "Oltre alla forte scossa, ha generato uno tsunami con onde alte fino a 40 metri che ha devastato la costa nord-orientale del Giappone. L'evento è noto a livello mondiale per aver causato l'incidente nucleare di Fukushima, mostrando come i rischi sismici possano moltiplicarsi in più catastrofi."
+        }
+    ],
+    "associatedRisksTitle": "Rischi associati ai terremoti",
+    "associatedRisks": [
+        {
+            "title": "Tsunami",
+            "content": "I grandi terremoti che si verificano nel fondale marino possono spostare enormi volumi d'acqua, generando onde gigantesche che viaggiano a grande velocità. Raggiungendo la costa, queste onde possono inondare e distruggere aree costiere a migliaia di chilometri dall'epicentro."
+        },
+        {
+            "title": "Frane",
+            "content": "Il tremore del suolo può destabilizzare i fianchi ripidi di colline e montagne, causando frane di terra, rocce e detriti. Nelle aree urbane, ciò rappresenta un grave rischio per le comunità costruite su terreni instabili."
+        },
+        {
+            "title": "Incendi",
+            "content": "Le scosse possono rompere condotte del gas e danneggiare cablaggi elettrici, causando perdite di gas e cortocircuiti. Questi incidenti portano spesso a incendi che possono propagarsi rapidamente nelle aree urbane, specialmente se le reti idriche sono anch'esse danneggiate, complicando il lavoro dei vigili del fuoco."
+        }
+    ],
+    "volcanoSectionTitle": "🌋 Glossario vulcanologico",
+    "volcanoTypesTitle": "Principali tipi di vulcani",
+    "volcanoTypes": [
+        {
+            "title": "Vulcano a scudo",
+            "content": "Ampio e dai fianchi dolci, formato da lava molto fluida che scorre su grandi distanze. Le sue eruzioni non sono generalmente esplosive. Esempio: Kīlauea, alle Hawaii."
+        },
+        {
+            "title": "Stratovulcano (composito)",
+            "content": "Vulcano alto e conico, costruito da strati di lava viscosa, cenere e rocce. La lava ricca di silice può intrappolare i gas, portando a eruzioni estremamente esplosive. Esempi: Monte Fuji, Vesuvio, Krakatoa e Mount St. Helens."
+        },
+        {
+            "title": "Supervulcano",
+            "content": "Gigante geologico capace di eruzioni che modificano il clima mondiale. Non forma un cono, ma un'immensa caldera, come quella di Yellowstone. Un'eruzione può espellere più di 1.000 km³ di materiale."
+        },
+        {
+            "title": "Vulcano a cupola (domo lavico)",
+            "content": "Formato da lava molto viscosa che si accumula nel cratere, creando una cupola. Il collasso della cupola può generare pericolose e improvvise nubi ardenti (flussi piroclastici)."
+        },
+        {
+            "title": "Vulcano a fessura",
+            "content": "Il magma emerge attraverso lunghe fessure nella crosta, piuttosto che da un cratere centrale. Può rilasciare vasti campi di lava e gas che impattano il clima, come l'eruzione del Laki in Islanda nel 1783."
+        },
+        {
+            "title": "Vulcano sottomarino",
+            "content": "La maggioranza dei vulcani della Terra è sommersa. Le eruzioni possono creare nuove isole, come Surtsey, o generare tsunami e onde d'urto globali, come l'Hunga Tonga-Hunga Ha'apai nel 2022."
+        },
+        {
+            "title": "Vulcano di fango",
+            "content": "Formato dall'estrusione di fango, acqua salata e gas come il metano, che risalgono attraverso fratture della crosta. Non ha origine magmatica, ma risulta dalla pressione di fluidi intrappolati in strati di argilla. Migliaia sono catalogati in regioni come l'Azerbaigian e il Mar Caspio."
+        }
+    ],
+    "eruptionTypesTitle": "Principali tipi di eruzione",
+    "eruptionTypes": [
+        {
+            "title": "Hawaiiana (effusiva)",
+            "content": "Flusso costante di lava fluida, a basso contenuto di gas, che scorre sui fianchi senza grandi esplosioni. Tipica dei vulcani a scudo."
+        },
+        {
+            "title": "Pliniana (esplosiva)",
+            "content": "La forma più estrema. Lancia colonne di cenere e gas oltre 30 km nella stratosfera, potendo impattare il clima mondiale. Esempi: Vesuvio (79 d.C.) e Krakatoa (1883)."
+        },
+        {
+            "title": "Stromboliana",
+            "content": "Caratterizzata da esplosioni moderate e ritmiche che proiettano getti di materiale incandescente (bombe laviche) in aria. Esempio: Stromboli, in Italia."
+        },
+        {
+            "title": "Vulcaniana",
+            "content": "Eruzione breve ma aggressiva. La lava viscosa blocca il condotto e la pressione accumulata genera un rilascio improvviso di frammenti di roccia, vapore e cenere. La colonna eruttiva può raggiungere diversi chilometri."
+        },
+        {
+            "title": "Freática",
+            "content": "Un'esplosione di vapore che si verifica quando le acque sotterranee vengono surriscaldate da rocce calde o magma, senza che il magma stesso raggiunga la superficie. Può verificarsi con poco preavviso."
+        },
+        {
+            "title": "Freatomagmatica",
+            "content": "Si verifica in acque poco profonde o nel sottosuolo, quando il magma interagisce violentemente con l'acqua, producendo getti esplosivi di cenere, vapore e lava frammentata. Più pericolosa della freatíca perché coinvolge il magma."
+        },
+        {
+            "title": "Surtseiana",
+            "content": "Si verifica in acque poco profonde, quando il magma interagisce violentemente con l'acqua, producendo getti esplosivi di cenere e vapore. Può costruire nuove isole, come Surtsey in Islanda."
+        },
+        {
+            "title": "Subglaciale",
+            "content": "Si verifica sotto i ghiacciai. Il magma fa sciogliere il ghiaccio, potendo causare inondazioni massive (jökulhlaups) ed esplosioni di vapore. Esempio: Eyjafjallajökull, 2010."
+        },
+        {
+            "title": "Laterale",
+            "content": "Si verifica quando il magma fuoriesce da una frattura sul fianco della montagna piuttosto che dalla cima. Può essere estremamente distruttiva, come nell'eruzione del Monte St. Helens nel 1980, che ha fatto esplodere il proprio fianco."
+        },
+        {
+            "title": "Lahar (colata di fango)",
+            "content": "Non è un'eruzione di lava, ma una conseguenza pericolosa. Le forti piogge si mescolano con le ceneri depositate sui fianchi, formando un fango denso e pesante che scende a grande velocità, potendo distruggere interi villaggi anche giorni o settimane dopo l'attività vulcanica."
+        },
+        {
+            "title": "Limnica",
+            "content": "Fenomeno raro e mortale che si verifica nei laghi di zone vulcaniche. Gas come l'anidride carbonica vengono intrappolati sul fondo del lago e, quando vengono rilasciati improvvisamente, risalgono come un'enorme bolla e si diffondono sui fianchi, asfissiando persone e animali senza colore né odore."
+        }
+    ],
+    "volcanoTermsTitle": "Rischi e termini vulcanici",
+    "volcanoTerms": [
+        {
+            "title": "Nube ardente (flusso piroclastico)",
+            "content": "Una miscela mortale di gas surriscaldato, ceneri e frammenti di roccia che scende dai fianchi a velocità che possono superare i 300 km/h. È uno dei fenomeni più distruttivi e inevitabili di un'eruzione esplosiva."
+        },
+        {
+            "title": "Lahar (colata di fango)",
+            "content": "Non è un'eruzione diretta, ma una conseguenza pericolosa. Le forti piogge possono mescolare le ceneri depositate sui fianchi, creando un flusso di fango denso e rapido che distrugge tutto sul suo percorso, anche settimane dopo l'eruzione."
+        },
+        {
+            "title": "Viscosità (e silice)",
+            "content": "È la resistenza della lava allo scorrimento. Le lave a basso contenuto di silice (basaltiche) sono fluide e generano eruzioni tranquille (effusive). Le lave ricche di silice sono viscose (dense), intrappolano i gas e causano eruzioni violente (esplosive)."
+        },
+        {
+            "title": "Caldera",
+            "content": "Una grande depressione formata quando un vulcano collassa su se stesso dopo che un'eruzione massiccia ha svuotato la sua camera magmatica. I supervulcani, come Yellowstone, sono identificati dalle loro immense caldere."
+        },
+        {
+            "title": "Indice di Esplosività Vulcanica (VEI)",
+            "content": "Una scala da 0 a 8 che misura l'intensità di un'eruzione in base al volume di materiale espulso e all'altezza della colonna di cenere. Le eruzioni pliniane e ultrapliniane sono in cima a questa scala."
+        },
+        {
+            "title": "Capelli di Pele",
+            "content": "Sono sottilissimi fili di vetro vulcanico, formati quando piccole particelle di lava basaltica molto fluida vengono stirate dal vento durante eruzioni effusive, come quelle delle Hawaii. Sebbene affascinanti, sono taglienti e pericolosi se inalati o a contatto con la pelle. Il nome è un omaggio a Pele, la dea hawaiana dei vulcani."
+        }
+    ],
+    "historicalEruptionsTitle": "Grandi eruzioni della storia",
+    "historicalEruptions": [
+        {
+            "title": "Monte Tambora (1815) - L'anno senza estate",
+            "content": "L'eruzione in Indonesia fu così massiccia da lanciare ceneri e gas nella stratosfera, bloccando la luce solare. L'impatto fu mondiale: il 1816 fu conosciuto come l'«anno senza estate», causando fallimenti dei raccolti e carestie fino in Europa."
+        },
+        {
+            "title": "Krakatoa (1883) - L'esplosione udita in tutto il mondo",
+            "content": "L'esplosione del Krakatoa, in Indonesia, fu così potente che il suono fu udito a oltre 4.800 km di distanza e l'onda d'urto fece quattro volte il giro del pianeta. Generò tsunami devastanti e modificò il colore dei tramonti per settimane in tutto il mondo."
+        },
+        {
+            "title": "Monte St. Helens (1980) - L'esplosione laterale",
+            "content": "A differenza della maggior parte delle eruzioni, quella di questo vulcano negli Stati Uniti avvenne sul suo fianco. La parete della montagna cedette ed esplose, creando un cratere di oltre due chilometri e una nube di cenere che attraversò il paese, coprendo una superficie di 600.000 km²."
+        }
+    ],
+    "volcanoMonitoringTitle": "Come vengono monitorati i vulcani",
+    "volcanoMonitoring": [
+        {
+            "title": "Analisi sismica",
+            "content": "Piccoli tremori e vibrazioni ripetute possono indicare che il magma si sta muovendo sotto il suolo. I sismografi vengono installati per registrare qualsiasi aumento insolito dell'attività sismica, che può precedere un'eruzione."
+        },
+        {
+            "title": "Misurazione dei gas",
+            "content": "L'aumento delle emissioni di gas come il biossido di zolfo (SO₂) e l'anidride carbonica (CO₂) può significare che il magma sta risalendo. Queste misurazioni vengono effettuate da sensori in loco o da droni."
+        },
+        {
+            "title": "Deformazione del suolo",
+            "content": "Quando il magma si accumula, il suolo soprastante può gonfiarsi di alcuni millimetri o centimetri. Dispositivi GPS ad alta precisione e inclinometri misurano queste lievi deformazioni, che costituiscono un importante segnale di allerta."
+        },
+        {
+            "title": "Monitoraggio satellitare",
+            "content": "I satelliti utilizzano sensori infrarossi per rilevare i cambiamenti di temperatura in superficie, individuando i punti caldi. Monitorano anche le nubi di cenere e i gas, aiutando a prevedere il loro impatto sulle aree remote e sul traffico aereo."
+        }
+    ],
+    "volcanoBenefitsTitle": "I benefici dei vulcani",
+    "volcanoBenefits": [
+        {
+            "title": "Creazione di terreni fertili",
+            "content": "Quando la lava e le ceneri si decompongono nel tempo, rilasciano nutrienti come azoto, fosforo e potassio. Questo crea terreni estremamente fertili, ideali per l'agricoltura, come si vede nei vigneti intorno all'Etna e nelle piantagioni di caffè alle Hawaii."
+        },
+        {
+            "title": "Formazione di nuove terre",
+            "content": "Molte isole, come quelle delle Hawaii e delle Galápagos, sono state interamente formate da eruzioni sottomarine. Queste nuove terre, isolate dall'oceano, permettono a specie animali e vegetali di evolversi in modo unico, creando ecosistemi esclusivi."
+        },
+        {
+            "title": "Sorgenti termali ed energia",
+            "content": "Il calore sotterraneo generato dall'attività vulcanica riscalda l'acqua, che risale in superficie sotto forma di sorgenti termali. Oltre al potenziale medico e turistico, questo calore può essere utilizzato per produrre energia geotermica."
+        }
+    ]
+}
