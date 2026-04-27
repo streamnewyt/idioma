@@ -1,0 +1,69 @@
+{
+    "gasIntroTitle": "Volkanik gazlar hakkında bir rehber",
+    "gasIntroP1": "Bir yanardağ patlamadan önce fısıldar. Sırları alevle değil, gazlarla yükselir — görünmez, sessiz ve derin anlamlar taşıyan gazlar. Bunlar Dünya'nın nefesi, jeolojinin bize sunduğu en ince ve en önemli sinyallerdir; ayaklarımızın altındaki kilometrelerce derinde neler olduğunu anlamamızı sağlarlar.",
+    "gasIntroP2": "Bu gazlar magmanın sadece yan ürünleri değildir. İç basınç, kimyasal bileşim ve hatta yanardağın ruh hali hakkında ipuçları taşıyan yeraltı habercileridir. Eğilimlerini gözlemlemek, Dünya'nın çekirdeği ile yüzeyi arasındaki bir konuşmayı dinlemek gibidir.",
+    "birthTitle": "🔥 Gazlar nasıl oluşur?",
+    "birthP1": "Volkanik gazlar, <b>magmanın gaz salması</b> adı verilen bir süreçle serbest bırakılır. Magmayı, yer kabuğunun derinliklerinde çok yüksek basınç altında depolanan gazlı bir içecek olarak düşünün. İçinde çözünmüş gazlar bulunur — ağırlıklı olarak su buharı (H₂O), karbondioksit (CO₂), kükürt dioksit (SO₂) ve diğer uçucu bileşikler.",
+    "birthP2": "Magma yüzeye doğru yükseldikçe, etrafındaki basınç önemli ölçüde azalır. Tıpkı bir soda şişesini açmak gibi, gazlar sıvıdan ayrılır ve çatlaklar, kırıklar ve volkanik kanallar yoluyla yükselerek kaçar. Bu süreç patlamadan önce, sırasında ve hatta patlama olmaksızın da gerçekleşebilir; bu da gazları sürekli bir izleme aracı haline getirir.",
+    "escapeTitle": "🌬️ Nereden kaçarlar?",
+    "escapePoints": [
+        "<b>Fümaroller:</b> Kabukta buhar ve sıcak gazları serbest bırakan açıklıklar.",
+        "<b>Kaplıcalar:</b> Volkanik aktivite tarafından ısıtılan ve çözünmüş gazlar taşıyan sular.",
+        "<b>Solfataralar:</b> Yoğun SO₂ emisyonu ile kükürtçe zengin alanlar.",
+        "<b>Kraterler ve yamaçlar:</b> Patlama olmadan bile mikro-çatlaklar yoluyla gaz salabilirler."
+    ],
+    "escapeConclusion": "Bu yerler gezegenin egzoz supapları gibidir — ve her biri yeraltı hikayesinin bir parçasını anlatır.",
+    "signalsTitle": "🧠 Bize ne söylüyorlar?",
+    "signalsP1": "Bu gazların bileşimi ve miktarı bir <b>volkanik sağlık bülteni</b> gibi işlev görür. İnce — ya da ani — değişiklikler şunları işaret edebilir:",
+    "signalPoints": [
+        "Magma hareketi",
+        "İç basınçta artış",
+        "Yeraltı suları ile etkileşim",
+        "Beklenen patlama tipindeki değişiklik"
+    ],
+    "signalsP2": "Örneğin, SO₂ (kükürt dioksit) emisyonlarındaki ani artış, magmanın yüzeye yaklaştığının en güvenilir işaretlerinden biridir. CO₂, daha hafif ve daha bol olduğundan patlama olmaksızın da kaçabilir ve derin aktiviteyi ortaya çıkarabilir. Bu gazları izlemek, bilimsel merakı somut önleme dönüştürür. Volkanologlar, erken uyarı sistemleri ve hatta yerel topluluklar tarafından yanardağın sakin mi, huzursuz mu yoksa uyanmak üzere mi olduğunu anlamak için kullanılırlar.",
+    "nextTitle": "🧪 Peki ya sonrası?",
+    "nextP1": "Her gazın kendine özgü bir hikayesi vardır — bir kökeni, bir davranışı, bir riski. Sonraki bloklarda dört ana gazı keşfedeceğiz:",
+    "gasList": [
+        "<b>SO₂:</b> Aktif magmanın en doğrudan sinyali.",
+        "<b>CO₂:</b> Birikebilir ve boğabilir sessiz gaz.",
+        "<b>CO:</b> Küçük dozlarda bile toksik olan görünmez katil.",
+        "<b>NO₂:</b> Asit yağmurlarına katkıda bulunan atmosferik tahriş edici."
+    ],
+    "gasSO2Title": "🟡 SO₂ — Kükürt Dioksit",
+    "gasSO2Subtitle": "Aktif magmanın en doğrudan sinyali.",
+    "gasSO2Desc": "Yanardağ SO₂ salmaya başladığında, sanki sesini yükseltiyor gibidir. Bu gaz, patlamalar sırasında en bol bulunanlardan biridir ve volkanologlar tarafından magmatik aktivite göstergesi olarak en çok kullanılandır.",
+    "gasSO2Points": {
+        "Köken": "Magmada bulunan kükürdin oksidasyonuyla oluşur.",
+        "Davranış": "Güçlü ve tahriş edici bir kokuya sahip renksiz gaz (yanmış kibrit gibi).",
+        "Çevresel etki": "Havadaki nemle reaksiyona girerek sülfürik asit oluşturur — asit yağmurlarının ve <b>vog</b> (volkanik sis) olarak bilinen olgunun başlıca sorumlusu.",
+        "Jeolojik sinyal": "SO₂ emisyonlarındaki ani artış, magmanın yükselerek yanardağın iç basıncını artırdığını gösterebilir."
+    },
+    "gasCO2Title": "🔴 CO₂ — Karbondioksit",
+    "gasCO2Subtitle": "Derinliği ortaya çıkaran sessiz gaz.",
+    "gasCO2Desc": "CO₂, su buharından sonra yanardağlar tarafından salınan ikinci en bol gazdır. Ne kokusu ne de rengi vardır — ama ağırlığı vardır. Ve bu ağırlık ölümcül olabilir.",
+    "gasCO2Points": {
+        "Köken": "Doğrudan magmadan ya da karbonat kayaçlarla etkileşimden salınır.",
+        "Davranış": "Havadan daha ağır olup vadiler ve mağaralar gibi çukurlarda birikmek eğilimindedir.",
+        "Risk": "Çevredeki oksijeni yerinden edebilir, görünmez ve ölümcül cepler oluşturabilir.",
+        "İlginç bilgi": "Patlama olmaksızın bile kaçabilir, derin ve sürekli aktivitenin sinyalini verir."
+    },
+    "gasCOTitle": "⚠️ CO — Karbonmonoksit",
+    "gasCOSubtitle": "Görünmez katil.",
+    "gasCODesc": "CO, yanardağlarda daha az bulunur ama son derece tehlikelidir. Volkanik ısı kaynaklarının yakınındaki yanmış bitki örtüsü gibi eksik yanma ortamlarında ortaya çıkar ve küçük dozlarda bile öldürücü olabilir.",
+    "gasCOPoints": {
+        "Köken": "Volkanik ısı kaynaklarına yakın organik maddenin kısmi yanmasından kaynaklanır.",
+        "Davranış": "Renksiz, kokusuz ve son derece toksik gaz. Kandaki oksijen taşınmasını engeller.",
+        "Risk": "Baş dönmesine, bayılmaya ve sessiz ölüme yol açabilir. Görünür bir işaret vermediği için 'hain gaz' olarak adlandırılır.",
+        "Uygulama": "Kraterlerde ve karbonlaşmış bitki örtüsü bölgelerinde izlenir."
+    },
+    "gasNO2Title": "🟠 NO₂ — Azot Dioksit",
+    "gasNO2Subtitle": "Atmosferik tahriş edici.",
+    "gasNO2Desc": "NO₂ yanardağlarda daha az yaygındır, ancak diğer gazları içeren atmosferik reaksiyonların yan ürünü olarak ortaya çıkabilir. Güçlü kokusu ve kırmızımsı tonu ile bilinir.",
+    "gasNO2Points": {
+        "Köken": "Yüksek sıcaklıkta volkanik gazlar ile hava arasındaki reaksiyonlarla oluşur.",
+        "Davranış": "Kırmızımsı-kahverengi renkli tahriş edici gaz, asit yağmurlarının oluşumuna katkıda bulunur.",
+        "Risk": "Solunum sistemini etkiler; özellikle çocukları, yaşlıları ve astım hastalarını.",
+        "İlginç bilgi": "Patlama buharındaki kırmızımsı tona bakarak görsel olarak tespit edilebilir."
+    }
+}

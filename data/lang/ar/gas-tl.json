@@ -1,0 +1,69 @@
+{
+    "gasIntroTitle": "Isang gabay sa mga volcanic gas",
+    "gasIntroP1": "Bago ang isang pagsabog, ang isang bulkán ay bumubulong. Ang mga sikreto nito ay hindi tumataas sa apoy, kundi sa mga gas — hindi nakikita, tahimik at nagbubunyag ng maraming bagay. Sila ang hininga ng Mundo, ang pinaka-banayad at pinakamahalang mga senyales na inaalok ng heolohiya upang maunawaan kung ano ang nangyayari sa ilalim ng ating mga paa.",
+    "gasIntroP2": "Ang mga gas na ito ay hindi lamang mga by-product ng magma. Sila ay mga mensahero mula sa ilalim ng lupa, nagdadala ng mga pahiwatig tungkol sa panloob na presyon, kemikal na komposisyon at maging ang kalagayan ng bulkán. Ang pagmamasid sa kanilang mga ugali ay parang pakikinig sa isang pag-uusap sa pagitan ng core ng Mundo at ng ibabaw nito.",
+    "birthTitle": "🔥 Paano nangungulila ang mga gas?",
+    "birthP1": "Ang mga volcanic gas ay inilalabas sa pamamagitan ng proseso na tinatawag na <b>degassing ng magma</b>. Isipin ang magma bilang isang inuming may karbonasyon sa ilalim ng napakataas na presyon, na nakaimbak sa kailaliman ng crust ng Mundo. Naglalaman ito ng mga dissolved na gas — pangunahin ang singaw ng tubig (H₂O), carbon dioxide (CO₂), sulfur dioxide (SO₂) at iba pang volatile na compound.",
+    "birthP2": "Habang ang magmang ito ay tumataas patungo sa ibabaw, ang presyong nakapaligid sa kanya ay malaki ang pagbaba. Tulad ng pagbubukas ng bote ng soda, ang mga gas ay naghihiwalay mula sa likido at tumakas pataas sa pamamagitan ng mga bitak, alitan at volcanic na konduit. Ang prosesong ito ay maaaring mangyari bago, sa panahon ng o kahit walang pagsabog, na ginagawang permanenteng kasangkapan sa pagmamatyag ang mga gas.",
+    "escapeTitle": "🌬️ Saan sila tumatakbó?",
+    "escapePoints": [
+        "<b>Fumaroles:</b> mga butas sa crust na naglalabas ng singaw at mainit na gas.",
+        "<b>Mainit na bukal:</b> tubig na pinainit ng aktibidad ng bulkán na nagdadala ng mga dissolved na gas.",
+        "<b>Solfataras:</b> mga lugar na mayaman sa asupre, na may matinding emisyon ng SO₂.",
+        "<b>Mga krater at gilid:</b> kahit walang pagsabog, maaari silang maglabas ng gas sa pamamagitan ng micro-fractures."
+    ],
+    "escapeConclusion": "Ang mga lugar na ito ay parang mga exhaust valve ng planeta — at ang bawat isa ay nagkukuwento ng isang bahagi ng kwento sa ilalim ng lupa.",
+    "signalsTitle": "🧠 Ano ang sinasabi nila sa atin?",
+    "signalsP1": "Ang komposisyon at dami ng mga gas na ito ay gumagana bilang isang <b>volcanic health bulletin</b>. Ang banayad — o biglaang — mga pagbabago ay maaaring magpahiwatig ng:",
+    "signalPoints": [
+        "Paggalaw ng magma",
+        "Pagtaas ng panloob na presyon",
+        "Pakikipag-ugnayan sa tubig sa ilalim ng lupa",
+        "Pagbabago sa uri ng inaasahang pagsabog"
+    ],
+    "signalsP2": "Halimbawa, ang biglaang pagtaas ng mga emisyon ng SO₂ (sulfur dioxide) ay isa sa pinaka-mapagkakatiwalaang senyales na ang magma ay lumalapat sa ibabaw. Ang CO₂, na mas magaan at mas marami, ay maaaring tumakas kahit walang pagsabog, nagpapakita ng malalim na aktibidad. Ang pagmamatyag ng mga gas na ito ay ginagawang konkretong pag-iwas ang siyentipikong pag-usisa. Ginagamit ng mga bulkanolohista, maagang babala at maging ng mga lokal na komunidad upang maunawaan kung ang bulkán ay tahimik, balisa o malapit nang magising.",
+    "nextTitle": "🧪 At pagkatapos?",
+    "nextP1": "Ang bawat gas ay may sariling kwento — isang pinagmulan, isang gawi, isang panganib. Sa mga susunod na bloke, tutuklasin natin ang apat na pangunahing:",
+    "gasList": [
+        "<b>SO₂:</b> ang pinaka-direktang senyales ng aktibong magma.",
+        "<b>CO₂:</b> ang tahimik na gas na maaaring mag-ipon at mabulunan.",
+        "<b>CO:</b> ang hindi nakikitang pumatay, nakalason kahit sa maliliit na dosis.",
+        "<b>NO₂:</b> ang atmospheric irritant na nag-aambag sa acid rain."
+    ],
+    "gasSO2Title": "🟡 SO₂ — Sulfur Dioxide",
+    "gasSO2Subtitle": "Ang pinaka-direktang senyales ng aktibong magma.",
+    "gasSO2Desc": "Kapag nagsimulang maglabas ang bulkán ng SO₂, parang palakas ang boses nito. Ang gas na ito ay isa sa pinaka-marami sa panahon ng mga pagsabog at ang pinaka-ginagamit ng mga bulkanolohista bilang tagapagpahiwatig ng magmatic na aktibidad.",
+    "gasSO2Points": {
+        "Pinagmulan": "Nabuo ng oksidasyon ng asupre na naroroon sa magma.",
+        "Gawi": "Walang kulay na gas na may malakas at nakakainis na amoy (tulad ng nasunog na posporo).",
+        "Epekto sa kapaligiran": "Nakikipagreaksyon sa kahalumigmigan ng hangin na bumubuo ng sulfuric acid — pangunahing responsable ng acid rain at ng penomenon na kilala bilang <b>vog</b> (volcanic smog).",
+        "Heolohikal na senyales": "Ang biglaang pagtaas ng mga emisyon ng SO₂ ay maaaring magpahiwatig na ang magma ay pataas, na pinapataas ang panloob na presyon ng bulkán."
+    },
+    "gasCO2Title": "🔴 CO₂ — Carbon Dioxide",
+    "gasCO2Subtitle": "Ang tahimik na gas na nagpapakita ng lalim.",
+    "gasCO2Desc": "Ang CO₂ ay ang pangalawang pinaka-maraming gas na inilalabas ng mga bulkán, pagkatapos ng singaw ng tubig. Wala itong amoy o kulay — ngunit mayroon itong timbang. At ang timbang na iyon ay maaaring maging nakamamatay.",
+    "gasCO2Points": {
+        "Pinagmulan": "Inilabas nang direkta mula sa magma o sa pamamagitan ng pakikipag-ugnayan sa mga carbonated na bato.",
+        "Gawi": "Mas mabigat kaysa sa hangin, may tendensiyang mag-ipon sa mga depresyon ng lupa, tulad ng mga lambak at kweba.",
+        "Panganib": "Maaaring mapalitan ang oxygen mula sa kapaligiran, bumubuo ng mga hindi nakikita at nakamamatay na bulsa.",
+        "Kawili-wiling katotohanan": "Maaaring tumakas kahit walang pagsabog, bumubuo ng senyales ng malalim at patuloy na aktibidad."
+    },
+    "gasCOTitle": "⚠️ CO — Carbon Monoxide",
+    "gasCOSubtitle": "Ang hindi nakikitang pumatay.",
+    "gasCODesc": "Ang CO ay hindi gaanong marami sa mga bulkán, ngunit napaka-mapanganib. Lumalabas ito sa mga kapaligiran ng di-kumpletong pagsusunog — tulad ng mga halaman na nasunog sa init ng bulkán — at maaaring maging fatal kahit sa maliliit na dosis.",
+    "gasCOPoints": {
+        "Pinagmulan": "Resulta ng partial combustion ng organic matter malapit sa mga mapagkukunan ng volcanic heat.",
+        "Gawi": "Walang kulay, walang amoy at napaka-nakakalason na gas. Pinipigilan ang transportasyon ng oxygen sa dugo.",
+        "Panganib": "Maaaring magdulot ng pagkahilo, pagkawala ng malay at tahimik na kamatayan. Tinatawag na 'taksil na gas' dahil walang ibinibigay na nakikitang senyales.",
+        "Aplikasyon": "Sinusubaybayan sa mga krater at mga lugar na may nasusunog na halaman."
+    },
+    "gasNO2Title": "🟠 NO₂ — Nitrogen Dioxide",
+    "gasNO2Subtitle": "Ang atmospheric irritant.",
+    "gasNO2Desc": "Ang NO₂ ay hindi gaanong karaniwan sa mga bulkán, ngunit maaaring lumabas bilang by-product ng mga atmospheric na reaksyon na kinasasangkutan ng iba pang gas. Kilala ito sa malakas na amoy at mapulang tono nito.",
+    "gasNO2Points": {
+        "Pinagmulan": "Nabuo mula sa mga reaksyon sa pagitan ng mga volcanic gas at hangin sa mataas na temperatura.",
+        "Gawi": "Nakakainis na gas na may pula-kayumangging kulay, nag-aambag sa pagbuo ng acid rain.",
+        "Panganib": "Nakakaapekto sa respiratory system, lalo na sa mga bata, matatanda at asthmatic.",
+        "Kawili-wiling katotohanan": "Maaaring matukoy nang biswal sa panahon ng mga pagsabog sa pamamagitan ng mapulang tono sa singaw."
+    }
+}
